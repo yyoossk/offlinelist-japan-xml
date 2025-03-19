@@ -1,0 +1,2189 @@
+﻿<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<dat xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="datas.xsd">
+	<configuration>
+		<datName>Sony PSN Collection 日本語版</datName>
+		<imFolder>ADVANsCEne Sony PSN Collection</imFolder>
+		<datVersion>0020</datVersion>
+		<system>Sony PSN</system>
+		<screenshotsWidth>320</screenshotsWidth>
+		<screenshotsHeight>181</screenshotsHeight>
+		<infos>
+			<title visible="false" inNamingOption="true" default="false" />
+			<location visible="false" inNamingOption="true" default="false" />
+			<sourceRom visible="true" inNamingOption="true" default="true" />
+			<publisher visible="true" inNamingOption="true" default="true" />
+			<saveType visible="true" inNamingOption="true" default="true" />
+			<romSize visible="true" inNamingOption="true" default="true" />
+			<releaseNumber visible="true" inNamingOption="true" default="false" />
+			<languageNumber visible="true" inNamingOption="true" default="false" />
+			<comment visible="true" inNamingOption="true" default="true" />
+			<romCRC visible="true" inNamingOption="true" default="true" />
+			<im1CRC visible="true" inNamingOption="false" default="false" />
+			<im2CRC visible="true" inNamingOption="false" default="false" />
+			<languages visible="false" inNamingOption="true" default="true" />
+		</infos>
+		<canOpen>
+			<extension>.iso</extension>
+		</canOpen>
+		<newDat>
+			<datVersionURL>http://psnj.web.fc2.com/psnj/ver.txt</datVersionURL>
+			<datURL fileName="PSN_JPN.zip">http://psnj.web.fc2.com/psnj/psn_jpn.zip</datURL>
+			<imURL>http://www.advanscene.com/offline/imgs/ADVANsCEne_PSN/</imURL>
+		</newDat>
+		<search>
+			<to value="sourceRom" default="true" auto="true" />
+			<to value="publisher" default="true" auto="true" />
+		</search>
+		<romTitle>%u - %n</romTitle>
+	</configuration>
+	<games>
+		<game>
+			<imageNumber>8</imageNumber>
+			<releaseNumber>8</releaseNumber>
+			<title>昇天ビート</title>
+			<saveType>TBC</saveType>
+			<romSize>349503488</romSize>
+			<publisher>(株)ソニー・コンピュータエンタテインメント</publisher>
+			<location>7</location>
+			<sourceRom>Caravan</sourceRom>
+			<language>256</language>
+			<files>
+				<romCRC extension=".iso">BD9F426C</romCRC>
+			</files>
+			<im1CRC>5D28CC75</im1CRC>
+			<im2CRC>0F4AF145</im2CRC>
+			<comment>リズムアクション</comment>
+			<duplicateID>1</duplicateID>
+		</game>
+		<game>
+			<imageNumber>13</imageNumber>
+			<releaseNumber>13</releaseNumber>
+			<title>クルトン</title>
+			<saveType>TBC</saveType>
+			<romSize>139722752</romSize>
+			<publisher>(株)ソニー・コンピュータエンタテインメント</publisher>
+			<location>7</location>
+			<sourceRom>Googlecus</sourceRom>
+			<language>256</language>
+			<files>
+				<romCRC extension=".iso">1087167F</romCRC>
+			</files>
+			<im1CRC>5C31DDF9</im1CRC>
+			<im2CRC>3A4F0136</im2CRC>
+			<comment>アクションパズル</comment>
+			<duplicateID>5</duplicateID>
+		</game>
+		<game>
+			<imageNumber>14</imageNumber>
+			<releaseNumber>14</releaseNumber>
+			<title>Everyday Shooter</title>
+			<saveType>TBC</saveType>
+			<romSize>168460288</romSize>
+			<publisher>(株)ソニー・コンピュータエンタテインメント</publisher>
+			<location>7</location>
+			<sourceRom>Independent</sourceRom>
+			<language>256</language>
+			<files>
+				<romCRC extension=".iso">5813E42C</romCRC>
+			</files>
+			<im1CRC>B5F2690A</im1CRC>
+			<im2CRC>640BEA5C</im2CRC>
+			<comment>アブストラクトシューティング</comment>
+			<duplicateID>4</duplicateID>
+		</game>
+		<game>
+			<imageNumber>71</imageNumber>
+			<releaseNumber>71</releaseNumber>
+			<title>ディスガイア インフィニット</title>
+			<saveType>TBC</saveType>
+			<romSize>254050304</romSize>
+			<publisher>(株)日本一ソフトウェア</publisher>
+			<location>7</location>
+			<sourceRom>NRP</sourceRom>
+			<language>256</language>
+			<files>
+				<romCRC extension=".iso">3BCE8813</romCRC>
+			</files>
+			<im1CRC>6F74C2AF</im1CRC>
+			<im2CRC>6CAFC5F8</im2CRC>
+			<comment>アドベンチャー</comment>
+			<duplicateID>0</duplicateID>
+		</game>
+		<game>
+			<imageNumber>104</imageNumber>
+			<releaseNumber>104</releaseNumber>
+			<title>ファンタシースターポータブル2</title>
+			<saveType>TBC</saveType>
+			<romSize>1696366592</romSize>
+			<publisher>(株)セガ</publisher>
+			<location>7</location>
+			<sourceRom>NRP</sourceRom>
+			<language>256</language>
+			<files>
+				<romCRC extension=".iso">5416334C</romCRC>
+			</files>
+			<im1CRC>7D4A2E7D</im1CRC>
+			<im2CRC>166571FB</im2CRC>
+			<comment>RPG</comment>
+			<duplicateID>0</duplicateID>
+		</game>
+		<game>
+			<imageNumber>113</imageNumber>
+			<releaseNumber>113</releaseNumber>
+			<title>奈落の城PORTABLE 一柳和、2度目の受難</title>
+			<saveType>TBC</saveType>
+			<romSize>741638144</romSize>
+			<publisher>(株)日本一ソフトウェア</publisher>
+			<location>7</location>
+			<sourceRom>NRP</sourceRom>
+			<language>256</language>
+			<files>
+				<romCRC extension=".iso">0E84FFC2</romCRC>
+			</files>
+			<im1CRC>02C5FF6C</im1CRC>
+			<im2CRC>9DCC147C</im2CRC>
+			<comment>本格推理アドベンチャー</comment>
+			<duplicateID>0</duplicateID>
+		</game>
+		<game>
+			<imageNumber>114</imageNumber>
+			<releaseNumber>114</releaseNumber>
+			<title>TETRIS</title>
+			<saveType>TBC</saveType>
+			<romSize>160006144</romSize>
+			<publisher>エレクトロニック・アーツ(株)</publisher>
+			<location>7</location>
+			<sourceRom>NRP</sourceRom>
+			<language>258</language>
+			<files>
+				<romCRC extension=".iso">204ABAB0</romCRC>
+			</files>
+			<im1CRC>EE1F16B8</im1CRC>
+			<im2CRC>35EC7BA5</im2CRC>
+			<comment>パズル</comment>
+			<duplicateID>6</duplicateID>
+		</game>
+		<game>
+			<imageNumber>115</imageNumber>
+			<releaseNumber>115</releaseNumber>
+			<title>みんなで読書 源氏物語+ちょっとだけ文学</title>
+			<saveType>TBC</saveType>
+			<romSize>166232064</romSize>
+			<publisher>(株)ドラス</publisher>
+			<location>7</location>
+			<sourceRom>NRP</sourceRom>
+			<language>256</language>
+			<files>
+				<romCRC extension=".iso">F8D4D23A</romCRC>
+			</files>
+			<im1CRC>F1E2CA9F</im1CRC>
+			<im2CRC>CC4F41FD</im2CRC>
+			<comment>その他</comment>
+			<duplicateID>0</duplicateID>
+		</game>
+		<game>
+			<imageNumber>116</imageNumber>
+			<releaseNumber>116</releaseNumber>
+			<title>みんなで読書 捕物帳 半七＆右門＆安吾＆顎十郎＆旗本退屈男</title>
+			<saveType>TBC</saveType>
+			<romSize>171474944</romSize>
+			<publisher>(株)ドラス</publisher>
+			<location>7</location>
+			<sourceRom>NRP</sourceRom>
+			<language>256</language>
+			<files>
+				<romCRC extension=".iso">9BC4EA80</romCRC>
+			</files>
+			<im1CRC>AC01BA6F</im1CRC>
+			<im2CRC>338E74A2</im2CRC>
+			<comment>読書</comment>
+			<duplicateID>0</duplicateID>
+		</game>
+		<game>
+			<imageNumber>131</imageNumber>
+			<releaseNumber>131</releaseNumber>
+			<title>THEXDER NEO</title>
+			<saveType>TBC</saveType>
+			<romSize>168787968</romSize>
+			<publisher>(株)スクウェア・エニックス</publisher>
+			<location>7</location>
+			<sourceRom>NRP</sourceRom>
+			<language>256</language>
+			<files>
+				<romCRC extension=".iso">55B4C0D8</romCRC>
+			</files>
+			<im1CRC>FC510DD4</im1CRC>
+			<im2CRC>FBF55CDC</im2CRC>
+			<comment>シューティング</comment>
+			<duplicateID>10</duplicateID>
+		</game>
+		<game>
+			<imageNumber>133</imageNumber>
+			<releaseNumber>133</releaseNumber>
+			<title>CRYSTAL DEFENDERS</title>
+			<saveType>TBC</saveType>
+			<romSize>122519552</romSize>
+			<publisher>(株)スクウェア・エニックス</publisher>
+			<location>7</location>
+			<sourceRom>NRP</sourceRom>
+			<language>258</language>
+			<files>
+				<romCRC extension=".iso">A30858BD</romCRC>
+			</files>
+			<im1CRC>FA8758C2</im1CRC>
+			<im2CRC>3ABC25EE</im2CRC>
+			<comment>ディフェンス・シミュレーション</comment>
+			<duplicateID>18</duplicateID>
+		</game>
+		<game>
+			<imageNumber>135</imageNumber>
+			<releaseNumber>135</releaseNumber>
+			<title>エレメンタルモンスターTD ポータブル</title>
+			<saveType>TBC</saveType>
+			<romSize>184025088</romSize>
+			<publisher>(株)ハドソン</publisher>
+			<location>7</location>
+			<sourceRom>NRP</sourceRom>
+			<language>258</language>
+			<files>
+				<romCRC extension=".iso">DAE77ABF</romCRC>
+			</files>
+			<im1CRC>D382A29F</im1CRC>
+			<im2CRC>80D74C77</im2CRC>
+			<comment>タワーディフェンス</comment>
+			<duplicateID>40</duplicateID>
+		</game>
+		<game>
+			<imageNumber>140</imageNumber>
+			<releaseNumber>140</releaseNumber>
+			<title>PixelJunk モンスターズ デラックス</title>
+			<saveType>TBC</saveType>
+			<romSize>220626944</romSize>
+			<publisher>(有)キュー・ゲームス</publisher>
+			<location>7</location>
+			<sourceRom>NRP</sourceRom>
+			<language>258</language>
+			<files>
+				<romCRC extension=".iso">B870487E</romCRC>
+			</files>
+			<im1CRC>C73699A0</im1CRC>
+			<im2CRC>CAB1972C</im2CRC>
+			<comment>パズルシミュレーション</comment>
+			<duplicateID>21</duplicateID>
+		</game>
+		<game>
+			<imageNumber>158</imageNumber>
+			<releaseNumber>158</releaseNumber>
+			<title>ブレインチャレンジ</title>
+			<saveType>TBC</saveType>
+			<romSize>205651968</romSize>
+			<publisher>ゲームロフト(株)</publisher>
+			<location>7</location>
+			<sourceRom>NRP</sourceRom>
+			<language>256</language>
+			<files>
+				<romCRC extension=".iso">F912B29A</romCRC>
+			</files>
+			<im1CRC>78456C9E</im1CRC>
+			<im2CRC>3295E432</im2CRC>
+			<comment>脳トレ</comment>
+			<duplicateID>49</duplicateID>
+		</game>
+		<game>
+			<imageNumber>159</imageNumber>
+			<releaseNumber>159</releaseNumber>
+			<title>クラシックダンジョン ～扶翼の魔装陣～</title>
+			<saveType>TBC</saveType>
+			<romSize>294879232</romSize>
+			<publisher>(株)日本一ソフトウェア</publisher>
+			<location>7</location>
+			<sourceRom>NRP</sourceRom>
+			<language>256</language>
+			<files>
+				<romCRC extension=".iso">9BB8D375</romCRC>
+			</files>
+			<im1CRC>555D2F07</im1CRC>
+			<im2CRC>CCC970B4</im2CRC>
+			<comment>アクションRPG</comment>
+			<duplicateID>0</duplicateID>
+		</game>
+		<game>
+			<imageNumber>160</imageNumber>
+			<releaseNumber>160</releaseNumber>
+			<title>-どこでもいっしょ- レッツ学校！トレーニング編</title>
+			<saveType>TBC</saveType>
+			<romSize>170819584</romSize>
+			<publisher>(株)ソニー・コンピュータエンタテインメント</publisher>
+			<location>7</location>
+			<sourceRom>NRP</sourceRom>
+			<language>256</language>
+			<files>
+				<romCRC extension=".iso">E336CBC9</romCRC>
+			</files>
+			<im1CRC>E5AD40DD</im1CRC>
+			<im2CRC>42A013AE</im2CRC>
+			<comment>頭の体操</comment>
+			<duplicateID>0</duplicateID>
+		</game>
+		<game>
+			<imageNumber>161</imageNumber>
+			<releaseNumber>161</releaseNumber>
+			<title>フラッシュモーター・カレン</title>
+			<saveType>TBC</saveType>
+			<romSize>593002496</romSize>
+			<publisher>(株)ホープムーン</publisher>
+			<location>7</location>
+			<sourceRom>NRP</sourceRom>
+			<language>256</language>
+			<files>
+				<romCRC extension=".iso">70F6A67D</romCRC>
+			</files>
+			<im1CRC>E5AD40DD</im1CRC>
+			<im2CRC>32CB7039</im2CRC>
+			<comment>パズル＆アドベンチャー</comment>
+			<duplicateID>0</duplicateID>
+		</game>
+		<game>
+			<imageNumber>162</imageNumber>
+			<releaseNumber>162</releaseNumber>
+			<title>flOw</title>
+			<saveType>TBC</saveType>
+			<romSize>138706944</romSize>
+			<publisher>(株)ソニー・コンピュータエンタテインメント</publisher>
+			<location>7</location>
+			<sourceRom>NRP</sourceRom>
+			<language>256</language>
+			<files>
+				<romCRC extension=".iso">575FC67A</romCRC>
+			</files>
+			<im1CRC>4734D4E2</im1CRC>
+			<im2CRC>9A5E3ABD</im2CRC>
+			<comment>Zen</comment>
+			<duplicateID>48</duplicateID>
+		</game>
+		<game>
+			<imageNumber>163</imageNumber>
+			<releaseNumber>163</releaseNumber>
+			<title>ヒーローオブスパルタ</title>
+			<saveType>TBC</saveType>
+			<romSize>181600256</romSize>
+			<publisher>ゲームロフト(株)</publisher>
+			<location>7</location>
+			<sourceRom>NRP</sourceRom>
+			<language>256</language>
+			<files>
+				<romCRC extension=".iso">626B2E08</romCRC>
+			</files>
+			<im1CRC>70FF3B4C</im1CRC>
+			<im2CRC>2FFA511B</im2CRC>
+			<comment>アクションアドベンチャー</comment>
+			<duplicateID>12</duplicateID>
+		</game>
+		<game>
+			<imageNumber>164</imageNumber>
+			<releaseNumber>164</releaseNumber>
+			<title>KURULIN FUSION</title>
+			<saveType>TBC</saveType>
+			<romSize>137068544</romSize>
+			<publisher>エム・ティー・オー(株)</publisher>
+			<location>7</location>
+			<sourceRom>NRP</sourceRom>
+			<language>258</language>
+			<files>
+				<romCRC extension=".iso">3780BC97</romCRC>
+			</files>
+			<im1CRC>70FF3B4C</im1CRC>
+			<im2CRC>58E371BC</im2CRC>
+			<comment>アクションパズル</comment>
+			<duplicateID>45</duplicateID>
+		</game>
+		<game>
+			<imageNumber>165</imageNumber>
+			<releaseNumber>165</releaseNumber>
+			<title>STAR STRIKE PORTABLE</title>
+			<saveType>TBC</saveType>
+			<romSize>196476928</romSize>
+			<publisher>(株)ソニー・コンピュータエンタテインメント</publisher>
+			<location>7</location>
+			<sourceRom>NRP</sourceRom>
+			<language>256</language>
+			<files>
+				<romCRC extension=".iso">6D48AC10</romCRC>
+			</files>
+			<im1CRC>E5AD40DD</im1CRC>
+			<im2CRC>991DAE39</im2CRC>
+			<comment>シューティング</comment>
+			<duplicateID>3</duplicateID>
+		</game>
+		<game>
+			<imageNumber>166</imageNumber>
+			<releaseNumber>166</releaseNumber>
+			<title>対戦リバーシ</title>
+			<saveType>TBC</saveType>
+			<romSize>115277824</romSize>
+			<publisher>(株)ベストメディア</publisher>
+			<location>7</location>
+			<sourceRom>NRP</sourceRom>
+			<language>256</language>
+			<files>
+				<romCRC extension=".iso">6C0A8B27</romCRC>
+			</files>
+			<im1CRC>70FF3B4C</im1CRC>
+			<im2CRC>52ED4931</im2CRC>
+			<comment>テーブルゲーム</comment>
+			<duplicateID>0</duplicateID>
+		</game>
+		<game>
+			<imageNumber>167</imageNumber>
+			<releaseNumber>167</releaseNumber>
+			<title>レッツ！ゴルフ</title>
+			<saveType>-</saveType>
+			<romSize>205848576</romSize>
+			<publisher>ゲームロフト(株)</publisher>
+			<location>7</location>
+			<sourceRom>NRP</sourceRom>
+			<language>256</language>
+			<files>
+				<romCRC extension=".iso">1AD7B8F0</romCRC>
+			</files>
+			<im1CRC>70FF3B4C</im1CRC>
+			<im2CRC>1B51351C</im2CRC>
+			<comment>スポーツ</comment>
+			<duplicateID>32</duplicateID>
+		</game>
+		<game>
+			<imageNumber>168</imageNumber>
+			<releaseNumber>168</releaseNumber>
+			<title>GTI Club ワールド シティ レース</title>
+			<saveType>-</saveType>
+			<romSize>300908544</romSize>
+			<publisher>(株)コナミデジタルエンタテインメント</publisher>
+			<location>7</location>
+			<sourceRom>NRP</sourceRom>
+			<language>256</language>
+			<files>
+				<romCRC extension=".iso">C0A995C5</romCRC>
+			</files>
+			<im1CRC>419F869B</im1CRC>
+			<im2CRC>3EAA4B7D</im2CRC>
+			<comment>バラエティレースゲーム</comment>
+			<duplicateID>53</duplicateID>
+		</game>
+		<game>
+			<imageNumber>178</imageNumber>
+			<releaseNumber>178</releaseNumber>
+			<title>乃木坂春香の秘密 同人誌はじめました 第01巻</title>
+			<saveType>-</saveType>
+			<romSize>251428864</romSize>
+			<publisher>(株)アスキー・メディアワークス</publisher>
+			<location>7</location>
+			<sourceRom>NRP</sourceRom>
+			<language>256</language>
+			<files>
+				<romCRC extension=".iso">13EAE03E</romCRC>
+			</files>
+			<im1CRC>E5AD40DD</im1CRC>
+			<im2CRC>623044DF</im2CRC>
+			<comment>アドベンチャー</comment>
+			<duplicateID>0</duplicateID>
+		</game>
+		<game>
+			<imageNumber>179</imageNumber>
+			<releaseNumber>179</releaseNumber>
+			<title>乃木坂春香の秘密 同人誌はじめました 第02巻</title>
+			<saveType>-</saveType>
+			<romSize>258277376</romSize>
+			<publisher>(株)アスキー・メディアワークス</publisher>
+			<location>7</location>
+			<sourceRom>NRP</sourceRom>
+			<language>256</language>
+			<files>
+				<romCRC extension=".iso">5EA4AF8E</romCRC>
+			</files>
+			<im1CRC>E5AD40DD</im1CRC>
+			<im2CRC>1A8B3DEB</im2CRC>
+			<comment>アドベンチャー</comment>
+			<duplicateID>0</duplicateID>
+		</game>
+		<game>
+			<imageNumber>180</imageNumber>
+			<releaseNumber>180</releaseNumber>
+			<title>乃木坂春香の秘密 同人誌はじめました 第03巻</title>
+			<saveType>-</saveType>
+			<romSize>253853696</romSize>
+			<publisher>(株)アスキー・メディアワークス</publisher>
+			<location>7</location>
+			<sourceRom>NRP</sourceRom>
+			<language>256</language>
+			<files>
+				<romCRC extension=".iso">21C9B57C</romCRC>
+			</files>
+			<im1CRC>E5AD40DD</im1CRC>
+			<im2CRC>28451C90</im2CRC>
+			<comment>アドベンチャー</comment>
+			<duplicateID>0</duplicateID>
+		</game>
+		<game>
+			<imageNumber>181</imageNumber>
+			<releaseNumber>181</releaseNumber>
+			<title>乃木坂春香の秘密 同人誌はじめました 第04巻</title>
+			<saveType>-</saveType>
+			<romSize>244350976</romSize>
+			<publisher>(株)アスキー・メディアワークス</publisher>
+			<location>7</location>
+			<sourceRom>NRP</sourceRom>
+			<language>256</language>
+			<files>
+				<romCRC extension=".iso">760FE45E</romCRC>
+			</files>
+			<im1CRC>E5AD40DD</im1CRC>
+			<im2CRC>C45A840E</im2CRC>
+			<comment>アドベンチャー</comment>
+			<duplicateID>0</duplicateID>
+		</game>
+		<game>
+			<imageNumber>182</imageNumber>
+			<releaseNumber>182</releaseNumber>
+			<title>乃木坂春香の秘密 同人誌はじめました 第05巻</title>
+			<saveType>-</saveType>
+			<romSize>252411904</romSize>
+			<publisher>(株)アスキー・メディアワークス</publisher>
+			<location>7</location>
+			<sourceRom>NRP</sourceRom>
+			<language>256</language>
+			<files>
+				<romCRC extension=".iso">A6826758</romCRC>
+			</files>
+			<im1CRC>E5AD40DD</im1CRC>
+			<im2CRC>7E7F8CFA</im2CRC>
+			<comment>アドベンチャー</comment>
+			<duplicateID>0</duplicateID>
+		</game>
+		<game>
+			<imageNumber>189</imageNumber>
+			<releaseNumber>189</releaseNumber>
+			<title>ぽっちゃり☆プリンセス ポータブル</title>
+			<saveType>TBC</saveType>
+			<romSize>257261568</romSize>
+			<publisher>(株)ソニー・コンピュータエンタテインメント</publisher>
+			<location>7</location>
+			<sourceRom>NRP</sourceRom>
+			<language>256</language>
+			<files>
+				<romCRC extension=".iso">F00D509D</romCRC>
+			</files>
+			<im1CRC>E5AD40DD</im1CRC>
+			<im2CRC>B364F16F</im2CRC>
+			<comment>チームアクションストラテジー</comment>
+			<duplicateID>0</duplicateID>
+		</game>
+		<game>
+			<imageNumber>204</imageNumber>
+			<releaseNumber>204</releaseNumber>
+			<title>初音ミク -Project DIVA- 追加楽曲集デラックスパック1 『ミクうた、おかわり』</title>
+			<saveType>TBC</saveType>
+			<romSize>498040832</romSize>
+			<publisher>(株)セガ</publisher>
+			<location>7</location>
+			<sourceRom>NRP</sourceRom>
+			<language>256</language>
+			<files>
+				<romCRC extension=".iso">85F78025</romCRC>
+			</files>
+			<im1CRC>1F7C7283</im1CRC>
+			<im2CRC>F342E0BA</im2CRC>
+			<comment>リズムアクション</comment>
+			<duplicateID>0</duplicateID>
+		</game>
+		<game>
+			<imageNumber>208</imageNumber>
+			<releaseNumber>208</releaseNumber>
+			<title>進め！守れ！戦え！</title>
+			<saveType>TBC</saveType>
+			<romSize>131923968</romSize>
+			<publisher>(株)リズ</publisher>
+			<location>7</location>
+			<sourceRom>HR</sourceRom>
+			<language>256</language>
+			<files>
+				<romCRC extension=".iso">1F1F0E5B</romCRC>
+			</files>
+			<im1CRC>E5AD40DD</im1CRC>
+			<im2CRC>DA5AC3E0</im2CRC>
+			<comment>ストラテジックシューティング</comment>
+			<duplicateID>0</duplicateID>
+		</game>
+		<game>
+			<imageNumber>214</imageNumber>
+			<releaseNumber>214</releaseNumber>
+			<title>メイクドラマベースボール</title>
+			<saveType>TBC</saveType>
+			<romSize>130809856</romSize>
+			<publisher>(株)ソニー・コンピュータエンタテインメント</publisher>
+			<location>7</location>
+			<sourceRom>NRP</sourceRom>
+			<language>256</language>
+			<files>
+				<romCRC extension=".iso">DBA0F9EB</romCRC>
+			</files>
+			<im1CRC>E5AD40DD</im1CRC>
+			<im2CRC>8B6B16B9</im2CRC>
+			<comment>ドラマチックスポーツゲーム</comment>
+			<duplicateID>65</duplicateID>
+		</game>
+		<game>
+			<imageNumber>215</imageNumber>
+			<releaseNumber>215</releaseNumber>
+			<title>突撃！戦車隊！</title>
+			<saveType>TBC</saveType>
+			<romSize>134217728</romSize>
+			<publisher>(株)ソニー・コンピュータエンタテインメント</publisher>
+			<location>7</location>
+			<sourceRom>NRP</sourceRom>
+			<language>256</language>
+			<files>
+				<romCRC extension=".iso">D5933585</romCRC>
+			</files>
+			<im1CRC>E5AD40DD</im1CRC>
+			<im2CRC>F2CE1692</im2CRC>
+			<comment>ミリタリーシューティングゲーム</comment>
+			<duplicateID>64</duplicateID>
+		</game>
+		<game>
+			<imageNumber>216</imageNumber>
+			<releaseNumber>216</releaseNumber>
+			<title>将棋</title>
+			<saveType>TBC</saveType>
+			<romSize>138805248</romSize>
+			<publisher>(株)ソニー・コンピュータエンタテインメント</publisher>
+			<location>7</location>
+			<sourceRom>NRP</sourceRom>
+			<language>256</language>
+			<files>
+				<romCRC extension=".iso">03B6E0E2</romCRC>
+			</files>
+			<im1CRC>E5AD40DD</im1CRC>
+			<im2CRC>D86AFFE9</im2CRC>
+			<comment>テーブルゲーム</comment>
+			<duplicateID>66</duplicateID>
+		</game>
+		<game>
+			<imageNumber>217</imageNumber>
+			<releaseNumber>217</releaseNumber>
+			<title>とんずらっこ</title>
+			<saveType>TBC</saveType>
+			<romSize>128548864</romSize>
+			<publisher>(株)ソニー・コンピュータエンタテインメント</publisher>
+			<location>7</location>
+			<sourceRom>NRP</sourceRom>
+			<language>256</language>
+			<files>
+				<romCRC extension=".iso">B8B416CB</romCRC>
+			</files>
+			<im1CRC>E5AD40DD</im1CRC>
+			<im2CRC>774D21A6</im2CRC>
+			<comment>スイムアクションゲーム</comment>
+			<duplicateID>62</duplicateID>
+		</game>
+		<game>
+			<imageNumber>287</imageNumber>
+			<releaseNumber>287</releaseNumber>
+			<title>LocoRoco -Midnight Carnival-</title>
+			<saveType>TBC</saveType>
+			<romSize>296157184</romSize>
+			<publisher>(株)ソニー・コンピュータエンタテインメント</publisher>
+			<location>7</location>
+			<sourceRom>ABSTRAKT</sourceRom>
+			<language>256</language>
+			<files>
+				<romCRC extension=".iso">4F5D02A8</romCRC>
+			</files>
+			<im1CRC>9825E3EC</im1CRC>
+			<im2CRC>7D4F277B</im2CRC>
+			<comment>アクション</comment>
+			<duplicateID>74</duplicateID>
+		</game>
+		<game>
+			<imageNumber>307</imageNumber>
+			<releaseNumber>307</releaseNumber>
+			<title>バクマツ☆維新伝</title>
+			<saveType>TBC</saveType>
+			<romSize>147161088</romSize>
+			<publisher>(株)アクワイア</publisher>
+			<location>7</location>
+			<sourceRom>Independent</sourceRom>
+			<language>256</language>
+			<files>
+				<romCRC extension=".iso">605A3C99</romCRC>
+			</files>
+			<im1CRC>00CC2CA5</im1CRC>
+			<im2CRC>4D9BB241</im2CRC>
+			<comment>ローグライクRPG</comment>
+			<duplicateID>0</duplicateID>
+		</game>
+		<game>
+			<imageNumber>340</imageNumber>
+			<releaseNumber>340</releaseNumber>
+			<title>対戦銀ダンシューティング</title>
+			<saveType>TBC</saveType>
+			<romSize>114851840</romSize>
+			<publisher>(株)ベストメディア</publisher>
+			<location>7</location>
+			<sourceRom>HR</sourceRom>
+			<language>256</language>
+			<files>
+				<romCRC extension=".iso">858A7BE0</romCRC>
+			</files>
+			<im1CRC>BEB66037</im1CRC>
+			<im2CRC>3477BF3E</im2CRC>
+			<comment>シューティング</comment>
+			<duplicateID>0</duplicateID>
+		</game>
+		<game>
+			<imageNumber>348</imageNumber>
+			<releaseNumber>348</releaseNumber>
+			<title>DISSIDIA 012 prologus FINAL FANTASY</title>
+			<saveType>TBC</saveType>
+			<romSize>538247168</romSize>
+			<publisher>(株)スクウェア・エニックス</publisher>
+			<location>7</location>
+			<sourceRom>NRP</sourceRom>
+			<language>256</language>
+			<files>
+				<romCRC extension=".iso">E7B49C28</romCRC>
+			</files>
+			<im1CRC>69DF673F</im1CRC>
+			<im2CRC>9FA6FA9A</im2CRC>
+			<comment>ドラマチック プログレッシブ アクション</comment>
+			<duplicateID>0</duplicateID>
+		</game>
+		<game>
+			<imageNumber>366</imageNumber>
+			<releaseNumber>366</releaseNumber>
+			<title>美人時計ポータブル</title>
+			<saveType>TBC</saveType>
+			<romSize>375783424</romSize>
+			<publisher>ヒューネックス(株)</publisher>
+			<location>7</location>
+			<sourceRom>NRP</sourceRom>
+			<language>256</language>
+			<files>
+				<romCRC extension=".iso">29D0DD28</romCRC>
+			</files>
+			<im1CRC>C12AB909</im1CRC>
+			<im2CRC>C910EA06</im2CRC>
+			<comment>ライフツール／1分間で恋する時計</comment>
+			<duplicateID>0</duplicateID>
+		</game>
+		<game>
+			<imageNumber>368</imageNumber>
+			<releaseNumber>368</releaseNumber>
+			<title>DOT DEFENSE</title>
+			<saveType>TBC</saveType>
+			<romSize>114655232</romSize>
+			<publisher>(株)システムプリズマ</publisher>
+			<location>7</location>
+			<sourceRom>NRP</sourceRom>
+			<language>256</language>
+			<files>
+				<romCRC extension=".iso">A58CE107</romCRC>
+			</files>
+			<im1CRC>CEF1462A</im1CRC>
+			<im2CRC>B87CB763</im2CRC>
+			<comment>タワーディフェンスゲーム</comment>
+			<duplicateID>0</duplicateID>
+		</game>
+		<game>
+			<imageNumber>369</imageNumber>
+			<releaseNumber>369</releaseNumber>
+			<title>アースセイバーPlus 隕石爆破大作戦</title>
+			<saveType>TBC</saveType>
+			<romSize>122552320</romSize>
+			<publisher>(株)トムクリエイト</publisher>
+			<location>7</location>
+			<sourceRom>NRP</sourceRom>
+			<language>256</language>
+			<files>
+				<romCRC extension=".iso">1ECCE049</romCRC>
+			</files>
+			<im1CRC>493CA73B</im1CRC>
+			<im2CRC>59C627BF</im2CRC>
+			<comment>クライシスアクション</comment>
+			<duplicateID>0</duplicateID>
+		</game>
+		<game>
+			<imageNumber>450</imageNumber>
+			<releaseNumber>450</releaseNumber>
+			<title>初音ミク -Project DIVA- ドリーミーシアター</title>
+			<saveType>TBC</saveType>
+			<romSize>131366912</romSize>
+			<publisher>(株)セガ</publisher>
+			<location>7</location>
+			<sourceRom>PLAYASiA</sourceRom>
+			<language>256</language>
+			<files>
+				<romCRC extension=".iso">27F2479A</romCRC>
+			</files>
+			<im1CRC>94A9FFAE</im1CRC>
+			<im2CRC>8F5F864C</im2CRC>
+			<comment>リズムアクション</comment>
+			<duplicateID>0</duplicateID>
+		</game>
+		<game>
+			<imageNumber>451</imageNumber>
+			<releaseNumber>451</releaseNumber>
+			<title>ASO Ⅱ</title>
+			<saveType>TBC</saveType>
+			<romSize>130252800</romSize>
+			<publisher>(株)SNKプレイモア</publisher>
+			<location>7</location>
+			<sourceRom>High Road</sourceRom>
+			<language>256</language>
+			<files>
+				<romCRC extension=".iso">C5017DA8</romCRC>
+			</files>
+			<im1CRC>573928E7</im1CRC>
+			<im2CRC>1549E19B</im2CRC>
+			<comment>シューティング</comment>
+			<duplicateID>124</duplicateID>
+		</game>
+		<game>
+			<imageNumber>452</imageNumber>
+			<releaseNumber>452</releaseNumber>
+			<title>ボールペン工場2</title>
+			<saveType>TBC</saveType>
+			<romSize>122683392</romSize>
+			<publisher>(株)ソニー・コンピュータエンタテインメント</publisher>
+			<location>7</location>
+			<sourceRom>High Road</sourceRom>
+			<language>256</language>
+			<files>
+				<romCRC extension=".iso">EBE4D435</romCRC>
+			</files>
+			<im1CRC>4294F377</im1CRC>
+			<im2CRC>50DB0457</im2CRC>
+			<comment>アクション</comment>
+			<duplicateID>0</duplicateID>
+		</game>
+		<game>
+			<imageNumber>453</imageNumber>
+			<releaseNumber>453</releaseNumber>
+			<title>ベースボールスターズ</title>
+			<saveType>TBC</saveType>
+			<romSize>130744320</romSize>
+			<publisher>(株)SNKプレイモア</publisher>
+			<location>7</location>
+			<sourceRom>High Road</sourceRom>
+			<language>256</language>
+			<files>
+				<romCRC extension=".iso">829CCEFB</romCRC>
+			</files>
+			<im1CRC>48644E00</im1CRC>
+			<im2CRC>894604A0</im2CRC>
+			<comment>スポーツ</comment>
+			<duplicateID>125</duplicateID>
+		</game>
+		<game>
+			<imageNumber>454</imageNumber>
+			<releaseNumber>454</releaseNumber>
+			<title>バトルピンボール</title>
+			<saveType>TBC</saveType>
+			<romSize>134774784</romSize>
+			<publisher>(株)ソニー・コンピュータエンタテインメント</publisher>
+			<location>7</location>
+			<sourceRom>High Road</sourceRom>
+			<language>256</language>
+			<files>
+				<romCRC extension=".iso">A4906490</romCRC>
+			</files>
+			<im1CRC>B39D9A77</im1CRC>
+			<im2CRC>DDD7FF41</im2CRC>
+			<comment>フリッピングアクション</comment>
+			<duplicateID>126</duplicateID>
+		</game>
+		<game>
+			<imageNumber>455</imageNumber>
+			<releaseNumber>455</releaseNumber>
+			<title>無事ロックフェスティバル</title>
+			<saveType>TBC</saveType>
+			<romSize>123011072</romSize>
+			<publisher>(株)ソニー・コンピュータエンタテインメント</publisher>
+			<location>7</location>
+			<sourceRom>High Road</sourceRom>
+			<language>256</language>
+			<files>
+				<romCRC extension=".iso">F792BEF7</romCRC>
+			</files>
+			<im1CRC>1176700D</im1CRC>
+			<im2CRC>244FF208</im2CRC>
+			<comment>その他</comment>
+			<duplicateID>0</duplicateID>
+		</game>
+		<game>
+			<imageNumber>456</imageNumber>
+			<releaseNumber>456</releaseNumber>
+			<title>だんご三姉妹</title>
+			<saveType>TBC</saveType>
+			<romSize>121503744</romSize>
+			<publisher>(株)ソニー・コンピュータエンタテインメント</publisher>
+			<location>7</location>
+			<sourceRom>High Road</sourceRom>
+			<language>256</language>
+			<files>
+				<romCRC extension=".iso">BEE65463</romCRC>
+			</files>
+			<im1CRC>9C93B1A0</im1CRC>
+			<im2CRC>03654E3A</im2CRC>
+			<comment>ポケット・ゲームセンター</comment>
+			<duplicateID>0</duplicateID>
+		</game>
+		<game>
+			<imageNumber>457</imageNumber>
+			<releaseNumber>457</releaseNumber>
+			<title>デモ行進</title>
+			<saveType>TBC</saveType>
+			<romSize>122290176</romSize>
+			<publisher>(株)ソニー・コンピュータエンタテインメント</publisher>
+			<location>7</location>
+			<sourceRom>High Road</sourceRom>
+			<language>256</language>
+			<files>
+				<romCRC extension=".iso">2B011A3E</romCRC>
+			</files>
+			<im1CRC>F6BA177A</im1CRC>
+			<im2CRC>54C36FBE</im2CRC>
+			<comment>その他</comment>
+			<duplicateID>0</duplicateID>
+		</game>
+		<game>
+			<imageNumber>458</imageNumber>
+			<releaseNumber>458</releaseNumber>
+			<title>Double Smash</title>
+			<saveType>TBC</saveType>
+			<romSize>116326400</romSize>
+			<publisher>(株)ソニー・コンピュータエンタテインメント</publisher>
+			<location>7</location>
+			<sourceRom>High Road</sourceRom>
+			<language>256</language>
+			<files>
+				<romCRC extension=".iso">D5CCDAB5</romCRC>
+			</files>
+			<im1CRC>03DE15D6</im1CRC>
+			<im2CRC>C0BE698E</im2CRC>
+			<comment>アクション</comment>
+			<duplicateID>127</duplicateID>
+		</game>
+		<game>
+			<imageNumber>459</imageNumber>
+			<releaseNumber>459</releaseNumber>
+			<title>餓狼伝説</title>
+			<saveType>TBC</saveType>
+			<romSize>131661824</romSize>
+			<publisher>(株)SNKプレイモア</publisher>
+			<location>7</location>
+			<sourceRom>High Road</sourceRom>
+			<language>256</language>
+			<files>
+				<romCRC extension=".iso">56AF015D</romCRC>
+			</files>
+			<im1CRC>91842E1A</im1CRC>
+			<im2CRC>71978BEC</im2CRC>
+			<comment>対戦格闘</comment>
+			<duplicateID>128</duplicateID>
+		</game>
+		<game>
+			<imageNumber>460</imageNumber>
+			<releaseNumber>460</releaseNumber>
+			<title>グラビティ・クラッシュ ポータブル</title>
+			<saveType>TBC</saveType>
+			<romSize>182681600</romSize>
+			<publisher>(株)ソニー・コンピュータエンタテインメント</publisher>
+			<location>7</location>
+			<sourceRom>High Road</sourceRom>
+			<language>256</language>
+			<files>
+				<romCRC extension=".iso">FDE2E1B4</romCRC>
+			</files>
+			<im1CRC>8C1F2D64</im1CRC>
+			<im2CRC>94271D39</im2CRC>
+			<comment>重力シューティング</comment>
+			<duplicateID>0</duplicateID>
+		</game>
+		<game>
+			<imageNumber>461</imageNumber>
+			<releaseNumber>461</releaseNumber>
+			<title>ハムスターチャンネル</title>
+			<saveType>TBC</saveType>
+			<romSize>206798848</romSize>
+			<publisher>(株)エイチアイ</publisher>
+			<location>7</location>
+			<sourceRom>High Road</sourceRom>
+			<language>256</language>
+			<files>
+				<romCRC extension=".iso">63F13D89</romCRC>
+			</files>
+			<im1CRC>AC8BF96C</im1CRC>
+			<im2CRC>60AAF470</im2CRC>
+			<comment>バラエティ番組的ペット観察ゲーム</comment>
+			<duplicateID>129</duplicateID>
+		</game>
+		<game>
+			<imageNumber>462</imageNumber>
+			<releaseNumber>462</releaseNumber>
+			<title>初音ミク -Project DIVA- 追加楽曲集デラックスパック2 『もっとおかわり、リン・レン ルカ』</title>
+			<saveType>TBC</saveType>
+			<romSize>751206400</romSize>
+			<publisher>(株)セガ</publisher>
+			<location>7</location>
+			<sourceRom>High Road</sourceRom>
+			<language>256</language>
+			<files>
+				<romCRC extension=".iso">81D5CFAB</romCRC>
+			</files>
+			<im1CRC>73BB7CE8</im1CRC>
+			<im2CRC>8B09F122</im2CRC>
+			<comment>リズムアクション</comment>
+			<duplicateID>0</duplicateID>
+		</game>
+		<game>
+			<imageNumber>463</imageNumber>
+			<releaseNumber>463</releaseNumber>
+			<title>羊防衛軍</title>
+			<saveType>TBC</saveType>
+			<romSize>131006464</romSize>
+			<publisher>(株)ソニー・コンピュータエンタテインメント</publisher>
+			<location>7</location>
+			<sourceRom>High Road</sourceRom>
+			<language>256</language>
+			<files>
+				<romCRC extension=".iso">9CE93AD2</romCRC>
+			</files>
+			<im1CRC>DC01B736</im1CRC>
+			<im2CRC>5AAC517D</im2CRC>
+			<comment>防衛アクションゲーム</comment>
+			<duplicateID>130</duplicateID>
+		</game>
+		<game>
+			<imageNumber>464</imageNumber>
+			<releaseNumber>464</releaseNumber>
+			<title>Hive Sweeper</title>
+			<saveType>TBC</saveType>
+			<romSize>125599744</romSize>
+			<publisher>Skyl-Com Ltd.</publisher>
+			<location>7</location>
+			<sourceRom>High Road</sourceRom>
+			<language>256</language>
+			<files>
+				<romCRC extension=".iso">84B0D283</romCRC>
+			</files>
+			<im1CRC>89FDA7A0</im1CRC>
+			<im2CRC>0E756A2F</im2CRC>
+			<comment>パズル</comment>
+			<duplicateID>131</duplicateID>
+		</game>
+		<game>
+			<imageNumber>465</imageNumber>
+			<releaseNumber>465</releaseNumber>
+			<title>ひよこ鑑定</title>
+			<saveType>TBC</saveType>
+			<romSize>123338752</romSize>
+			<publisher>(株)ソニー・コンピュータエンタテインメント</publisher>
+			<location>7</location>
+			<sourceRom>High Road</sourceRom>
+			<language>256</language>
+			<files>
+				<romCRC extension=".iso">AE975769</romCRC>
+			</files>
+			<im1CRC>76451D40</im1CRC>
+			<im2CRC>82017CD1</im2CRC>
+			<comment>ポケット・ゲームセンター</comment>
+			<duplicateID>0</duplicateID>
+		</game>
+		<game>
+			<imageNumber>466</imageNumber>
+			<releaseNumber>466</releaseNumber>
+			<title>INFLUENCE</title>
+			<saveType>TBC</saveType>
+			<romSize>164855808</romSize>
+			<publisher>(株)ソニー・コンピュータエンタテインメント</publisher>
+			<location>7</location>
+			<sourceRom>High Road</sourceRom>
+			<language>256</language>
+			<files>
+				<romCRC extension=".iso">F8444ED7</romCRC>
+			</files>
+			<im1CRC>D6462CF8</im1CRC>
+			<im2CRC>DB733600</im2CRC>
+			<comment>パズル</comment>
+			<duplicateID>132</duplicateID>
+		</game>
+		<game>
+			<imageNumber>467</imageNumber>
+			<releaseNumber>467</releaseNumber>
+			<title>いつもの大富豪</title>
+			<saveType>TBC</saveType>
+			<romSize>115376128</romSize>
+			<publisher>(株)角川ゲームス</publisher>
+			<location>7</location>
+			<sourceRom>High Road</sourceRom>
+			<language>256</language>
+			<files>
+				<romCRC extension=".iso">D97BF07D</romCRC>
+			</files>
+			<im1CRC>D7D34DD8</im1CRC>
+			<im2CRC>D451F70C</im2CRC>
+			<comment>大富豪</comment>
+			<duplicateID>0</duplicateID>
+		</game>
+		<game>
+			<imageNumber>468</imageNumber>
+			<releaseNumber>468</releaseNumber>
+			<title>いつもの花札</title>
+			<saveType>TBC</saveType>
+			<romSize>116948992</romSize>
+			<publisher>(株)角川ゲームス</publisher>
+			<location>7</location>
+			<sourceRom>High Road</sourceRom>
+			<language>256</language>
+			<files>
+				<romCRC extension=".iso">7780564F</romCRC>
+			</files>
+			<im1CRC>86BFE107</im1CRC>
+			<im2CRC>D4E44762</im2CRC>
+			<comment>花札</comment>
+			<duplicateID>0</duplicateID>
+		</game>
+		<game>
+			<imageNumber>469</imageNumber>
+			<releaseNumber>469</releaseNumber>
+			<title>いつもの麻雀</title>
+			<saveType>TBC</saveType>
+			<romSize>119308288</romSize>
+			<publisher>(株)角川ゲームス</publisher>
+			<location>7</location>
+			<sourceRom>High Road</sourceRom>
+			<language>256</language>
+			<files>
+				<romCRC extension=".iso">B72A07B4</romCRC>
+			</files>
+			<im1CRC>3FCB513A</im1CRC>
+			<im2CRC>80D6D53D</im2CRC>
+			<comment>麻雀</comment>
+			<duplicateID>0</duplicateID>
+		</game>
+		<game>
+			<imageNumber>470</imageNumber>
+			<releaseNumber>470</releaseNumber>
+			<title>いつものリバーシ</title>
+			<saveType>TBC</saveType>
+			<romSize>114556928</romSize>
+			<publisher>(株)角川ゲームス</publisher>
+			<location>7</location>
+			<sourceRom>High Road</sourceRom>
+			<language>256</language>
+			<files>
+				<romCRC extension=".iso">77815D46</romCRC>
+			</files>
+			<im1CRC>F67AF3D4</im1CRC>
+			<im2CRC>57BA8DDE</im2CRC>
+			<comment>リバーシ</comment>
+			<duplicateID>0</duplicateID>
+		</game>
+		<game>
+			<imageNumber>471</imageNumber>
+			<releaseNumber>471</releaseNumber>
+			<title>いつもの将棋</title>
+			<saveType>TBC</saveType>
+			<romSize>115212288</romSize>
+			<publisher>(株)角川ゲームス</publisher>
+			<location>7</location>
+			<sourceRom>High Road</sourceRom>
+			<language>256</language>
+			<files>
+				<romCRC extension=".iso">AB7949F0</romCRC>
+			</files>
+			<im1CRC>D3831D0E</im1CRC>
+			<im2CRC>2433DB80</im2CRC>
+			<comment>将棋</comment>
+			<duplicateID>0</duplicateID>
+		</game>
+		<game>
+			<imageNumber>472</imageNumber>
+			<releaseNumber>472</releaseNumber>
+			<title>地獄！！！1000本ノック</title>
+			<saveType>TBC</saveType>
+			<romSize>122028032</romSize>
+			<publisher>(株)ソニー・コンピュータエンタテインメント</publisher>
+			<location>7</location>
+			<sourceRom>High Road</sourceRom>
+			<language>256</language>
+			<files>
+				<romCRC extension=".iso">704C5A8A</romCRC>
+			</files>
+			<im1CRC>AF633AAA</im1CRC>
+			<im2CRC>4ADA02B7</im2CRC>
+			<comment>ポケット・ゲームセンター</comment>
+			<duplicateID>0</duplicateID>
+		</game>
+		<game>
+			<imageNumber>473</imageNumber>
+			<releaseNumber>473</releaseNumber>
+			<title>受粉</title>
+			<saveType>TBC</saveType>
+			<romSize>123535360</romSize>
+			<publisher>(株)ソニー・コンピュータエンタテインメント</publisher>
+			<location>7</location>
+			<sourceRom>High Road</sourceRom>
+			<language>256</language>
+			<files>
+				<romCRC extension=".iso">24F21BFA</romCRC>
+			</files>
+			<im1CRC>70B1A691</im1CRC>
+			<im2CRC>527C6AB4</im2CRC>
+			<comment>ポケット・ゲームセンター</comment>
+			<duplicateID>0</duplicateID>
+		</game>
+		<game>
+			<imageNumber>474</imageNumber>
+			<releaseNumber>474</releaseNumber>
+			<title>授業中</title>
+			<saveType>TBC</saveType>
+			<romSize>123863040</romSize>
+			<publisher>(株)ソニー・コンピュータエンタテインメント</publisher>
+			<location>7</location>
+			<sourceRom>High Road</sourceRom>
+			<language>256</language>
+			<files>
+				<romCRC extension=".iso">FA9F98F0</romCRC>
+			</files>
+			<im1CRC>3E43F5E4</im1CRC>
+			<im2CRC>980B18B4</im2CRC>
+			<comment>ポケット・ゲームセンター</comment>
+			<duplicateID>0</duplicateID>
+		</game>
+		<game>
+			<imageNumber>475</imageNumber>
+			<releaseNumber>475</releaseNumber>
+			<title>空手ライフ</title>
+			<saveType>TBC</saveType>
+			<romSize>125501440</romSize>
+			<publisher>(株)ソニー・コンピュータエンタテインメント</publisher>
+			<location>7</location>
+			<sourceRom>High Road</sourceRom>
+			<language>256</language>
+			<files>
+				<romCRC extension=".iso">403D85DE</romCRC>
+			</files>
+			<im1CRC>F9D77484</im1CRC>
+			<im2CRC>66F71AB8</im2CRC>
+			<comment>ポケット・ゲームセンター</comment>
+			<duplicateID>0</duplicateID>
+		</game>
+		<game>
+			<imageNumber>476</imageNumber>
+			<releaseNumber>476</releaseNumber>
+			<title>キノコorDIE2</title>
+			<saveType>TBC</saveType>
+			<romSize>122290176</romSize>
+			<publisher>(株)ソニー・コンピュータエンタテインメント</publisher>
+			<location>7</location>
+			<sourceRom>High Road</sourceRom>
+			<language>256</language>
+			<files>
+				<romCRC extension=".iso">60ACDDBD</romCRC>
+			</files>
+			<im1CRC>B5A9B317</im1CRC>
+			<im2CRC>F194285C</im2CRC>
+			<comment>アクション</comment>
+			<duplicateID>0</duplicateID>
+		</game>
+		<game>
+			<imageNumber>477</imageNumber>
+			<releaseNumber>477</releaseNumber>
+			<title>恋のキューピッド</title>
+			<saveType>TBC</saveType>
+			<romSize>133791744</romSize>
+			<publisher>(株)ソニー・コンピュータエンタテインメント</publisher>
+			<location>7</location>
+			<sourceRom>High Road</sourceRom>
+			<language>256</language>
+			<files>
+				<romCRC extension=".iso">491A8E17</romCRC>
+			</files>
+			<im1CRC>36969F6D</im1CRC>
+			<im2CRC>5F50EC8B</im2CRC>
+			<comment>恋の応援アクションゲーム</comment>
+			<duplicateID>133</duplicateID>
+		</game>
+		<game>
+			<imageNumber>478</imageNumber>
+			<releaseNumber>478</releaseNumber>
+			<title>くのいち伝説</title>
+			<saveType>TBC</saveType>
+			<romSize>117768192</romSize>
+			<publisher>(株)ソニー・コンピュータエンタテインメント</publisher>
+			<location>7</location>
+			<sourceRom>High Road</sourceRom>
+			<language>256</language>
+			<files>
+				<romCRC extension=".iso">A1FE485C</romCRC>
+			</files>
+			<im1CRC>1A334D6B</im1CRC>
+			<im2CRC>A23180A3</im2CRC>
+			<comment>アクション</comment>
+			<duplicateID>134</duplicateID>
+		</game>
+		<game>
+			<imageNumber>479</imageNumber>
+			<releaseNumber>479</releaseNumber>
+			<title>クサイモン2</title>
+			<saveType>TBC</saveType>
+			<romSize>123600896</romSize>
+			<publisher>(株)ソニー・コンピュータエンタテインメント</publisher>
+			<location>7</location>
+			<sourceRom>High Road</sourceRom>
+			<language>256</language>
+			<files>
+				<romCRC extension=".iso">17EC1E6E</romCRC>
+			</files>
+			<im1CRC>270E3112</im1CRC>
+			<im2CRC>A416A447</im2CRC>
+			<comment>アクション</comment>
+			<duplicateID>0</duplicateID>
+		</game>
+		<game>
+			<imageNumber>480</imageNumber>
+			<releaseNumber>480</releaseNumber>
+			<title>リーグボウリング</title>
+			<saveType>TBC</saveType>
+			<romSize>127401984</romSize>
+			<publisher>(株)SNKプレイモア</publisher>
+			<location>7</location>
+			<sourceRom>High Road</sourceRom>
+			<language>256</language>
+			<files>
+				<romCRC extension=".iso">80B9F893</romCRC>
+			</files>
+			<im1CRC>AB3E7AA4</im1CRC>
+			<im2CRC>1DE31C9B</im2CRC>
+			<comment>スポーツ</comment>
+			<duplicateID>135</duplicateID>
+		</game>
+		<game>
+			<imageNumber>481</imageNumber>
+			<releaseNumber>481</releaseNumber>
+			<title>マカロンリバーシ</title>
+			<saveType>TBC</saveType>
+			<romSize>130351104</romSize>
+			<publisher>(株)ソニー・コンピュータエンタテインメント</publisher>
+			<location>7</location>
+			<sourceRom>High Road</sourceRom>
+			<language>256</language>
+			<files>
+				<romCRC extension=".iso">5939E586</romCRC>
+			</files>
+			<im1CRC>01BCDF02</im1CRC>
+			<im2CRC>E17F7977</im2CRC>
+			<comment>テーブルゲーム</comment>
+			<duplicateID>136</duplicateID>
+		</game>
+		<game>
+			<imageNumber>482</imageNumber>
+			<releaseNumber>482</releaseNumber>
+			<title>マジシャンロード</title>
+			<saveType>TBC</saveType>
+			<romSize>128024576</romSize>
+			<publisher>(株)SNKプレイモア</publisher>
+			<location>7</location>
+			<sourceRom>High Road</sourceRom>
+			<language>256</language>
+			<files>
+				<romCRC extension=".iso">2CD25094</romCRC>
+			</files>
+			<im1CRC>6AB50C2B</im1CRC>
+			<im2CRC>9732EAD7</im2CRC>
+			<comment>シューティング</comment>
+			<duplicateID>137</duplicateID>
+		</game>
+		<game>
+			<imageNumber>483</imageNumber>
+			<releaseNumber>483</releaseNumber>
+			<title>魔王</title>
+			<saveType>TBC</saveType>
+			<romSize>130220032</romSize>
+			<publisher>(株)ソニー・コンピュータエンタテインメント</publisher>
+			<location>7</location>
+			<sourceRom>High Road</sourceRom>
+			<language>256</language>
+			<files>
+				<romCRC extension=".iso">1C803708</romCRC>
+			</files>
+			<im1CRC>D5ABA9C2</im1CRC>
+			<im2CRC>274E8F36</im2CRC>
+			<comment>アクション</comment>
+			<duplicateID>0</duplicateID>
+		</game>
+		<game>
+			<imageNumber>484</imageNumber>
+			<releaseNumber>484</releaseNumber>
+			<title>メタルスラッグ</title>
+			<saveType>TBC</saveType>
+			<romSize>150863872</romSize>
+			<publisher>(株)SNKプレイモア</publisher>
+			<location>7</location>
+			<sourceRom>High Road</sourceRom>
+			<language>256</language>
+			<files>
+				<romCRC extension=".iso">A984EFA9</romCRC>
+			</files>
+			<im1CRC>5F6EE638</im1CRC>
+			<im2CRC>527FD883</im2CRC>
+			<comment>アクションシューティング</comment>
+			<duplicateID>138</duplicateID>
+		</game>
+		<game>
+			<imageNumber>485</imageNumber>
+			<releaseNumber>485</releaseNumber>
+			<title>みんなのゴルフ場ボール拾い</title>
+			<saveType>TBC</saveType>
+			<romSize>124649472</romSize>
+			<publisher>(株)ソニー・コンピュータエンタテインメント</publisher>
+			<location>7</location>
+			<sourceRom>High Road</sourceRom>
+			<language>256</language>
+			<files>
+				<romCRC extension=".iso">078A82AB</romCRC>
+			</files>
+			<im1CRC>04523D2B</im1CRC>
+			<im2CRC>3264250F</im2CRC>
+			<comment>ポケット・ゲームセンター</comment>
+			<duplicateID>0</duplicateID>
+		</game>
+		<game>
+			<imageNumber>486</imageNumber>
+			<releaseNumber>486</releaseNumber>
+			<title>密室のサクリファイス ～イトカ：ある閉鎖施設からの脱出～</title>
+			<saveType>TBC</saveType>
+			<romSize>161349632</romSize>
+			<publisher>(株)ディースリー・パブリッシャー</publisher>
+			<location>7</location>
+			<sourceRom>High Road</sourceRom>
+			<language>256</language>
+			<files>
+				<romCRC extension=".iso">957F814B</romCRC>
+			</files>
+			<im1CRC>13699755</im1CRC>
+			<im2CRC>AE2F82CC</im2CRC>
+			<comment>脱出ゲーム</comment>
+			<duplicateID>0</duplicateID>
+		</game>
+		<game>
+			<imageNumber>487</imageNumber>
+			<releaseNumber>487</releaseNumber>
+			<title>音色の品格</title>
+			<saveType>TBC</saveType>
+			<romSize>166854656</romSize>
+			<publisher>(株)ソニー・コンピュータエンタテインメント</publisher>
+			<location>7</location>
+			<sourceRom>High Road</sourceRom>
+			<language>256</language>
+			<files>
+				<romCRC extension=".iso">A4CD2119</romCRC>
+			</files>
+			<im1CRC>88EB204C</im1CRC>
+			<im2CRC>C8C19B54</im2CRC>
+			<comment>音色クイズゲーム</comment>
+			<duplicateID>139</duplicateID>
+		</game>
+		<game>
+			<imageNumber>488</imageNumber>
+			<releaseNumber>488</releaseNumber>
+			<title>人気プロレスラー</title>
+			<saveType>TBC</saveType>
+			<romSize>125501440</romSize>
+			<publisher>(株)ソニー・コンピュータエンタテインメント</publisher>
+			<location>7</location>
+			<sourceRom>High Road</sourceRom>
+			<language>256</language>
+			<files>
+				<romCRC extension=".iso">BF419EDE</romCRC>
+			</files>
+			<im1CRC>EBD1F8F7</im1CRC>
+			<im2CRC>EF60010F</im2CRC>
+			<comment>ポケット・ゲームセンター</comment>
+			<duplicateID>0</duplicateID>
+		</game>
+		<game>
+			<imageNumber>489</imageNumber>
+			<releaseNumber>489</releaseNumber>
+			<title>N.U.M. ニュ～ム</title>
+			<saveType>TBC</saveType>
+			<romSize>115146752</romSize>
+			<publisher>(株)ソニー・コンピュータエンタテインメント</publisher>
+			<location>7</location>
+			<sourceRom>High Road</sourceRom>
+			<language>256</language>
+			<files>
+				<romCRC extension=".iso">50A64989</romCRC>
+			</files>
+			<im1CRC>BCE577EC</im1CRC>
+			<im2CRC>F7EED516</im2CRC>
+			<comment>パズル</comment>
+			<duplicateID>140</duplicateID>
+		</game>
+		<game>
+			<imageNumber>490</imageNumber>
+			<releaseNumber>490</releaseNumber>
+			<title>ワンツー ボートレーシング</title>
+			<saveType>TBC</saveType>
+			<romSize>130318336</romSize>
+			<publisher>(株)ソニー・コンピュータエンタテインメント</publisher>
+			<location>7</location>
+			<sourceRom>High Road</sourceRom>
+			<language>256</language>
+			<files>
+				<romCRC extension=".iso">A96B0BA7</romCRC>
+			</files>
+			<im1CRC>F52B76B4</im1CRC>
+			<im2CRC>80F5BF63</im2CRC>
+			<comment>協力レースゲーム</comment>
+			<duplicateID>141</duplicateID>
+		</game>
+		<game>
+			<imageNumber>491</imageNumber>
+			<releaseNumber>491</releaseNumber>
+			<title>オセロ</title>
+			<saveType>TBC</saveType>
+			<romSize>115802112</romSize>
+			<publisher>アークシステムワークス(株)</publisher>
+			<location>7</location>
+			<sourceRom>High Road</sourceRom>
+			<language>256</language>
+			<files>
+				<romCRC extension=".iso">50CDBF5C</romCRC>
+			</files>
+			<im1CRC>6BFF86B1</im1CRC>
+			<im2CRC>1CADB0E4</im2CRC>
+			<comment>テーブルゲーム</comment>
+			<duplicateID>0</duplicateID>
+		</game>
+		<game>
+			<imageNumber>492</imageNumber>
+			<releaseNumber>492</releaseNumber>
+			<title>ピヨタマ</title>
+			<saveType>TBC</saveType>
+			<romSize>141361152</romSize>
+			<publisher>(株)ソニー・コンピュータエンタテインメント</publisher>
+			<location>7</location>
+			<sourceRom>High Road</sourceRom>
+			<language>256</language>
+			<files>
+				<romCRC extension=".iso">EA0DAEBF</romCRC>
+			</files>
+			<im1CRC>FB5E864A</im1CRC>
+			<im2CRC>6DB96428</im2CRC>
+			<comment>アクションパズル</comment>
+			<duplicateID>82</duplicateID>
+		</game>
+		<game>
+			<imageNumber>493</imageNumber>
+			<releaseNumber>493</releaseNumber>
+			<title>クイズ アニマニア</title>
+			<saveType>TBC</saveType>
+			<romSize>148176896</romSize>
+			<publisher>(株)ソニー・コンピュータエンタテインメント</publisher>
+			<location>7</location>
+			<sourceRom>High Road</sourceRom>
+			<language>256</language>
+			<files>
+				<romCRC extension=".iso">ABD789A3</romCRC>
+			</files>
+			<im1CRC>3D3A457C</im1CRC>
+			<im2CRC>DAD341A1</im2CRC>
+			<comment>動物クイズ</comment>
+			<duplicateID>142</duplicateID>
+		</game>
+		<game>
+			<imageNumber>494</imageNumber>
+			<releaseNumber>494</releaseNumber>
+			<title>ラーメン油天国</title>
+			<saveType>TBC</saveType>
+			<romSize>129761280</romSize>
+			<publisher>(株)ソニー・コンピュータエンタテインメント</publisher>
+			<location>7</location>
+			<sourceRom>High Road</sourceRom>
+			<language>256</language>
+			<files>
+				<romCRC extension=".iso">A3CAD059</romCRC>
+			</files>
+			<im1CRC>4EB94BAF</im1CRC>
+			<im2CRC>9A83D543</im2CRC>
+			<comment>油くっつきアクションゲーム</comment>
+			<duplicateID>143</duplicateID>
+		</game>
+		<game>
+			<imageNumber>495</imageNumber>
+			<releaseNumber>495</releaseNumber>
+			<title>龍虎の拳</title>
+			<saveType>TBC</saveType>
+			<romSize>134283264</romSize>
+			<publisher>(株)SNKプレイモア</publisher>
+			<location>7</location>
+			<sourceRom>High Road</sourceRom>
+			<language>256</language>
+			<files>
+				<romCRC extension=".iso">0DA3D294</romCRC>
+			</files>
+			<im1CRC>B4FF80ED</im1CRC>
+			<im2CRC>679E8B97</im2CRC>
+			<comment>対戦格闘</comment>
+			<duplicateID>144</duplicateID>
+		</game>
+		<game>
+			<imageNumber>496</imageNumber>
+			<releaseNumber>496</releaseNumber>
+			<title>サムライスピリッツ</title>
+			<saveType>TBC</saveType>
+			<romSize>138543104</romSize>
+			<publisher>(株)SNKプレイモア</publisher>
+			<location>7</location>
+			<sourceRom>High Road</sourceRom>
+			<language>256</language>
+			<files>
+				<romCRC extension=".iso">D61553A8</romCRC>
+			</files>
+			<im1CRC>B63819F3</im1CRC>
+			<im2CRC>2134909F</im2CRC>
+			<comment>対戦格闘</comment>
+			<duplicateID>0</duplicateID>
+		</game>
+		<game>
+			<imageNumber>497</imageNumber>
+			<releaseNumber>497</releaseNumber>
+			<title>SAVE THE EARTH</title>
+			<saveType>TBC</saveType>
+			<romSize>115933184</romSize>
+			<publisher>(株)ソニー・コンピュータエンタテインメント</publisher>
+			<location>7</location>
+			<sourceRom>High Road</sourceRom>
+			<language>256</language>
+			<files>
+				<romCRC extension=".iso">3287E305</romCRC>
+			</files>
+			<im1CRC>ACBDE9AA</im1CRC>
+			<im2CRC>882CBAC8</im2CRC>
+			<comment>シューティング</comment>
+			<duplicateID>145</duplicateID>
+		</game>
+		<game>
+			<imageNumber>498</imageNumber>
+			<releaseNumber>498</releaseNumber>
+			<title>スイーツ工場は大忙し</title>
+			<saveType>TBC</saveType>
+			<romSize>129990656</romSize>
+			<publisher>(株)ソニー・コンピュータエンタテインメント</publisher>
+			<location>7</location>
+			<sourceRom>High Road</sourceRom>
+			<language>256</language>
+			<files>
+				<romCRC extension=".iso">C71238F8</romCRC>
+			</files>
+			<im1CRC>8C09269C</im1CRC>
+			<im2CRC>5B45470B</im2CRC>
+			<comment>パニックアクションゲーム</comment>
+			<duplicateID>146</duplicateID>
+		</game>
+		<game>
+			<imageNumber>499</imageNumber>
+			<releaseNumber>499</releaseNumber>
+			<title>対戦チェス</title>
+			<saveType>TBC</saveType>
+			<romSize>121143296</romSize>
+			<publisher>(株)ベストメディア</publisher>
+			<location>7</location>
+			<sourceRom>High Road</sourceRom>
+			<language>256</language>
+			<files>
+				<romCRC extension=".iso">0ECC1752</romCRC>
+			</files>
+			<im1CRC>B754D57D</im1CRC>
+			<im2CRC>740C6C32</im2CRC>
+			<comment>テーブルゲーム</comment>
+			<duplicateID>0</duplicateID>
+		</game>
+		<game>
+			<imageNumber>500</imageNumber>
+			<releaseNumber>500</releaseNumber>
+			<title>対戦チンチロリン</title>
+			<saveType>TBC</saveType>
+			<romSize>114294784</romSize>
+			<publisher>(株)ベストメディア</publisher>
+			<location>7</location>
+			<sourceRom>High Road</sourceRom>
+			<language>256</language>
+			<files>
+				<romCRC extension=".iso">2643188C</romCRC>
+			</files>
+			<im1CRC>EB8A7798</im1CRC>
+			<im2CRC>56A381F4</im2CRC>
+			<comment>ダイスゲーム</comment>
+			<duplicateID>0</duplicateID>
+		</game>
+		<game>
+			<imageNumber>501</imageNumber>
+			<releaseNumber>501</releaseNumber>
+			<title>対戦潜水艦スイーパー</title>
+			<saveType>TBC</saveType>
+			<romSize>123895808</romSize>
+			<publisher>(株)ベストメディア</publisher>
+			<location>7</location>
+			<sourceRom>High Road</sourceRom>
+			<language>256</language>
+			<files>
+				<romCRC extension=".iso">9DDF36A3</romCRC>
+			</files>
+			<im1CRC>36772E27</im1CRC>
+			<im2CRC>70A3C6C3</im2CRC>
+			<comment>テーブルゲーム</comment>
+			<duplicateID>0</duplicateID>
+		</game>
+		<game>
+			<imageNumber>502</imageNumber>
+			<releaseNumber>502</releaseNumber>
+			<title>対戦将棋</title>
+			<saveType>TBC</saveType>
+			<romSize>119439360</romSize>
+			<publisher>(株)ベストメディア</publisher>
+			<location>7</location>
+			<sourceRom>High Road</sourceRom>
+			<language>256</language>
+			<files>
+				<romCRC extension=".iso">DA659FEB</romCRC>
+			</files>
+			<im1CRC>E1E2FF63</im1CRC>
+			<im2CRC>45BAAED7</im2CRC>
+			<comment>将棋</comment>
+			<duplicateID>0</duplicateID>
+		</game>
+		<game>
+			<imageNumber>503</imageNumber>
+			<releaseNumber>503</releaseNumber>
+			<title>THE KING OF FIGHTERS' 94</title>
+			<saveType>TBC</saveType>
+			<romSize>144474112</romSize>
+			<publisher>(株)SNKプレイモア</publisher>
+			<location>7</location>
+			<sourceRom>High Road</sourceRom>
+			<language>256</language>
+			<files>
+				<romCRC extension=".iso">9DE4B3DE</romCRC>
+			</files>
+			<im1CRC>6D4BC632</im1CRC>
+			<im2CRC>8DB4E707</im2CRC>
+			<comment>対戦格闘</comment>
+			<duplicateID>0</duplicateID>
+		</game>
+		<game>
+			<imageNumber>504</imageNumber>
+			<releaseNumber>504</releaseNumber>
+			<title>得点王</title>
+			<saveType>TBC</saveType>
+			<romSize>132120576</romSize>
+			<publisher>(株)SNKプレイモア</publisher>
+			<location>7</location>
+			<sourceRom>High Road</sourceRom>
+			<language>256</language>
+			<files>
+				<romCRC extension=".iso">BD7184F1</romCRC>
+			</files>
+			<im1CRC>D944CFE4</im1CRC>
+			<im2CRC>77463F82</im2CRC>
+			<comment>スポーツ</comment>
+			<duplicateID>0</duplicateID>
+		</game>
+		<game>
+			<imageNumber>505</imageNumber>
+			<releaseNumber>505</releaseNumber>
+			<title>積み立て！スイーツ工房</title>
+			<saveType>TBC</saveType>
+			<romSize>131104768</romSize>
+			<publisher>(株)ソニー・コンピュータエンタテインメント</publisher>
+			<location>7</location>
+			<sourceRom>High Road</sourceRom>
+			<language>256</language>
+			<files>
+				<romCRC extension=".iso">C2ECF6BF</romCRC>
+			</files>
+			<im1CRC>B10E0AE4</im1CRC>
+			<im2CRC>273E9943</im2CRC>
+			<comment>ぐらぐらパズルゲーム</comment>
+			<duplicateID>147</duplicateID>
+		</game>
+		<game>
+			<imageNumber>506</imageNumber>
+			<releaseNumber>506</releaseNumber>
+			<title>UNO</title>
+			<saveType>TBC</saveType>
+			<romSize>168296448</romSize>
+			<publisher>ゲームロフト(株)</publisher>
+			<location>7</location>
+			<sourceRom>High Road</sourceRom>
+			<language>256</language>
+			<files>
+				<romCRC extension=".iso">429311C0</romCRC>
+			</files>
+			<im1CRC>C4FFFC40</im1CRC>
+			<im2CRC>73C1A43E</im2CRC>
+			<comment>カードゲーム</comment>
+			<duplicateID>148</duplicateID>
+		</game>
+		<game>
+			<imageNumber>507</imageNumber>
+			<releaseNumber>507</releaseNumber>
+			<title>ワールド・ネバーランド ～ナルル王国物語～</title>
+			<saveType>TBC</saveType>
+			<romSize>418676736</romSize>
+			<publisher>(株)アルティ</publisher>
+			<location>7</location>
+			<sourceRom>High Road</sourceRom>
+			<language>256</language>
+			<files>
+				<romCRC extension=".iso">361F9EF6</romCRC>
+			</files>
+			<im1CRC>353632A6</im1CRC>
+			<im2CRC>D149DA2A</im2CRC>
+			<comment>架空生活体験シミュレーション</comment>
+			<duplicateID>0</duplicateID>
+		</game>
+		<game>
+			<imageNumber>508</imageNumber>
+			<releaseNumber>508</releaseNumber>
+			<title>Young Thor</title>
+			<saveType>TBC</saveType>
+			<romSize>211976192</romSize>
+			<publisher>Frima Studio inc.</publisher>
+			<location>7</location>
+			<sourceRom>High Road</sourceRom>
+			<language>256</language>
+			<files>
+				<romCRC extension=".iso">ABA880B6</romCRC>
+			</files>
+			<im1CRC>5971D78A</im1CRC>
+			<im2CRC>B80DC943</im2CRC>
+			<comment>アクション</comment>
+			<duplicateID>110</duplicateID>
+		</game>
+		<game>
+			<imageNumber>509</imageNumber>
+			<releaseNumber>509</releaseNumber>
+			<title>ユビスター</title>
+			<saveType>TBC</saveType>
+			<romSize>119078912</romSize>
+			<publisher>(株)ソニー・コンピュータエンタテインメント</publisher>
+			<location>7</location>
+			<sourceRom>High Road</sourceRom>
+			<language>256</language>
+			<files>
+				<romCRC extension=".iso">220752D6</romCRC>
+			</files>
+			<im1CRC>D765E664</im1CRC>
+			<im2CRC>69303B78</im2CRC>
+			<comment>ふれあいパーティーゲーム</comment>
+			<duplicateID>149</duplicateID>
+		</game>
+		<game>
+			<imageNumber>510</imageNumber>
+			<releaseNumber>510</releaseNumber>
+			<title>ZODIAC</title>
+			<saveType>TBC</saveType>
+			<romSize>687833088</romSize>
+			<publisher>(株)ホープムーン</publisher>
+			<location>7</location>
+			<sourceRom>High Road</sourceRom>
+			<language>256</language>
+			<files>
+				<romCRC extension=".iso">996FA8B8</romCRC>
+			</files>
+			<im1CRC>79DDE64D</im1CRC>
+			<im2CRC>E74B4573</im2CRC>
+			<comment>ビジュアルノベル</comment>
+			<duplicateID>0</duplicateID>
+		</game>
+		<game>
+			<imageNumber>511</imageNumber>
+			<releaseNumber>511</releaseNumber>
+			<title>続・進め！守れ！戦え！</title>
+			<saveType>TBC</saveType>
+			<romSize>132710400</romSize>
+			<publisher>(株)リズ</publisher>
+			<location>7</location>
+			<sourceRom>High Road</sourceRom>
+			<language>256</language>
+			<files>
+				<romCRC extension=".iso">590AA39A</romCRC>
+			</files>
+			<im1CRC>F5C87E87</im1CRC>
+			<im2CRC>99745F5E</im2CRC>
+			<comment>ストラテジックシューティング</comment>
+			<duplicateID>0</duplicateID>
+		</game>
+		<game>
+			<imageNumber>721</imageNumber>
+			<releaseNumber>721</releaseNumber>
+			<title>ウィンズ オブ サンダー</title>
+			<saveType>TBC</saveType>
+			<romSize>111116288</romSize>
+			<publisher>(株)ハドソン</publisher>
+			<location>7</location>
+			<sourceRom>PLAYASiA</sourceRom>
+			<language>256</language>
+			<files>
+				<romCRC extension=".iso">8BB7E85D</romCRC>
+			</files>
+			<im1CRC>DE936BE4</im1CRC>
+			<im2CRC>E6B693EA</im2CRC>
+			<comment>シューティング</comment>
+			<duplicateID>0</duplicateID>
+		</game>
+		<game>
+			<imageNumber>722</imageNumber>
+			<releaseNumber>722</releaseNumber>
+			<title>スプラッターハウス</title>
+			<saveType>TBC</saveType>
+			<romSize>111050752</romSize>
+			<publisher>(株)バンダイナムコゲームス</publisher>
+			<location>7</location>
+			<sourceRom>PLAYASiA</sourceRom>
+			<language>256</language>
+			<files>
+				<romCRC extension=".iso">A335BDB9</romCRC>
+			</files>
+			<im1CRC>3F9CF59E</im1CRC>
+			<im2CRC>A6C007EA</im2CRC>
+			<comment>アクション</comment>
+			<duplicateID>0</duplicateID>
+		</game>
+		<game>
+			<imageNumber>723</imageNumber>
+			<releaseNumber>723</releaseNumber>
+			<title>沙羅曼蛇</title>
+			<saveType>TBC</saveType>
+			<romSize>110985216</romSize>
+			<publisher>(株)ハドソン</publisher>
+			<location>7</location>
+			<sourceRom>PLAYASiA</sourceRom>
+			<language>256</language>
+			<files>
+				<romCRC extension=".iso">ABC5A321</romCRC>
+			</files>
+			<im1CRC>BAF2BD53</im1CRC>
+			<im2CRC>46CE59CF</im2CRC>
+			<comment>シューティング</comment>
+			<duplicateID>0</duplicateID>
+		</game>
+		<game>
+			<imageNumber>724</imageNumber>
+			<releaseNumber>724</releaseNumber>
+			<title>R-TYPE</title>
+			<saveType>TBC</saveType>
+			<romSize>111050752</romSize>
+			<publisher>アイレムソフトウェアエンジニアリング(株)</publisher>
+			<location>7</location>
+			<sourceRom>PLAYASiA</sourceRom>
+			<language>256</language>
+			<files>
+				<romCRC extension=".iso">43E701FE</romCRC>
+			</files>
+			<im1CRC>C8EB9D98</im1CRC>
+			<im2CRC>1824C35A</im2CRC>
+			<comment>シューティング</comment>
+			<duplicateID>0</duplicateID>
+		</game>
+		<game>
+			<imageNumber>725</imageNumber>
+			<releaseNumber>725</releaseNumber>
+			<title>PC原人3</title>
+			<saveType>TBC</saveType>
+			<romSize>110985216</romSize>
+			<publisher>(株)ハドソン</publisher>
+			<location>7</location>
+			<sourceRom>PLAYASiA</sourceRom>
+			<language>256</language>
+			<files>
+				<romCRC extension=".iso">E2ECFB8E</romCRC>
+			</files>
+			<im1CRC>CA9F991F</im1CRC>
+			<im2CRC>482F1285</im2CRC>
+			<comment>アクション</comment>
+			<duplicateID>0</duplicateID>
+		</game>
+		<game>
+			<imageNumber>726</imageNumber>
+			<releaseNumber>726</releaseNumber>
+			<title>PC原人2</title>
+			<saveType>TBC</saveType>
+			<romSize>110985216</romSize>
+			<publisher>(株)ハドソン</publisher>
+			<location>7</location>
+			<sourceRom>PLAYASiA</sourceRom>
+			<language>256</language>
+			<files>
+				<romCRC extension=".iso">9D6A6A41</romCRC>
+			</files>
+			<im1CRC>2088AC13</im1CRC>
+			<im2CRC>801058EE</im2CRC>
+			<comment>アクション</comment>
+			<duplicateID>0</duplicateID>
+		</game>
+		<game>
+			<imageNumber>727</imageNumber>
+			<releaseNumber>727</releaseNumber>
+			<title>グラディウス</title>
+			<saveType>TBC</saveType>
+			<romSize>110985216</romSize>
+			<publisher>(株)ハドソン</publisher>
+			<location>7</location>
+			<sourceRom>PLAYASiA</sourceRom>
+			<language>256</language>
+			<files>
+				<romCRC extension=".iso">030B0FCD</romCRC>
+			</files>
+			<im1CRC>01454CA3</im1CRC>
+			<im2CRC>C4927A8B</im2CRC>
+			<comment>シューティング</comment>
+			<duplicateID>0</duplicateID>
+		</game>
+		<game>
+			<imageNumber>728</imageNumber>
+			<releaseNumber>728</releaseNumber>
+			<title>グラディウスⅡ GOFERの野望</title>
+			<saveType>TBC</saveType>
+			<romSize>111116288</romSize>
+			<publisher>(株)ハドソン</publisher>
+			<location>7</location>
+			<sourceRom>PLAYASiA</sourceRom>
+			<language>256</language>
+			<files>
+				<romCRC extension=".iso">05B3870B</romCRC>
+			</files>
+			<im1CRC>B082E23A</im1CRC>
+			<im2CRC>92FA3D88</im2CRC>
+			<comment>シューティング</comment>
+			<duplicateID>0</duplicateID>
+		</game>
+		<game>
+			<imageNumber>729</imageNumber>
+			<releaseNumber>729</releaseNumber>
+			<title>ゲート オブ サンダー</title>
+			<saveType>TBC</saveType>
+			<romSize>111116288</romSize>
+			<publisher>(株)ハドソン</publisher>
+			<location>7</location>
+			<sourceRom>PLAYASiA</sourceRom>
+			<language>256</language>
+			<files>
+				<romCRC extension=".iso">A8F5F217</romCRC>
+			</files>
+			<im1CRC>849834E9</im1CRC>
+			<im2CRC>9ACF477B</im2CRC>
+			<comment>シューティング</comment>
+			<duplicateID>0</duplicateID>
+		</game>
+		<game>
+			<imageNumber>730</imageNumber>
+			<releaseNumber>730</releaseNumber>
+			<title>ギャラガ '88</title>
+			<saveType>TBC</saveType>
+			<romSize>111050752</romSize>
+			<publisher>(株)バンダイナムコゲームス</publisher>
+			<location>7</location>
+			<sourceRom>PLAYASiA</sourceRom>
+			<language>256</language>
+			<files>
+				<romCRC extension=".iso">3118585C</romCRC>
+			</files>
+			<im1CRC>EEB9F77B</im1CRC>
+			<im2CRC>65665FDC</im2CRC>
+			<comment>シューティング</comment>
+			<duplicateID>0</duplicateID>
+		</game>
+		<game>
+			<imageNumber>731</imageNumber>
+			<releaseNumber>731</releaseNumber>
+			<title>大魔界村</title>
+			<saveType>TBC</saveType>
+			<romSize>110985216</romSize>
+			<publisher>(株)ハドソン</publisher>
+			<location>7</location>
+			<sourceRom>PLAYASiA</sourceRom>
+			<language>256</language>
+			<files>
+				<romCRC extension=".iso">CDFC85FC</romCRC>
+			</files>
+			<im1CRC>8E21307F</im1CRC>
+			<im2CRC>66AFB25E</im2CRC>
+			<comment>アクション</comment>
+			<duplicateID>0</duplicateID>
+		</game>
+		<game>
+			<imageNumber>732</imageNumber>
+			<releaseNumber>732</releaseNumber>
+			<title>ブレイジングレーザーズ</title>
+			<saveType>TBC</saveType>
+			<romSize>110985216</romSize>
+			<publisher>(株)ハドソン</publisher>
+			<location>7</location>
+			<sourceRom>PLAYASiA</sourceRom>
+			<language>256</language>
+			<files>
+				<romCRC extension=".iso">833290FE</romCRC>
+			</files>
+			<im1CRC>A34D2EAA</im1CRC>
+			<im2CRC>7147BA65</im2CRC>
+			<comment>シューティング</comment>
+			<duplicateID>0</duplicateID>
+		</game>
+		<game>
+			<imageNumber>760</imageNumber>
+			<releaseNumber>760</releaseNumber>
+			<title>x-Radar Portable Ver.3.02</title>
+			<saveType>TBC</saveType>
+			<romSize>508395520</romSize>
+			<publisher>ソニーマーケティング(株)</publisher>
+			<location>7</location>
+			<sourceRom>PLAYASiA</sourceRom>
+			<language>256</language>
+			<files>
+				<romCRC extension=".iso">B5210A55</romCRC>
+			</files>
+			<im1CRC>CD031EE5</im1CRC>
+			<im2CRC>15638449</im2CRC>
+			<comment>地図・ガイド情報</comment>
+			<duplicateID>0</duplicateID>
+		</game>
+		<game>
+			<imageNumber>761</imageNumber>
+			<releaseNumber>761</releaseNumber>
+			<title>探偵オペラ ミルキィホームズ 1.5 第01話 「結成、ミルキィホームズ！」</title>
+			<saveType>TBC</saveType>
+			<romSize>229539840</romSize>
+			<publisher>(株)ブシロード</publisher>
+			<location>7</location>
+			<sourceRom>PLAYASiA</sourceRom>
+			<language>256</language>
+			<files>
+				<romCRC extension=".iso">418E706D</romCRC>
+			</files>
+			<im1CRC>F9496C11</im1CRC>
+			<im2CRC>416ABA0B</im2CRC>
+			<comment>探偵アドベンチャー</comment>
+			<duplicateID>0</duplicateID>
+		</game>
+	</games>
+	<gui>
+		<images width="431" height="183">
+			<image x="0" y="0" width="104" height="181"/>
+			<image x="109" y="0" width="320" height="181"/>
+		</images>
+	</gui>
+</dat>

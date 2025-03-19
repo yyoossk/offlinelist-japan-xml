@@ -1,0 +1,3194 @@
+﻿<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<dat xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="datas.xsd">
+	<configuration>
+		<datName>Sony PSP UMD-PG Collection</datName>
+		<imFolder>Sony PSP UMD-PG Collection</imFolder>
+		<datVersion>0007</datVersion>
+		<system>Sony PSP UMD-PG</system>
+		<screenshotsWidth>320</screenshotsWidth>
+		<screenshotsHeight>181</screenshotsHeight>
+		<infos>
+			<title visible="false" inNamingOption="true" default="false" />
+			<location visible="false" inNamingOption="true" default="false" />
+			<sourceRom visible="true" inNamingOption="true" default="true" />
+			<publisher visible="true" inNamingOption="true" default="true" />
+			<romSize visible="true" inNamingOption="true" default="true" />
+			<releaseNumber visible="true" inNamingOption="true" default="false" />
+			<languageNumber visible="true" inNamingOption="true" default="false" />
+			<comment visible="true" inNamingOption="true" default="true" />
+			<romCRC visible="true" inNamingOption="true" default="true" />
+			<im1CRC visible="true" inNamingOption="false" default="false" />
+			<im2CRC visible="true" inNamingOption="false" default="false" />
+			<languages visible="false" inNamingOption="true" default="true" />
+		</infos>
+		<canOpen>
+			<extension>.iso</extension>
+		</canOpen>
+		<newDat>
+			<datVersionURL>http://psnj.web.fc2.com/umd_pg/ver.txt</datVersionURL>
+			<datURL fileName="umd_pg.zip">http://psnj.web.fc2.com/umd_pg/umd_pg.zip</datURL>
+			<imURL>http://psnj.web.fc2.com/umd_pg/imgs/</imURL>
+		</newDat>
+		<search>
+			<to value="sourceRom" default="true" auto="true" />
+			<to value="publisher" default="true" auto="true" />
+		</search>
+		<romTitle>%u - %n</romTitle>
+	</configuration>
+	<games>
+		<game>
+			<imageNumber>1</imageNumber>
+			<releaseNumber>1</releaseNumber>
+			<title>アイドルと野球拳</title>
+			<romSize>1753808896</romSize>
+			<publisher>GLAD'Z</publisher>
+			<location>7</location>
+			<sourceRom>umd dump kai v2</sourceRom>
+			<language>256</language>
+			<files>
+				<romCRC extension=".iso">16ABF4C9</romCRC>
+			</files>
+			<im1CRC>56C2EDD9</im1CRC>
+			<im2CRC>E5169129</im2CRC>
+			<comment>2005/09/16</comment>
+			<duplicateID>0</duplicateID>
+		</game>
+		<game>
+			<imageNumber>2</imageNumber>
+			<releaseNumber>2</releaseNumber>
+			<title>MISTAKEを探せ！大人のトレーニング 天国と地獄</title>
+			<romSize>1623883776</romSize>
+			<publisher>グラスワンソフトウェア</publisher>
+			<location>7</location>
+			<sourceRom>umd dump kai v2</sourceRom>
+			<language>256</language>
+			<files>
+				<romCRC extension=".iso">0E16C4ED</romCRC>
+			</files>
+			<im1CRC>E6E4F52A</im1CRC>
+			<im2CRC>7E07797A</im2CRC>
+			<comment>2005/09/22</comment>
+			<duplicateID>0</duplicateID>
+		</game>
+		<game>
+			<imageNumber>3</imageNumber>
+			<releaseNumber>3</releaseNumber>
+			<title>口説いて脱がせろ！チャット DE ゲーム</title>
+			<romSize>1435238400</romSize>
+			<publisher>グラスワンソフトウェア</publisher>
+			<location>7</location>
+			<sourceRom>umd dump kai v2</sourceRom>
+			<language>256</language>
+			<files>
+				<romCRC extension=".iso">9FF53EF1</romCRC>
+			</files>
+			<im1CRC>9267E121</im1CRC>
+			<im2CRC>6041926F</im2CRC>
+			<comment>2005/09/22</comment>
+			<duplicateID>0</duplicateID>
+		</game>
+		<game>
+			<imageNumber>4</imageNumber>
+			<releaseNumber>4</releaseNumber>
+			<title>HEXA 肉欲の通勤快速</title>
+			<romSize>1624866816</romSize>
+			<publisher>ソシエッタ</publisher>
+			<location>7</location>
+			<sourceRom>umd dump kai v2</sourceRom>
+			<language>256</language>
+			<files>
+				<romCRC extension=".iso">C4A77EA1</romCRC>
+			</files>
+			<im1CRC>79356312</im1CRC>
+			<im2CRC>DAEBCAC3</im2CRC>
+			<comment>2005/11/25</comment>
+			<duplicateID>0</duplicateID>
+		</game>
+		<game>
+			<imageNumber>5</imageNumber>
+			<releaseNumber>5</releaseNumber>
+			<title>やわ肌英語塾 ちょっとだけよ～</title>
+			<romSize>1473183744</romSize>
+			<publisher>GLAD'Z</publisher>
+			<location>7</location>
+			<sourceRom>umd dump kai v2</sourceRom>
+			<language>256</language>
+			<files>
+				<romCRC extension=".iso">29FD7857</romCRC>
+			</files>
+			<im1CRC>71AA54ED</im1CRC>
+			<im2CRC>B302FD81</im2CRC>
+			<comment>2005/12/09</comment>
+			<duplicateID>0</duplicateID>
+		</game>
+		<game>
+			<imageNumber>6</imageNumber>
+			<releaseNumber>6</releaseNumber>
+			<title>Dancing Blade かってに桃天使！</title>
+			<romSize>1735032832</romSize>
+			<publisher>(株)コナミデジタルエンタテインメント</publisher>
+			<location>7</location>
+			<sourceRom>umd dump kai v2</sourceRom>
+			<language>256</language>
+			<files>
+				<romCRC extension=".iso">E6DDED0F</romCRC>
+			</files>
+			<im1CRC>87C41C42</im1CRC>
+			<im2CRC>BC58B07C</im2CRC>
+			<comment>2006/03/16</comment>
+			<duplicateID>0</duplicateID>
+		</game>
+		<game>
+			<imageNumber>7</imageNumber>
+			<releaseNumber>7</releaseNumber>
+			<title>Sweet Paradise 紗綾・留奈・ジェシカとトロピカルデート</title>
+			<romSize>1552973824</romSize>
+			<publisher>GLAD'Z</publisher>
+			<location>7</location>
+			<sourceRom>umd dump kai v2</sourceRom>
+			<language>256</language>
+			<files>
+				<romCRC extension=".iso">51BC7FEA</romCRC>
+			</files>
+			<im1CRC>B3EE873D</im1CRC>
+			<im2CRC>660934BA</im2CRC>
+			<comment>2006/04/28</comment>
+			<duplicateID>0</duplicateID>
+		</game>
+		<game>
+			<imageNumber>8</imageNumber>
+			<releaseNumber>8</releaseNumber>
+			<title>BibleBlack Portable PG</title>
+			<romSize>1585577984</romSize>
+			<publisher>アクティブ</publisher>
+			<location>7</location>
+			<sourceRom>umd dump kai v2</sourceRom>
+			<language>256</language>
+			<files>
+				<romCRC extension=".iso">17E0FF08</romCRC>
+			</files>
+			<im1CRC>891321F4</im1CRC>
+			<im2CRC>92220B31</im2CRC>
+			<comment>2006/05/26</comment>
+			<duplicateID>0</duplicateID>
+		</game>
+		<game>
+			<imageNumber>9</imageNumber>
+			<releaseNumber>9</releaseNumber>
+			<title>松島かえでのコスプレSEXY野球拳！</title>
+			<romSize>1629093888</romSize>
+			<publisher>GLAD'Z</publisher>
+			<location>7</location>
+			<sourceRom>umd dump kai v2</sourceRom>
+			<language>256</language>
+			<files>
+				<romCRC extension=".iso">B4BC6F39</romCRC>
+			</files>
+			<im1CRC>C1F5F989</im1CRC>
+			<im2CRC>783BF634</im2CRC>
+			<comment>2006/07/28</comment>
+			<duplicateID>0</duplicateID>
+		</game>
+		<game>
+			<imageNumber>10</imageNumber>
+			<releaseNumber>10</releaseNumber>
+			<title>天海麗のコスプレ萌え萌え野球拳！</title>
+			<romSize>1589215232</romSize>
+			<publisher>GLAD'Z</publisher>
+			<location>7</location>
+			<sourceRom>umd dump kai v2</sourceRom>
+			<language>256</language>
+			<files>
+				<romCRC extension=".iso">170BDC33</romCRC>
+			</files>
+			<im1CRC>8FBCE4B6</im1CRC>
+			<im2CRC>C37FB6EF</im2CRC>
+			<comment>2006/07/28</comment>
+			<duplicateID>0</duplicateID>
+		</game>
+		<game>
+			<imageNumber>11</imageNumber>
+			<releaseNumber>11</releaseNumber>
+			<title>南波杏のコスプレときめき野球拳！</title>
+			<romSize>1636237312</romSize>
+			<publisher>GLAD'Z</publisher>
+			<location>7</location>
+			<sourceRom>umd dump kai v2</sourceRom>
+			<language>256</language>
+			<files>
+				<romCRC extension=".iso">F34175E3</romCRC>
+			</files>
+			<im1CRC>F881FFFF</im1CRC>
+			<im2CRC>6F3B5BD2</im2CRC>
+			<comment>2006/07/28</comment>
+			<duplicateID>0</duplicateID>
+		</game>
+		<game>
+			<imageNumber>12</imageNumber>
+			<releaseNumber>12</releaseNumber>
+			<title>あいだゆあのSEXYカジノゲーム GOLD RU$H</title>
+			<romSize>1490649088</romSize>
+			<publisher>GLAD'Z</publisher>
+			<location>7</location>
+			<sourceRom>umd dump kai v2</sourceRom>
+			<language>256</language>
+			<files>
+				<romCRC extension=".iso">12877A71</romCRC>
+			</files>
+			<im1CRC>D88FC55D</im1CRC>
+			<im2CRC>62BFF83F</im2CRC>
+			<comment>2006/09/22</comment>
+			<duplicateID>0</duplicateID>
+		</game>
+		<game>
+			<imageNumber>13</imageNumber>
+			<releaseNumber>13</releaseNumber>
+			<title>みひろのSEXYカジノゲーム GOLD RU$H</title>
+			<romSize>1484488704</romSize>
+			<publisher>GLAD'Z</publisher>
+			<location>7</location>
+			<sourceRom>umd dump kai v2</sourceRom>
+			<language>256</language>
+			<files>
+				<romCRC extension=".iso">C237D501</romCRC>
+			</files>
+			<im1CRC>24E8AD03</im1CRC>
+			<im2CRC>51E5A484</im2CRC>
+			<comment>2006/09/22</comment>
+			<duplicateID>0</duplicateID>
+		</game>
+
+		<game>
+			<imageNumber>14</imageNumber>
+			<releaseNumber>14</releaseNumber>
+			<title>オールスター野球拳 ポータブル</title>
+			<romSize>1528365056</romSize>
+			<publisher>GLAD'Z</publisher>
+			<location>7</location>
+			<sourceRom>umd dump kai v2</sourceRom>
+			<language>256</language>
+			<files>
+				<romCRC extension=".iso">AC06AA6B</romCRC>
+			</files>
+			<im1CRC>A5073FAD</im1CRC>
+			<im2CRC>DB6F1C80</im2CRC>
+			<comment>2006/12/14</comment>
+			<duplicateID>0</duplicateID>
+		</game>
+		<game>
+			<imageNumber>15</imageNumber>
+			<releaseNumber>15</releaseNumber>
+			<title>恋愛アドベンチャー LOVE×2 KISS ゆあとみひろとどきどきデート</title>
+			<romSize>1593737216</romSize>
+			<publisher>GLAD'Z</publisher>
+			<location>7</location>
+			<sourceRom>umd dump kai v2</sourceRom>
+			<language>256</language>
+			<files>
+				<romCRC extension=".iso">21606CBB</romCRC>
+			</files>
+			<im1CRC>3437AB4C</im1CRC>
+			<im2CRC>63D71285</im2CRC>
+			<comment>2007/03/22</comment>
+			<duplicateID>0</duplicateID>
+		</game>
+		<game>
+			<imageNumber>16</imageNumber>
+			<releaseNumber>16</releaseNumber>
+			<title>素顔の微笑</title>
+			<romSize>1703182336</romSize>
+			<publisher>JIN企画</publisher>
+			<location>7</location>
+			<sourceRom>umd dump kai v2</sourceRom>
+			<language>256</language>
+			<files>
+				<romCRC extension=".iso">A872AE5C</romCRC>
+			</files>
+			<im1CRC>FFEE43B8</im1CRC>
+			<im2CRC>936EE2FF</im2CRC>
+			<comment>2007/06/28</comment>
+			<duplicateID>0</duplicateID>
+		</game>
+		<game>
+			<imageNumber>17</imageNumber>
+			<releaseNumber>17</releaseNumber>
+			<title>脱がせ！野球拳 ポロリグラビア天国ポータブル</title>
+			<romSize>1445265408</romSize>
+			<publisher>GLAD'Z</publisher>
+			<location>7</location>
+			<sourceRom>umd dump kai v2</sourceRom>
+			<language>256</language>
+			<files>
+				<romCRC extension=".iso">6AC9466E</romCRC>
+			</files>
+			<im1CRC>F756B445</im1CRC>
+			<im2CRC>2FF99D2D</im2CRC>
+			<comment>2007/09/27</comment>
+			<duplicateID>0</duplicateID>
+		</game>
+		<game>
+			<imageNumber>18</imageNumber>
+			<releaseNumber>18</releaseNumber>
+			<title>アイドルと野球拳2</title>
+			<romSize>1545371648</romSize>
+			<publisher>GLAD'Z</publisher>
+			<location>7</location>
+			<sourceRom>umd dump kai v2</sourceRom>
+			<language>256</language>
+			<files>
+				<romCRC extension=".iso">18699652</romCRC>
+			</files>
+			<im1CRC>3F5C6B73</im1CRC>
+			<im2CRC>E3407912</im2CRC>
+			<comment>2007/11/22</comment>
+			<duplicateID>0</duplicateID>
+		</game>
+		<game>
+			<imageNumber>19</imageNumber>
+			<releaseNumber>19</releaseNumber>
+			<title>アイドルと野球拳DXポータブル</title>
+			<romSize>1613365248</romSize>
+			<publisher>GLAD'Z</publisher>
+			<location>7</location>
+			<sourceRom>umd dump kai v2</sourceRom>
+			<language>256</language>
+			<files>
+				<romCRC extension=".iso">BB966FDF</romCRC>
+			</files>
+			<im1CRC>636044B7</im1CRC>
+			<im2CRC>E00AC704</im2CRC>
+			<comment>2008/02/21</comment>
+			<duplicateID>0</duplicateID>
+		</game>
+		<game>
+			<imageNumber>20</imageNumber>
+			<releaseNumber>20</releaseNumber>
+			<title>それいゆ -Me,Myself＆Master-</title>
+			<romSize>1739128832</romSize>
+			<publisher>JIN企画</publisher>
+			<location>7</location>
+			<sourceRom>umd dump kai v2</sourceRom>
+			<language>256</language>
+			<files>
+				<romCRC extension=".iso">360004E9</romCRC>
+			</files>
+			<im1CRC>9D94ED63</im1CRC>
+			<im2CRC>1950A2D4</im2CRC>
+			<comment>2008/02/21</comment>
+			<duplicateID>0</duplicateID>
+		</game>
+		<game>
+			<imageNumber>21</imageNumber>
+			<releaseNumber>21</releaseNumber>
+			<title>僕だけの果実</title>
+			<romSize>1607368704</romSize>
+			<publisher>JIN企画</publisher>
+			<location>7</location>
+			<sourceRom>umd dump kai v2</sourceRom>
+			<language>256</language>
+			<files>
+				<romCRC extension=".iso">319A8510</romCRC>
+			</files>
+			<im1CRC>AD22E3A8</im1CRC>
+			<im2CRC>B45C236B</im2CRC>
+			<comment>2008/04/03</comment>
+			<duplicateID>0</duplicateID>
+		</game>
+		<game>
+			<imageNumber>22</imageNumber>
+			<releaseNumber>22</releaseNumber>
+			<title>桃色・妹 野球拳</title>
+			<romSize>1517617152</romSize>
+			<publisher>GLAD'Z</publisher>
+			<location>7</location>
+			<sourceRom>umd dump kai v2</sourceRom>
+			<language>256</language>
+			<files>
+				<romCRC extension=".iso">D9FCB9F6</romCRC>
+			</files>
+			<im1CRC>914EA584</im1CRC>
+			<im2CRC>207F758C</im2CRC>
+			<comment>2008/06/26</comment>
+			<duplicateID>0</duplicateID>
+		</game>
+		<game>
+			<imageNumber>23</imageNumber>
+			<releaseNumber>23</releaseNumber>
+			<title>オールスター野球拳2 ポータブル</title>
+			<romSize>1476329472</romSize>
+			<publisher>GLAD'Z</publisher>
+			<location>7</location>
+			<sourceRom>umd dump kai v2</sourceRom>
+			<language>256</language>
+			<files>
+				<romCRC extension=".iso">AAEE1E5C</romCRC>
+			</files>
+			<im1CRC>6F4C7CCB</im1CRC>
+			<im2CRC>F9CCFFAF</im2CRC>
+			<comment>2008/11/20</comment>
+			<duplicateID>0</duplicateID>
+		</game>
+		<game>
+			<imageNumber>24</imageNumber>
+			<releaseNumber>24</releaseNumber>
+			<title>遠野の屋形 第1章 「契約」</title>
+			<romSize>1486323712</romSize>
+			<publisher>ソシエッタ</publisher>
+			<location>7</location>
+			<sourceRom>umd dump kai v2</sourceRom>
+			<language>256</language>
+			<files>
+				<romCRC extension=".iso">5FFBC6AA</romCRC>
+			</files>
+			<im1CRC>8FFF3678</im1CRC>
+			<im2CRC>18029A93</im2CRC>
+			<comment>2008/12/18</comment>
+			<duplicateID>0</duplicateID>
+		</game>
+		<game>
+			<imageNumber>25</imageNumber>
+			<releaseNumber>25</releaseNumber>
+			<title>かみてん -死神と天使が俺を狙ってる-</title>
+			<romSize>1763606528</romSize>
+			<publisher>JIN企画</publisher>
+			<location>7</location>
+			<sourceRom>umd dump kai v2</sourceRom>
+			<language>256</language>
+			<files>
+				<romCRC extension=".iso">C300CDEA</romCRC>
+			</files>
+			<im1CRC>08AB1C9F</im1CRC>
+			<im2CRC>9C5CF5BA</im2CRC>
+			<comment>2009/02/27</comment>
+			<duplicateID>0</duplicateID>
+		</game>
+		<game>
+			<imageNumber>26</imageNumber>
+			<releaseNumber>26</releaseNumber>
+			<title>絶対衝激 ～プラトニックハート～</title>
+			<romSize>1662124032</romSize>
+			<publisher>JIN企画</publisher>
+			<location>7</location>
+			<sourceRom>umd dump kai v2</sourceRom>
+			<language>256</language>
+			<files>
+				<romCRC extension=".iso">5B797660</romCRC>
+			</files>
+			<im1CRC>17A96BCF</im1CRC>
+			<im2CRC>645EBBF6</im2CRC>
+			<comment>2009/05/29</comment>
+			<duplicateID>0</duplicateID>
+		</game>
+		<game>
+			<imageNumber>27</imageNumber>
+			<releaseNumber>27</releaseNumber>
+			<title>ZYKLUS ツィクルス</title>
+			<romSize>1622671360</romSize>
+			<publisher>JIN企画</publisher>
+			<location>7</location>
+			<sourceRom>umd dump kai v2</sourceRom>
+			<language>256</language>
+			<files>
+				<romCRC extension=".iso">0859CE2F</romCRC>
+			</files>
+			<im1CRC>24088673</im1CRC>
+			<im2CRC>7284E9EA</im2CRC>
+			<comment>2009/09/18</comment>
+			<duplicateID>0</duplicateID>
+		</game>
+		<game>
+			<imageNumber>28</imageNumber>
+			<releaseNumber>28</releaseNumber>
+			<title>ぬがせっ！！Super SEXY 麻雀</title>
+			<romSize>1613168640</romSize>
+			<publisher>メディアバンク</publisher>
+			<location>7</location>
+			<sourceRom>umd dump kai v2</sourceRom>
+			<language>256</language>
+			<files>
+				<romCRC extension=".iso">83083BC6</romCRC>
+			</files>
+			<im1CRC>7CF8057B</im1CRC>
+			<im2CRC>67F2D89E</im2CRC>
+			<comment>2009/10/30</comment>
+			<duplicateID>0</duplicateID>
+		</game>
+		<game>
+			<imageNumber>29</imageNumber>
+			<releaseNumber>29</releaseNumber>
+			<title>ぬがせっ！！Super SEXY 麻雀2</title>
+			<romSize>1639481344</romSize>
+			<publisher>メディアバンク</publisher>
+			<location>7</location>
+			<sourceRom>umd dump kai v2</sourceRom>
+			<language>256</language>
+			<files>
+				<romCRC extension=".iso">CFCF5328</romCRC>
+			</files>
+			<im1CRC>185F7112</im1CRC>
+			<im2CRC>1108C59B</im2CRC>
+			<comment>2009/12/18</comment>
+			<duplicateID>0</duplicateID>
+		</game>
+		<game>
+			<imageNumber>30</imageNumber>
+			<releaseNumber>30</releaseNumber>
+			<title>LOVERS ～恋に落ちたら…～ UMD-PG Edition Disc1</title>
+			<romSize>1735524352</romSize>
+			<publisher>Palace</publisher>
+			<location>7</location>
+			<sourceRom>umd dump kai v2</sourceRom>
+			<language>256</language>
+			<files>
+				<romCRC extension=".iso">44C6DA54</romCRC>
+			</files>
+			<im1CRC>377B7BF1</im1CRC>
+			<im2CRC>180E3C36</im2CRC>
+			<comment>2010/01/29</comment>
+			<duplicateID>0</duplicateID>
+		</game>
+		<game>
+			<imageNumber>31</imageNumber>
+			<releaseNumber>31</releaseNumber>
+			<title>LOVERS ～恋に落ちたら…～ UMD-PG Edition Disc2</title>
+			<romSize>1359085568</romSize>
+			<publisher>Palace</publisher>
+			<location>7</location>
+			<sourceRom>umd dump kai v2</sourceRom>
+			<language>256</language>
+			<files>
+				<romCRC extension=".iso">C632686E</romCRC>
+			</files>
+			<im1CRC>377B7BF1</im1CRC>
+			<im2CRC>3A3696A5</im2CRC>
+			<comment>2010/01/29</comment>
+			<duplicateID>0</duplicateID>
+		</game>
+		<game>
+			<imageNumber>32</imageNumber>
+			<releaseNumber>32</releaseNumber>
+			<title>Schoolぷろじぇくと UMD-PG Edition Disc1</title>
+			<romSize>1764950016</romSize>
+			<publisher>Palace</publisher>
+			<location>7</location>
+			<sourceRom>umd dump kai v2</sourceRom>
+			<language>256</language>
+			<files>
+				<romCRC extension=".iso">635571B3</romCRC>
+			</files>
+			<im1CRC>501411DF</im1CRC>
+			<im2CRC>754375B6</im2CRC>
+			<comment>2010/01/29</comment>
+			<duplicateID>0</duplicateID>
+		</game>
+		<game>
+			<imageNumber>33</imageNumber>
+			<releaseNumber>33</releaseNumber>
+			<title>Schoolぷろじぇくと UMD-PG Edition Disc2</title>
+			<romSize>1768259584</romSize>
+			<publisher>Palace</publisher>
+			<location>7</location>
+			<sourceRom>umd dump kai v2</sourceRom>
+			<language>256</language>
+			<files>
+				<romCRC extension=".iso">C4D035FF</romCRC>
+			</files>
+			<im1CRC>501411DF</im1CRC>
+			<im2CRC>89447228</im2CRC>
+			<comment>2010/01/29</comment>
+			<duplicateID>0</duplicateID>
+		</game>
+		<game>
+			<imageNumber>34</imageNumber>
+			<releaseNumber>34</releaseNumber>
+			<title>催眠術2 UMD-PG Edition Disc1</title>
+			<romSize>1027244032</romSize>
+			<publisher>Palace</publisher>
+			<location>7</location>
+			<sourceRom>umd dump kai v2</sourceRom>
+			<language>256</language>
+			<files>
+				<romCRC extension=".iso">5C362A98</romCRC>
+			</files>
+			<im1CRC>7439DFFD</im1CRC>
+			<im2CRC>8F250084</im2CRC>
+			<comment>2010/01/29</comment>
+			<duplicateID>0</duplicateID>
+		</game>
+		<game>
+			<imageNumber>35</imageNumber>
+			<releaseNumber>35</releaseNumber>
+			<title>催眠術2 UMD-PG Edition Disc2</title>
+			<romSize>939130880</romSize>
+			<publisher>Palace</publisher>
+			<location>7</location>
+			<sourceRom>umd dump kai v2</sourceRom>
+			<language>256</language>
+			<files>
+				<romCRC extension=".iso">03C77910</romCRC>
+			</files>
+			<im1CRC>7439DFFD</im1CRC>
+			<im2CRC>7744CFD9</im2CRC>
+			<comment>2010/01/29</comment>
+			<duplicateID>0</duplicateID>
+		</game>
+		<game>
+			<imageNumber>36</imageNumber>
+			<releaseNumber>36</releaseNumber>
+			<title>催眠術2 UMD-PG Edition Disc3</title>
+			<romSize>1251868672</romSize>
+			<publisher>Palace</publisher>
+			<location>7</location>
+			<sourceRom>umd dump kai v2</sourceRom>
+			<language>256</language>
+			<files>
+				<romCRC extension=".iso">4981B029</romCRC>
+			</files>
+			<im1CRC>7439DFFD</im1CRC>
+			<im2CRC>7744CFD9</im2CRC>
+			<comment>2010/01/29</comment>
+			<duplicateID>0</duplicateID>
+		</game>
+		<game>
+			<imageNumber>37</imageNumber>
+			<releaseNumber>37</releaseNumber>
+			<title>車輪の国、向日葵の少女 UMD-PG Edition Disc1</title>
+			<romSize>1768292352</romSize>
+			<publisher>Palace</publisher>
+			<location>7</location>
+			<sourceRom>umd dump kai v2</sourceRom>
+			<language>256</language>
+			<files>
+				<romCRC extension=".iso">61603FA5</romCRC>
+			</files>
+			<im1CRC>75F920AC</im1CRC>
+			<im2CRC>FFD5C818</im2CRC>
+			<comment>2010/01/29</comment>
+			<duplicateID>0</duplicateID>
+		</game>
+		<game>
+			<imageNumber>38</imageNumber>
+			<releaseNumber>38</releaseNumber>
+			<title>車輪の国、向日葵の少女 UMD-PG Edition Disc2</title>
+			<romSize>1527513088</romSize>
+			<publisher>Palace</publisher>
+			<location>7</location>
+			<sourceRom>umd dump kai v2</sourceRom>
+			<language>256</language>
+			<files>
+				<romCRC extension=".iso">BA0E06D2</romCRC>
+			</files>
+			<im1CRC>75F920AC</im1CRC>
+			<im2CRC>97BB11CD</im2CRC>
+			<comment>2010/01/29</comment>
+			<duplicateID>0</duplicateID>
+		</game>
+		<game>
+			<imageNumber>39</imageNumber>
+			<releaseNumber>39</releaseNumber>
+			<title>車輪の国、向日葵の少女 UMD-PG Edition Disc3</title>
+			<romSize>1192755200</romSize>
+			<publisher>Palace</publisher>
+			<location>7</location>
+			<sourceRom>umd dump kai v2</sourceRom>
+			<language>256</language>
+			<files>
+				<romCRC extension=".iso">245B39ED</romCRC>
+			</files>
+			<im1CRC>75F920AC</im1CRC>
+			<im2CRC>97BB11CD</im2CRC>
+			<comment>2010/01/29</comment>
+			<duplicateID>0</duplicateID>
+		</game>
+		<game>
+			<imageNumber>40</imageNumber>
+			<releaseNumber>40</releaseNumber>
+			<title>車輪の国、向日葵の少女 UMD-PG Edition Disc4</title>
+			<romSize>967213056</romSize>
+			<publisher>Palace</publisher>
+			<location>7</location>
+			<sourceRom>umd dump kai v2</sourceRom>
+			<language>256</language>
+			<files>
+				<romCRC extension=".iso">8ACE81CB</romCRC>
+			</files>
+			<im1CRC>75F920AC</im1CRC>
+			<im2CRC>97BB11CD</im2CRC>
+			<comment>2010/01/29</comment>
+			<duplicateID>0</duplicateID>
+		</game>
+		<game>
+			<imageNumber>41</imageNumber>
+			<releaseNumber>41</releaseNumber>
+			<title>姪少女 UMD-PG Edition Disc1</title>
+			<romSize>1707245568</romSize>
+			<publisher>Palace</publisher>
+			<location>7</location>
+			<sourceRom>umd dump kai v2</sourceRom>
+			<language>256</language>
+			<files>
+				<romCRC extension=".iso">B20BC00E</romCRC>
+			</files>
+			<im1CRC>D97035BC</im1CRC>
+			<im2CRC>FD05B84D</im2CRC>
+			<comment>2010/01/29</comment>
+			<duplicateID>0</duplicateID>
+		</game>
+		<game>
+			<imageNumber>42</imageNumber>
+			<releaseNumber>42</releaseNumber>
+			<title>姪少女 UMD-PG Edition Disc2</title>
+			<romSize>1461256192</romSize>
+			<publisher>Palace</publisher>
+			<location>7</location>
+			<sourceRom>umd dump kai v2</sourceRom>
+			<language>256</language>
+			<files>
+				<romCRC extension=".iso">A5C0E2A1</romCRC>
+			</files>
+			<im1CRC>D97035BC</im1CRC>
+			<im2CRC>6B0E221F</im2CRC>
+			<comment>2010/01/29</comment>
+			<duplicateID>0</duplicateID>
+		</game>
+		<game>
+			<imageNumber>43</imageNumber>
+			<releaseNumber>43</releaseNumber>
+			<title>幼なじみと甘～くエッチに過ごす方法 UMD-PG Edition Disc1</title>
+			<romSize>1349419008</romSize>
+			<publisher>Palace</publisher>
+			<location>7</location>
+			<sourceRom>umd dump kai v2</sourceRom>
+			<language>256</language>
+			<files>
+				<romCRC extension=".iso">AF695C98</romCRC>
+			</files>
+			<im1CRC>25ED400E</im1CRC>
+			<im2CRC>4FECD2F7</im2CRC>
+			<comment>2010/01/29</comment>
+			<duplicateID>0</duplicateID>
+		</game>
+		<game>
+			<imageNumber>44</imageNumber>
+			<releaseNumber>44</releaseNumber>
+			<title>幼なじみと甘～くエッチに過ごす方法 UMD-PG Edition Disc2</title>
+			<romSize>1532035072</romSize>
+			<publisher>Palace</publisher>
+			<location>7</location>
+			<sourceRom>umd dump kai v2</sourceRom>
+			<language>256</language>
+			<files>
+				<romCRC extension=".iso">48ADF17F</romCRC>
+			</files>
+			<im1CRC>25ED400E</im1CRC>
+			<im2CRC>17330927</im2CRC>
+			<comment>2010/01/29</comment>
+			<duplicateID>0</duplicateID>
+		</game>
+		<game>
+			<imageNumber>45</imageNumber>
+			<releaseNumber>45</releaseNumber>
+			<title>虜ノ姫 ～淫魔の調律～ UMD-PG Edition Disc1</title>
+			<romSize>1646854144</romSize>
+			<publisher>Palace</publisher>
+			<location>7</location>
+			<sourceRom>umd dump kai v2</sourceRom>
+			<language>256</language>
+			<files>
+				<romCRC extension=".iso">F35600A5</romCRC>
+			</files>
+			<im1CRC>94EF8C1D</im1CRC>
+			<im2CRC>EC174859</im2CRC>
+			<comment>2010/01/29</comment>
+			<duplicateID>0</duplicateID>
+		</game>
+		<game>
+			<imageNumber>46</imageNumber>
+			<releaseNumber>46</releaseNumber>
+			<title>虜ノ姫 ～淫魔の調律～ UMD-PG Edition Disc2</title>
+			<romSize>1379729408</romSize>
+			<publisher>Palace</publisher>
+			<location>7</location>
+			<sourceRom>umd dump kai v2</sourceRom>
+			<language>256</language>
+			<files>
+				<romCRC extension=".iso">47BF5593</romCRC>
+			</files>
+			<im1CRC>94EF8C1D</im1CRC>
+			<im2CRC>ACF742AB</im2CRC>
+			<comment>2010/01/29</comment>
+			<duplicateID>0</duplicateID>
+		</game>
+		<game>
+			<imageNumber>47</imageNumber>
+			<releaseNumber>47</releaseNumber>
+			<title>裏・催眠術2 UMD-PG Edition Disc1</title>
+			<romSize>1743880192</romSize>
+			<publisher>Palace</publisher>
+			<location>7</location>
+			<sourceRom>umd dump kai v2</sourceRom>
+			<language>256</language>
+			<files>
+				<romCRC extension=".iso">054C90D4</romCRC>
+			</files>
+			<im1CRC>39F985BF</im1CRC>
+			<im2CRC>45CCB925</im2CRC>
+			<comment>2010/02/26</comment>
+			<duplicateID>0</duplicateID>
+		</game>
+		<game>
+			<imageNumber>48</imageNumber>
+			<releaseNumber>48</releaseNumber>
+			<title>裏・催眠術2 UMD-PG Edition Disc2</title>
+			<romSize>1216118784</romSize>
+			<publisher>Palace</publisher>
+			<location>7</location>
+			<sourceRom>umd dump kai v2</sourceRom>
+			<language>256</language>
+			<files>
+				<romCRC extension=".iso">1169D9B3</romCRC>
+			</files>
+			<im1CRC>39F985BF</im1CRC>
+			<im2CRC>45CCB925</im2CRC>
+			<comment>2010/02/26</comment>
+			<duplicateID>0</duplicateID>
+		</game>
+		<game>
+			<imageNumber>49</imageNumber>
+			<releaseNumber>49</releaseNumber>
+			<title>もみちゅぱティーチャー！巨乳姉妹と三角関係 UMD-PG Edition Disc1</title>
+			<romSize>1238827008</romSize>
+			<publisher>Palace</publisher>
+			<location>7</location>
+			<sourceRom>umd dump kai v2</sourceRom>
+			<language>256</language>
+			<files>
+				<romCRC extension=".iso">937626AE</romCRC>
+			</files>
+			<im1CRC>3E24EA92</im1CRC>
+			<im2CRC>8E25D9A0</im2CRC>
+			<comment>2010/03/31</comment>
+			<duplicateID>0</duplicateID>
+		</game>
+		<game>
+			<imageNumber>50</imageNumber>
+			<releaseNumber>50</releaseNumber>
+			<title>もみちゅぱティーチャー！巨乳姉妹と三角関係 UMD-PG Edition Disc2</title>
+			<romSize>1306624000</romSize>
+			<publisher>Palace</publisher>
+			<location>7</location>
+			<sourceRom>umd dump kai v2</sourceRom>
+			<language>256</language>
+			<files>
+				<romCRC extension=".iso">D1BA36E6</romCRC>
+			</files>
+			<im1CRC>3E24EA92</im1CRC>
+			<im2CRC>9D03D9C2</im2CRC>
+			<comment>2010/03/31</comment>
+			<duplicateID>0</duplicateID>
+		</game>
+		<game>
+			<imageNumber>51</imageNumber>
+			<releaseNumber>51</releaseNumber>
+			<title>Clover Heart's 玲亜編 UMD-PG Edition Disc1</title>
+			<romSize>1635123200</romSize>
+			<publisher>Palace</publisher>
+			<location>7</location>
+			<sourceRom>umd dump kai v2</sourceRom>
+			<language>256</language>
+			<files>
+				<romCRC extension=".iso">ECFE4C34</romCRC>
+			</files>
+			<im1CRC>0B1E0E8F</im1CRC>
+			<im2CRC>98AF024F</im2CRC>
+			<comment>2010/06/11</comment>
+			<duplicateID>0</duplicateID>
+		</game>
+		<game>
+			<imageNumber>52</imageNumber>
+			<releaseNumber>52</releaseNumber>
+			<title>Clover Heart's 玲亜編 UMD-PG Edition Disc2</title>
+			<romSize>1749614592</romSize>
+			<publisher>Palace</publisher>
+			<location>7</location>
+			<sourceRom>umd dump kai v2</sourceRom>
+			<language>256</language>
+			<files>
+				<romCRC extension=".iso">E2868232</romCRC>
+			</files>
+			<im1CRC>0B1E0E8F</im1CRC>
+			<im2CRC>37F3D5C8</im2CRC>
+			<comment>2010/06/11</comment>
+			<duplicateID>0</duplicateID>
+		</game>
+		<game>
+			<imageNumber>53</imageNumber>
+			<releaseNumber>53</releaseNumber>
+			<title>Clover Heart's 莉織編 UMD-PG Edition Disc1</title>
+			<romSize>1503985664</romSize>
+			<publisher>Palace</publisher>
+			<location>7</location>
+			<sourceRom>umd dump kai v2</sourceRom>
+			<language>256</language>
+			<files>
+				<romCRC extension=".iso">E2611CA8</romCRC>
+			</files>
+			<im1CRC>F1A80AC3</im1CRC>
+			<im2CRC>A5C393B9</im2CRC>
+			<comment>2010/06/11</comment>
+			<duplicateID>0</duplicateID>
+		</game>
+		<game>
+			<imageNumber>54</imageNumber>
+			<releaseNumber>54</releaseNumber>
+			<title>Clover Heart's 莉織編 UMD-PG Edition Disc2</title>
+			<romSize>1247182848</romSize>
+			<publisher>Palace</publisher>
+			<location>7</location>
+			<sourceRom>umd dump kai v2</sourceRom>
+			<language>256</language>
+			<files>
+				<romCRC extension=".iso">BD8BB964</romCRC>
+			</files>
+			<im1CRC>F1A80AC3</im1CRC>
+			<im2CRC>64E8641C</im2CRC>
+			<comment>2010/06/11</comment>
+			<duplicateID>0</duplicateID>
+		</game>
+		<game>
+			<imageNumber>55</imageNumber>
+			<releaseNumber>55</releaseNumber>
+			<title>彼女×彼女×彼女 ～三姉妹とのドキドキ共同生活～ UMD-PG Edition Disc1</title>
+			<romSize>1528856576</romSize>
+			<publisher>Palace</publisher>
+			<location>7</location>
+			<sourceRom>umd dump kai v2</sourceRom>
+			<language>256</language>
+			<files>
+				<romCRC extension=".iso">7E1114F3</romCRC>
+			</files>
+			<im1CRC>CF5B47AA</im1CRC>
+			<im2CRC>03ECCDAC</im2CRC>
+			<comment>2010/06/11</comment>
+			<duplicateID>0</duplicateID>
+		</game>
+		<game>
+			<imageNumber>56</imageNumber>
+			<releaseNumber>56</releaseNumber>
+			<title>彼女×彼女×彼女 ～三姉妹とのドキドキ共同生活～ UMD-PG Edition Disc2</title>
+			<romSize>1552285696</romSize>
+			<publisher>Palace</publisher>
+			<location>7</location>
+			<sourceRom>umd dump kai v2</sourceRom>
+			<language>256</language>
+			<files>
+				<romCRC extension=".iso">502F5EBD</romCRC>
+			</files>
+			<im1CRC>CF5B47AA</im1CRC>
+			<im2CRC>33C99903</im2CRC>
+			<comment>2010/06/11</comment>
+			<duplicateID>0</duplicateID>
+		</game>
+		<game>
+			<imageNumber>57</imageNumber>
+			<releaseNumber>57</releaseNumber>
+			<title>School Days UMD-PG Edition Disc1</title>
+			<romSize>1760526336</romSize>
+			<publisher>Palace</publisher>
+			<location>7</location>
+			<sourceRom>umd dump kai v2</sourceRom>
+			<language>256</language>
+			<files>
+				<romCRC extension=".iso">4E0A1207</romCRC>
+			</files>
+			<im1CRC>67D408DC</im1CRC>
+			<im2CRC>4CBC56E2</im2CRC>
+			<comment>2010/06/30</comment>
+			<duplicateID>0</duplicateID>
+		</game>
+		<game>
+			<imageNumber>58</imageNumber>
+			<releaseNumber>58</releaseNumber>
+			<title>School Days UMD-PG Edition Disc2</title>
+			<romSize>1763835904</romSize>
+			<publisher>Palace</publisher>
+			<location>7</location>
+			<sourceRom>umd dump kai v2</sourceRom>
+			<language>256</language>
+			<files>
+				<romCRC extension=".iso">CEC5DF0E</romCRC>
+			</files>
+			<im1CRC>67D408DC</im1CRC>
+			<im2CRC>AD9AF1F6</im2CRC>
+			<comment>2010/06/30</comment>
+			<duplicateID>0</duplicateID>
+		</game>
+		<game>
+			<imageNumber>59</imageNumber>
+			<releaseNumber>59</releaseNumber>
+			<title>School Days UMD-PG Edition Disc3</title>
+			<romSize>1766555648</romSize>
+			<publisher>Palace</publisher>
+			<location>7</location>
+			<sourceRom>umd dump kai v2</sourceRom>
+			<language>256</language>
+			<files>
+				<romCRC extension=".iso">E6B5966F</romCRC>
+			</files>
+			<im1CRC>67D408DC</im1CRC>
+			<im2CRC>F4590EF0</im2CRC>
+			<comment>2010/06/30</comment>
+			<duplicateID>0</duplicateID>
+		</game>
+		<game>
+			<imageNumber>60</imageNumber>
+			<releaseNumber>60</releaseNumber>
+			<title>School Days UMD-PG Edition Disc4</title>
+			<romSize>1766817792</romSize>
+			<publisher>Palace</publisher>
+			<location>7</location>
+			<sourceRom>umd dump kai v2</sourceRom>
+			<language>256</language>
+			<files>
+				<romCRC extension=".iso">BDE3E2E2</romCRC>
+			</files>
+			<im1CRC>67D408DC</im1CRC>
+			<im2CRC>E9DDBE87</im2CRC>
+			<comment>2010/06/30</comment>
+			<duplicateID>0</duplicateID>
+		</game>
+		<game>
+			<imageNumber>61</imageNumber>
+			<releaseNumber>61</releaseNumber>
+			<title>触手少女 UMD-PG Edition</title>
+			<romSize>1680375808</romSize>
+			<publisher>KTファクトリー</publisher>
+			<location>7</location>
+			<sourceRom>umd dump kai v2</sourceRom>
+			<language>256</language>
+			<files>
+				<romCRC extension=".iso">0E52B9C9</romCRC>
+			</files>
+			<im1CRC>6F2CE999</im1CRC>
+			<im2CRC>3633F94D</im2CRC>
+			<comment>2010/08/09</comment>
+			<duplicateID>0</duplicateID>
+		</game>
+		<game>
+			<imageNumber>62</imageNumber>
+			<releaseNumber>62</releaseNumber>
+			<title>ぬがせっ！！Super SEXY 麻雀3</title>
+			<romSize>1669693440</romSize>
+			<publisher>メディアバンク</publisher>
+			<location>7</location>
+			<sourceRom>umd dump kai v2</sourceRom>
+			<language>256</language>
+			<files>
+				<romCRC extension=".iso">CC733686</romCRC>
+			</files>
+			<im1CRC>BDCBABCD</im1CRC>
+			<im2CRC>5E9E7220</im2CRC>
+			<comment>2010/08/11</comment>
+			<duplicateID>0</duplicateID>
+		</game>
+		<game>
+			<imageNumber>63</imageNumber>
+			<releaseNumber>63</releaseNumber>
+			<title>Temptation2 UMD-PG Edition</title>
+			<romSize>1583448064</romSize>
+			<publisher>KTファクトリー</publisher>
+			<location>7</location>
+			<sourceRom>umd dump kai v2</sourceRom>
+			<language>256</language>
+			<files>
+				<romCRC extension=".iso">C9252824</romCRC>
+			</files>
+			<im1CRC>97F6FE23</im1CRC>
+			<im2CRC>EF761BA4</im2CRC>
+			<comment>2010/09/10</comment>
+			<duplicateID>0</duplicateID>
+		</game>
+		<game>
+			<imageNumber>64</imageNumber>
+			<releaseNumber>64</releaseNumber>
+			<title>Summer Days UMD-PG Edition Disc1</title>
+			<romSize>1762328576</romSize>
+			<publisher>Palace</publisher>
+			<location>7</location>
+			<sourceRom>umd dump kai v2</sourceRom>
+			<language>256</language>
+			<files>
+				<romCRC extension=".iso">FF161C09</romCRC>
+			</files>
+			<im1CRC>D4820B0C</im1CRC>
+			<im2CRC>FA50A862</im2CRC>
+			<comment>2010/09/24</comment>
+			<duplicateID>0</duplicateID>
+		</game>
+		<game>
+			<imageNumber>65</imageNumber>
+			<releaseNumber>65</releaseNumber>
+			<title>Summer Days UMD-PG Edition Disc2</title>
+			<romSize>1711833088</romSize>
+			<publisher>Palace</publisher>
+			<location>7</location>
+			<sourceRom>umd dump kai v2</sourceRom>
+			<language>256</language>
+			<files>
+				<romCRC extension=".iso">DD789EA9</romCRC>
+			</files>
+			<im1CRC>D4820B0C</im1CRC>
+			<im2CRC>1C3ABB0E</im2CRC>
+			<comment>2010/09/24</comment>
+			<duplicateID>0</duplicateID>
+		</game>
+		<game>
+			<imageNumber>66</imageNumber>
+			<releaseNumber>66</releaseNumber>
+			<title>Summer Days UMD-PG Edition Disc3</title>
+			<romSize>1735819264</romSize>
+			<publisher>Palace</publisher>
+			<location>7</location>
+			<sourceRom>umd dump kai v2</sourceRom>
+			<language>256</language>
+			<files>
+				<romCRC extension=".iso">FEA16E9B</romCRC>
+			</files>
+			<im1CRC>D4820B0C</im1CRC>
+			<im2CRC>9F886E8E</im2CRC>
+			<comment>2010/09/24</comment>
+			<duplicateID>0</duplicateID>
+		</game>
+		<game>
+			<imageNumber>67</imageNumber>
+			<releaseNumber>67</releaseNumber>
+			<title>あねいも2 Second Stage UMD-PG Editoin Disc1</title>
+			<romSize>1673691136</romSize>
+			<publisher>Palace</publisher>
+			<location>7</location>
+			<sourceRom>umd dump kai v2</sourceRom>
+			<language>256</language>
+			<files>
+				<romCRC extension=".iso">171DA29C</romCRC>
+			</files>
+			<im1CRC>7B257DD0</im1CRC>
+			<im2CRC>36BAA388</im2CRC>
+			<comment>2010/09/24</comment>
+			<duplicateID>0</duplicateID>
+		</game>
+		<game>
+			<imageNumber>68</imageNumber>
+			<releaseNumber>68</releaseNumber>
+			<title>あねいも2 Second Stage UMD-PG Editoin Disc2</title>
+			<romSize>1727561728</romSize>
+			<publisher>Palace</publisher>
+			<location>7</location>
+			<sourceRom>umd dump kai v2</sourceRom>
+			<language>256</language>
+			<files>
+				<romCRC extension=".iso">16587B86</romCRC>
+			</files>
+			<im1CRC>7B257DD0</im1CRC>
+			<im2CRC>E7E218BF</im2CRC>
+			<comment>2010/09/24</comment>
+			<duplicateID>0</duplicateID>
+		</game>
+		<game>
+			<imageNumber>69</imageNumber>
+			<releaseNumber>69</releaseNumber>
+			<title>あねいも2 Second Stage UMD-PG Editoin Disc3</title>
+			<romSize>1736540160</romSize>
+			<publisher>Palace</publisher>
+			<location>7</location>
+			<sourceRom>umd dump kai v2</sourceRom>
+			<language>256</language>
+			<files>
+				<romCRC extension=".iso">81E6D455</romCRC>
+			</files>
+			<im1CRC>7B257DD0</im1CRC>
+			<im2CRC>4047561D</im2CRC>
+			<comment>2010/09/24</comment>
+			<duplicateID>0</duplicateID>
+		</game>
+		<game>
+			<imageNumber>70</imageNumber>
+			<releaseNumber>70</releaseNumber>
+			<title>ツイ☆てる UMD-PG Edition Disc1</title>
+			<romSize>1453490176</romSize>
+			<publisher>ぷちぱれす</publisher>
+			<location>7</location>
+			<sourceRom>umd dump kai v2</sourceRom>
+			<language>256</language>
+			<files>
+				<romCRC extension=".iso">E5FECDCE</romCRC>
+			</files>
+			<im1CRC>F7FA4F29</im1CRC>
+			<im2CRC>3F4281A3</im2CRC>
+			<comment>2010/09/24</comment>
+			<duplicateID>0</duplicateID>
+		</game>
+		<game>
+			<imageNumber>71</imageNumber>
+			<releaseNumber>71</releaseNumber>
+			<title>ツイ☆てる UMD-PG Edition Disc2</title>
+			<romSize>1748402176</romSize>
+			<publisher>ぷちぱれす</publisher>
+			<location>7</location>
+			<sourceRom>umd dump kai v2</sourceRom>
+			<language>256</language>
+			<files>
+				<romCRC extension=".iso">44872D1E</romCRC>
+			</files>
+			<im1CRC>F7FA4F29</im1CRC>
+			<im2CRC>F93977B6</im2CRC>
+			<comment>2010/09/24</comment>
+			<duplicateID>0</duplicateID>
+		</game>
+		<game>
+			<imageNumber>72</imageNumber>
+			<releaseNumber>72</releaseNumber>
+			<title>姉、ちゃんとしようよっ！ OVA UMD-PG Edition</title>
+			<romSize>1583742976</romSize>
+			<publisher>ぷちぱれす</publisher>
+			<location>7</location>
+			<sourceRom>umd dump kai v2</sourceRom>
+			<language>256</language>
+			<files>
+				<romCRC extension=".iso">D9366BF0</romCRC>
+			</files>
+			<im1CRC>BF4F65C4</im1CRC>
+			<im2CRC>35DA07DF</im2CRC>
+			<comment>2010/09/24</comment>
+			<duplicateID>0</duplicateID>
+		</game>
+		<game>
+			<imageNumber>73</imageNumber>
+			<releaseNumber>73</releaseNumber>
+			<title>Temptation ～催淫の奈落～ UMD-PG Edition</title>
+			<romSize>1633615872</romSize>
+			<publisher>KTファクトリー</publisher>
+			<location>7</location>
+			<sourceRom>umd dump kai v2</sourceRom>
+			<language>256</language>
+			<files>
+				<romCRC extension=".iso">BDFDA478</romCRC>
+			</files>
+			<im1CRC>8F02E5FC</im1CRC>
+			<im2CRC>21A1B437</im2CRC>
+			<comment>2010/10/10</comment>
+			<duplicateID>0</duplicateID>
+		</game>
+		<game>
+			<imageNumber>74</imageNumber>
+			<releaseNumber>74</releaseNumber>
+			<title>ブル汁 UMD-PG Edition</title>
+			<romSize>1741225984</romSize>
+			<publisher>KTファクトリー</publisher>
+			<location>7</location>
+			<sourceRom>umd dump kai v2</sourceRom>
+			<language>256</language>
+			<files>
+				<romCRC extension=".iso">AE121C09</romCRC>
+			</files>
+			<im1CRC>042E0FE6</im1CRC>
+			<im2CRC>B7F92FCB</im2CRC>
+			<comment>2010/10/10</comment>
+			<duplicateID>0</duplicateID>
+		</game>
+		<game>
+			<imageNumber>75</imageNumber>
+			<releaseNumber>75</releaseNumber>
+			<title>熱闘！SEXY 野球拳 ～最初はグーかもね！～</title>
+			<romSize>949977088</romSize>
+			<publisher>セブンエイト</publisher>
+			<location>7</location>
+			<sourceRom>umd dump kai v2</sourceRom>
+			<language>256</language>
+			<files>
+				<romCRC extension=".iso">E7A137F6</romCRC>
+			</files>
+			<im1CRC>1A6464ED</im1CRC>
+			<im2CRC>3BB04262</im2CRC>
+			<comment>2010/10/22</comment>
+			<duplicateID>0</duplicateID>
+		</game>
+		<game>
+			<imageNumber>76</imageNumber>
+			<releaseNumber>76</releaseNumber>
+			<title>ぬがせっ！！DISCIPLINE 麻雀DX</title>
+			<romSize>1370423296</romSize>
+			<publisher>メディアバンク</publisher>
+			<location>7</location>
+			<sourceRom>umd dump kai v2</sourceRom>
+			<language>256</language>
+			<files>
+				<romCRC extension=".iso">81C13431</romCRC>
+			</files>
+			<im1CRC>931C92AF</im1CRC>
+			<im2CRC>07CAE95E</im2CRC>
+			<comment>2010/11/05</comment>
+			<duplicateID>0</duplicateID>
+		</game>
+
+
+		<game>
+			<imageNumber>77</imageNumber>
+			<releaseNumber>77</releaseNumber>
+			<title>征触者 ～触手に堕ちる少女達～ UMD-PG Edition</title>
+			<romSize>1677262848</romSize>
+			<publisher>KTファクトリー</publisher>
+			<location>7</location>
+			<sourceRom>umd dump kai v2</sourceRom>
+			<language>256</language>
+			<files>
+				<romCRC extension=".iso">AECA0DFA</romCRC>
+			</files>
+			<im1CRC>B244184B</im1CRC>
+			<im2CRC>AFDB0EF4</im2CRC>
+			<comment>2010/11/10</comment>
+			<duplicateID>0</duplicateID>
+		</game>
+		<game>
+			<imageNumber>78</imageNumber>
+			<releaseNumber>78</releaseNumber>
+			<title>密室少女 おじさんとわたし UMD-PG Edition</title>
+			<romSize>1671954432</romSize>
+			<publisher>KTファクトリー</publisher>
+			<location>7</location>
+			<sourceRom>umd dump kai v2</sourceRom>
+			<language>256</language>
+			<files>
+				<romCRC extension=".iso">E466BADB</romCRC>
+			</files>
+			<im1CRC>CF3ED444</im1CRC>
+			<im2CRC>AFCCDA57</im2CRC>
+			<comment>2010/11/10</comment>
+			<duplicateID>0</duplicateID>
+		</game>
+		<game>
+			<imageNumber>79</imageNumber>
+			<releaseNumber>79</releaseNumber>
+			<title>ぬる汁 UMD-PG Edition</title>
+			<romSize>1739456512</romSize>
+			<publisher>KTファクトリー</publisher>
+			<location>7</location>
+			<sourceRom>umd dump kai v2</sourceRom>
+			<language>256</language>
+			<files>
+				<romCRC extension=".iso">6AC9077C</romCRC>
+			</files>
+			<im1CRC>D4FF76CC</im1CRC>
+			<im2CRC>DDBCA106</im2CRC>
+			<comment>2010/12/01</comment>
+			<duplicateID>0</duplicateID>
+		</game>
+		<game>
+			<imageNumber>80</imageNumber>
+			<releaseNumber>80</releaseNumber>
+			<title>爆乳教育実習生 強制校内SEX UMD-PG Edition</title>
+			<romSize>1751711744</romSize>
+			<publisher>KTファクトリー</publisher>
+			<location>7</location>
+			<sourceRom>umd dump kai v2</sourceRom>
+			<language>256</language>
+			<files>
+				<romCRC extension=".iso">B9245D28</romCRC>
+			</files>
+			<im1CRC>CB9A14EC</im1CRC>
+			<im2CRC>C5CB4166</im2CRC>
+			<comment>2010/12/01</comment>
+			<duplicateID>0</duplicateID>
+		</game>
+		<game>
+			<imageNumber>81</imageNumber>
+			<releaseNumber>81</releaseNumber>
+			<title>らぶフェチ ～手コキ編～ UMD-PG Edition</title>
+			<romSize>1697480704</romSize>
+			<publisher>Palace</publisher>
+			<location>7</location>
+			<sourceRom>umd dump kai v2</sourceRom>
+			<language>256</language>
+			<files>
+				<romCRC extension=".iso">D24ECC09</romCRC>
+			</files>
+			<im1CRC>F394112B</im1CRC>
+			<im2CRC>A3FA4363</im2CRC>
+			<comment>2010/12/17</comment>
+			<duplicateID>0</duplicateID>
+		</game>
+		<game>
+			<imageNumber>82</imageNumber>
+			<releaseNumber>82</releaseNumber>
+			<title>擬態催眠 UMD-PG Edition Disc1</title>
+			<romSize>1231126528</romSize>
+			<publisher>Palace</publisher>
+			<location>7</location>
+			<sourceRom>umd dump kai v2</sourceRom>
+			<language>256</language>
+			<files>
+				<romCRC extension=".iso">6B3210BE</romCRC>
+			</files>
+			<im1CRC>FC8139AC</im1CRC>
+			<im2CRC>03275521</im2CRC>
+			<comment>2010/12/17</comment>
+			<duplicateID>0</duplicateID>
+		</game>
+		<game>
+			<imageNumber>83</imageNumber>
+			<releaseNumber>83</releaseNumber>
+			<title>擬態催眠 UMD-PG Edition Disc2</title>
+			<romSize>1357119488</romSize>
+			<publisher>Palace</publisher>
+			<location>7</location>
+			<sourceRom>umd dump kai v2</sourceRom>
+			<language>256</language>
+			<files>
+				<romCRC extension=".iso">5E9873E6</romCRC>
+			</files>
+			<im1CRC>FC8139AC</im1CRC>
+			<im2CRC>8B224E40</im2CRC>
+			<comment>2010/12/17</comment>
+			<duplicateID>0</duplicateID>
+		</game>
+		<game>
+			<imageNumber>84</imageNumber>
+			<releaseNumber>84</releaseNumber>
+			<title>擬態催眠 UMD-PG Edition Disc3</title>
+			<romSize>1258389504</romSize>
+			<publisher>Palace</publisher>
+			<location>7</location>
+			<sourceRom>umd dump kai v2</sourceRom>
+			<language>256</language>
+			<files>
+				<romCRC extension=".iso">9F441A05</romCRC>
+			</files>
+			<im1CRC>FC8139AC</im1CRC>
+			<im2CRC>8B224E40</im2CRC>
+			<comment>2010/12/17</comment>
+			<duplicateID>0</duplicateID>
+		</game>
+		<game>
+			<imageNumber>85</imageNumber>
+			<releaseNumber>85</releaseNumber>
+			<title>擬態催眠 UMD-PG Edition Disc4</title>
+			<romSize>1392443392</romSize>
+			<publisher>Palace</publisher>
+			<location>7</location>
+			<sourceRom>umd dump kai v2</sourceRom>
+			<language>256</language>
+			<files>
+				<romCRC extension=".iso">64AA2124</romCRC>
+			</files>
+			<im1CRC>FC8139AC</im1CRC>
+			<im2CRC>8B224E40</im2CRC>
+			<comment>2010/12/17</comment>
+			<duplicateID>0</duplicateID>
+		</game>
+		<game>
+			<imageNumber>86</imageNumber>
+			<releaseNumber>86</releaseNumber>
+			<title>彼女×彼女×彼女 ドキドキフルスロットル！ UMD-PG Edition</title>
+			<romSize>1768456192</romSize>
+			<publisher>Palace</publisher>
+			<location>7</location>
+			<sourceRom>umd dump kai v2</sourceRom>
+			<language>256</language>
+			<files>
+				<romCRC extension=".iso">F7E6C129</romCRC>
+			</files>
+			<im1CRC>D19B89D9</im1CRC>
+			<im2CRC>4CD3A308</im2CRC>
+			<comment>2010/12/17</comment>
+			<duplicateID>0</duplicateID>
+		</game>
+		<game>
+			<imageNumber>87</imageNumber>
+			<releaseNumber>87</releaseNumber>
+			<title>娘姉妹 UMD-PG Edition Disc1</title>
+			<romSize>1499725824</romSize>
+			<publisher>Palace</publisher>
+			<location>7</location>
+			<sourceRom>umd dump kai v2</sourceRom>
+			<language>256</language>
+			<files>
+				<romCRC extension=".iso">26B65FF9</romCRC>
+			</files>
+			<im1CRC>B9478675</im1CRC>
+			<im2CRC>BCD67654</im2CRC>
+			<comment>2010/12/17</comment>
+			<duplicateID>0</duplicateID>
+		</game>
+		<game>
+			<imageNumber>88</imageNumber>
+			<releaseNumber>88</releaseNumber>
+			<title>娘姉妹 UMD-PG Edition Disc2</title>
+			<romSize>1403289600</romSize>
+			<publisher>Palace</publisher>
+			<location>7</location>
+			<sourceRom>umd dump kai v2</sourceRom>
+			<language>256</language>
+			<files>
+				<romCRC extension=".iso">CA084F85</romCRC>
+			</files>
+			<im1CRC>B9478675</im1CRC>
+			<im2CRC>088762B5</im2CRC>
+			<comment>2010/12/17</comment>
+			<duplicateID>0</duplicateID>
+		</game>
+		<game>
+			<imageNumber>89</imageNumber>
+			<releaseNumber>89</releaseNumber>
+			<title>私はセックス人形 ～気の済むまでいじめて下さい～ UMD-PG Edition</title>
+			<romSize>1761345536</romSize>
+			<publisher>KTファクトリー</publisher>
+			<location>7</location>
+			<sourceRom>umd dump kai v2</sourceRom>
+			<language>256</language>
+			<files>
+				<romCRC extension=".iso">C4B86DF6</romCRC>
+			</files>
+			<im1CRC>EA2D3D73</im1CRC>
+			<im2CRC>D9284BAA</im2CRC>
+			<comment>2011/01/10</comment>
+			<duplicateID>0</duplicateID>
+		</game>
+		<game>
+			<imageNumber>90</imageNumber>
+			<releaseNumber>90</releaseNumber>
+			<title>ぬがせっ！！Super SEXY 麻雀4</title>
+			<romSize>1738407936</romSize>
+			<publisher>メディアバンク</publisher>
+			<location>7</location>
+			<sourceRom>umd dump kai v2</sourceRom>
+			<language>256</language>
+			<files>
+				<romCRC extension=".iso">6DF18F66</romCRC>
+			</files>
+			<im1CRC>6232C6D8</im1CRC>
+			<im2CRC>9BA842E7</im2CRC>
+			<comment>2011/01/28</comment>
+			<duplicateID>0</duplicateID>
+		</game>
+		<game>
+			<imageNumber>91</imageNumber>
+			<releaseNumber>91</releaseNumber>
+			<title>らぶフェチ パイズリ編 UMD-PG Edition</title>
+			<romSize>1767079936</romSize>
+			<publisher>Palace</publisher>
+			<location>7</location>
+			<sourceRom>umd dump kai v2</sourceRom>
+			<language>256</language>
+			<files>
+				<romCRC extension=".iso">65B3FE78</romCRC>
+			</files>
+			<im1CRC>CE8067C2</im1CRC>
+			<im2CRC>F9C98897</im2CRC>
+			<comment>2011/01/28</comment>
+			<duplicateID>0</duplicateID>
+		</game>
+		<game>
+			<imageNumber>92</imageNumber>
+			<releaseNumber>92</releaseNumber>
+			<title>淫妖蟲 ～凌触学園退魔録～ UMD-PG Edition Disc1</title>
+			<romSize>1574699008</romSize>
+			<publisher>Palace</publisher>
+			<location>7</location>
+			<sourceRom>umd dump kai v2</sourceRom>
+			<language>256</language>
+			<files>
+				<romCRC extension=".iso">DD36B24C</romCRC>
+			</files>
+			<im1CRC>89CCD37B</im1CRC>
+			<im2CRC>BC5DFD33</im2CRC>
+			<comment>2011/01/28</comment>
+			<duplicateID>0</duplicateID>
+		</game>
+		<game>
+			<imageNumber>93</imageNumber>
+			<releaseNumber>93</releaseNumber>
+			<title>淫妖蟲 ～凌触学園退魔録～ UMD-PG Edition Disc2</title>
+			<romSize>1224867840</romSize>
+			<publisher>Palace</publisher>
+			<location>7</location>
+			<sourceRom>umd dump kai v2</sourceRom>
+			<language>256</language>
+			<files>
+				<romCRC extension=".iso">2CC1EF7D</romCRC>
+			</files>
+			<im1CRC>89CCD37B</im1CRC>
+			<im2CRC>55F7D365</im2CRC>
+			<comment>2011/01/28</comment>
+			<duplicateID>0</duplicateID>
+		</game>
+		<game>
+			<imageNumber>94</imageNumber>
+			<releaseNumber>94</releaseNumber>
+			<title>堕ちた保健医 ～ザーメンまみれの白衣～ UMD-PG Edition</title>
+			<romSize>1764818944</romSize>
+			<publisher>KTファクトリー</publisher>
+			<location>7</location>
+			<sourceRom>umd dump kai v2</sourceRom>
+			<language>256</language>
+			<files>
+				<romCRC extension=".iso">002A8504</romCRC>
+			</files>
+			<im1CRC>E44BFA81</im1CRC>
+			<im2CRC>704C30BE</im2CRC>
+			<comment>2011/02/10</comment>
+			<duplicateID>0</duplicateID>
+		</game>
+		<game>
+			<imageNumber>95</imageNumber>
+			<releaseNumber>95</releaseNumber>
+			<title>らぶフェチ 覗き・オナニー編 UMD-PG Edition</title>
+			<romSize>1767964672</romSize>
+			<publisher>Palace</publisher>
+			<location>7</location>
+			<sourceRom>umd dump kai v2</sourceRom>
+			<language>256</language>
+			<files>
+				<romCRC extension=".iso">976EE339</romCRC>
+			</files>
+			<im1CRC>2F5B70E9</im1CRC>
+			<im2CRC>DC7020F0</im2CRC>
+			<comment>2011/02/25</comment>
+			<duplicateID>0</duplicateID>
+		</game>
+		<game>
+			<imageNumber>96</imageNumber>
+			<releaseNumber>96</releaseNumber>
+			<title>催眠生活 ～校則だから仕方ない！？～ UMD-PG Edition Disc1</title>
+			<romSize>1764196352</romSize>
+			<publisher>Palace</publisher>
+			<location>7</location>
+			<sourceRom>umd dump kai v2</sourceRom>
+			<language>256</language>
+			<files>
+				<romCRC extension=".iso">ACEB47C0</romCRC>
+			</files>
+			<im1CRC>A1209D4F</im1CRC>
+			<im2CRC>EFB10BD9</im2CRC>
+			<comment>2011/02/25</comment>
+			<duplicateID>0</duplicateID>
+		</game>
+		<game>
+			<imageNumber>97</imageNumber>
+			<releaseNumber>97</releaseNumber>
+			<title>催眠生活 ～校則だから仕方ない！？～ UMD-PG Edition Disc2</title>
+			<romSize>1766490112</romSize>
+			<publisher>Palace</publisher>
+			<location>7</location>
+			<sourceRom>umd dump kai v2</sourceRom>
+			<language>256</language>
+			<files>
+				<romCRC extension=".iso">7F1F2C09</romCRC>
+			</files>
+			<im1CRC>A1209D4F</im1CRC>
+			<im2CRC>A073240F</im2CRC>
+			<comment>2011/02/25</comment>
+			<duplicateID>0</duplicateID>
+		</game>
+		<game>
+			<imageNumber>98</imageNumber>
+			<releaseNumber>98</releaseNumber>
+			<title>秋のうららの ～あかね色商店街～ UMD-PG Edition Disc1</title>
+			<romSize>1649737728</romSize>
+			<publisher>Palace</publisher>
+			<location>7</location>
+			<sourceRom>umd dump kai v2</sourceRom>
+			<language>256</language>
+			<files>
+				<romCRC extension=".iso">A0AAEA5C</romCRC>
+			</files>
+			<im1CRC>E14B31F2</im1CRC>
+			<im2CRC>B2AA0BE6</im2CRC>
+			<comment>2011/02/25</comment>
+			<duplicateID>0</duplicateID>
+		</game>
+		<game>
+			<imageNumber>99</imageNumber>
+			<releaseNumber>99</releaseNumber>
+			<title>秋のうららの ～あかね色商店街～ UMD-PG Edition Disc2</title>
+			<romSize>1512243200</romSize>
+			<publisher>Palace</publisher>
+			<location>7</location>
+			<sourceRom>umd dump kai v2</sourceRom>
+			<language>256</language>
+			<files>
+				<romCRC extension=".iso">8D4DB1A9</romCRC>
+			</files>
+			<im1CRC>E14B31F2</im1CRC>
+			<im2CRC>5B407FC2</im2CRC>
+			<comment>2011/02/25</comment>
+			<duplicateID>0</duplicateID>
+		</game>
+		<game>
+			<imageNumber>100</imageNumber>
+			<releaseNumber>100</releaseNumber>
+			<title>魔物娘との性活 ～ラミアの場合～ UMD-PG Edition</title>
+			<romSize>1137836032</romSize>
+			<publisher>ぷちぱれす</publisher>
+			<location>7</location>
+			<sourceRom>umd dump kai v2</sourceRom>
+			<language>256</language>
+			<files>
+				<romCRC extension=".iso">914F9EBE</romCRC>
+			</files>
+			<im1CRC>0B2932E1</im1CRC>
+			<im2CRC>E6123099</im2CRC>
+			<comment>2011/02/25</comment>
+			<duplicateID>0</duplicateID>
+		</game>
+		<game>
+			<imageNumber>101</imageNumber>
+			<releaseNumber>101</releaseNumber>
+			<title>ぬがせっ！！SEXYスロット天国DX</title>
+			<romSize>1750827008</romSize>
+			<publisher>メディアバンク</publisher>
+			<location>7</location>
+			<sourceRom>umd dump kai v2</sourceRom>
+			<language>256</language>
+			<files>
+				<romCRC extension=".iso">51B1046F</romCRC>
+			</files>
+			<im1CRC>076310F0</im1CRC>
+			<im2CRC>22DAF1AD</im2CRC>
+			<comment>2011/03/04</comment>
+			<duplicateID>0</duplicateID>
+		</game>
+		<game>
+			<imageNumber>102</imageNumber>
+			<releaseNumber>102</releaseNumber>
+			<title>せっくすろいどになかだし！ UMD-PG Edition</title>
+			<romSize>1717075968</romSize>
+			<publisher>KTファクトリー</publisher>
+			<location>7</location>
+			<sourceRom>umd dump kai v2</sourceRom>
+			<language>256</language>
+			<files>
+				<romCRC extension=".iso">2FB3633C</romCRC>
+			</files>
+			<im1CRC>C890BF30</im1CRC>
+			<im2CRC>568A9E4E</im2CRC>
+			<comment>2011/03/10</comment>
+			<duplicateID>0</duplicateID>
+		</game>
+		<game>
+			<imageNumber>103</imageNumber>
+			<releaseNumber>103</releaseNumber>
+			<title>人妻教師中出し UMD-PG Edition</title>
+			<romSize>1625882624</romSize>
+			<publisher>KTファクトリー</publisher>
+			<location>7</location>
+			<sourceRom>umd dump kai v2</sourceRom>
+			<language>256</language>
+			<files>
+				<romCRC extension=".iso">F3E197BD</romCRC>
+			</files>
+			<im1CRC>992E5BBC</im1CRC>
+			<im2CRC>6548CD5A</im2CRC>
+			<comment>2011/03/10</comment>
+			<duplicateID>0</duplicateID>
+		</game>
+		<game>
+			<imageNumber>104</imageNumber>
+			<releaseNumber>104</releaseNumber>
+			<title>ルナベース 地球防衛軍女子部 飛び出せ！野球拳3D</title>
+			<romSize>797278208</romSize>
+			<publisher>メディアバンク</publisher>
+			<location>7</location>
+			<sourceRom>umd dump kai v2</sourceRom>
+			<language>256</language>
+			<files>
+				<romCRC extension=".iso">54766087</romCRC>
+			</files>
+			<im1CRC>DD1BE6A5</im1CRC>
+			<im2CRC>918C333E</im2CRC>
+			<comment>2011/03/25</comment>
+			<duplicateID>0</duplicateID>
+		</game>
+		<game>
+			<imageNumber>105</imageNumber>
+			<releaseNumber>105</releaseNumber>
+			<title>世界を征服するための、3つの方法 UMD-PG Edition Disc1</title>
+			<romSize>1609531392</romSize>
+			<publisher>Palace</publisher>
+			<location>7</location>
+			<sourceRom>umd dump kai v2</sourceRom>
+			<language>256</language>
+			<files>
+				<romCRC extension=".iso">4112D560</romCRC>
+			</files>
+			<im1CRC>33C09032</im1CRC>
+			<im2CRC>52317E41</im2CRC>
+			<comment>2011/03/25</comment>
+			<duplicateID>0</duplicateID>
+		</game>
+		<game>
+			<imageNumber>106</imageNumber>
+			<releaseNumber>106</releaseNumber>
+			<title>世界を征服するための、3つの方法 UMD-PG Edition Disc2</title>
+			<romSize>1622769664</romSize>
+			<publisher>Palace</publisher>
+			<location>7</location>
+			<sourceRom>umd dump kai v2</sourceRom>
+			<language>256</language>
+			<files>
+				<romCRC extension=".iso">56F7A72E</romCRC>
+			</files>
+			<im1CRC>33C09032</im1CRC>
+			<im2CRC>A0A89FA1</im2CRC>
+			<comment>2011/03/25</comment>
+			<duplicateID>0</duplicateID>
+		</game>
+		<game>
+			<imageNumber>107</imageNumber>
+			<releaseNumber>107</releaseNumber>
+			<title>らぶフェチ 脚フェチ・足コキ編 UMD-PG Edition</title>
+			<romSize>1767374848</romSize>
+			<publisher>Palace</publisher>
+			<location>7</location>
+			<sourceRom>umd dump kai v2</sourceRom>
+			<language>256</language>
+			<files>
+				<romCRC extension=".iso">21082A23</romCRC>
+			</files>
+			<im1CRC>D68E84D7</im1CRC>
+			<im2CRC>B4519D0D</im2CRC>
+			<comment>2011/03/25</comment>
+			<duplicateID>0</duplicateID>
+		</game>
+		<game>
+			<imageNumber>108</imageNumber>
+			<releaseNumber>108</releaseNumber>
+			<title>通学電車 高飛車な女子校生にいたずらして中出し UMD-PG Edition</title>
+			<romSize>1690206208</romSize>
+			<publisher>KTファクトリー</publisher>
+			<location>7</location>
+			<sourceRom>umd dump kai v2</sourceRom>
+			<language>256</language>
+			<files>
+				<romCRC extension=".iso">73D137A3</romCRC>
+			</files>
+			<im1CRC>D4536A45</im1CRC>
+			<im2CRC>73B696C3</im2CRC>
+			<comment>2011/04/10</comment>
+			<duplicateID>0</duplicateID>
+		</game>
+		<game>
+			<imageNumber>109</imageNumber>
+			<releaseNumber>109</releaseNumber>
+			<title>牝母 ～女になった義母～ UMD-PG Edition</title>
+			<romSize>1682178048</romSize>
+			<publisher>KTファクトリー</publisher>
+			<location>7</location>
+			<sourceRom>umd dump kai v2</sourceRom>
+			<language>256</language>
+			<files>
+				<romCRC extension=".iso">FECBA70A</romCRC>
+			</files>
+			<im1CRC>0713CFAB</im1CRC>
+			<im2CRC>02A76012</im2CRC>
+			<comment>2011/04/10</comment>
+			<duplicateID>0</duplicateID>
+		</game>
+		<game>
+			<imageNumber>110</imageNumber>
+			<releaseNumber>110</releaseNumber>
+			<title>ぬがせっ！！姉ちゃんとしようよっ！麻雀DX</title>
+			<romSize>1689387008</romSize>
+			<publisher>メディアバンク</publisher>
+			<location>7</location>
+			<sourceRom>umd dump kai v2</sourceRom>
+			<language>256</language>
+			<files>
+				<romCRC extension=".iso">6026B519</romCRC>
+			</files>
+			<im1CRC>C5AEE66F</im1CRC>
+			<im2CRC>8B2681CE</im2CRC>
+			<comment>2011/04/15</comment>
+			<duplicateID>0</duplicateID>
+		</game>
+		<game>
+			<imageNumber>111</imageNumber>
+			<releaseNumber>111</releaseNumber>
+			<title>熱闘！SEXY 野球拳 2nd ～今度はチョキだすよ！(笑)～</title>
+			<romSize>1226670080</romSize>
+			<publisher>セブンエイト</publisher>
+			<location>7</location>
+			<sourceRom>umd dump kai v2</sourceRom>
+			<language>256</language>
+			<files>
+				<romCRC extension=".iso">4C84F324</romCRC>
+			</files>
+			<im1CRC>E69D9000</im1CRC>
+			<im2CRC>4379542D</im2CRC>
+			<comment>2011/04/22</comment>
+			<duplicateID>0</duplicateID>
+		</game>
+		<game>
+			<imageNumber>112</imageNumber>
+			<releaseNumber>112</releaseNumber>
+			<title>boin UMD-PG Edition Disc1</title>
+			<romSize>1182105600</romSize>
+			<publisher>Palace</publisher>
+			<location>7</location>
+			<sourceRom>umd dump kai v2</sourceRom>
+			<language>256</language>
+			<files>
+				<romCRC extension=".iso">52A581BB</romCRC>
+			</files>
+			<im1CRC>85577455</im1CRC>
+			<im2CRC>3FD02BFA</im2CRC>
+			<comment>2011/04/28</comment>
+			<duplicateID>0</duplicateID>
+		</game>
+		<game>
+			<imageNumber>113</imageNumber>
+			<releaseNumber>113</releaseNumber>
+			<title>boin UMD-PG Edition Disc2</title>
+			<romSize>1266319360</romSize>
+			<publisher>Palace</publisher>
+			<location>7</location>
+			<sourceRom>umd dump kai v2</sourceRom>
+			<language>256</language>
+			<files>
+				<romCRC extension=".iso">17A256E1</romCRC>
+			</files>
+			<im1CRC>85577455</im1CRC>
+			<im2CRC>3614E32C</im2CRC>
+			<comment>2011/04/28</comment>
+			<duplicateID>0</duplicateID>
+		</game>
+		<game>
+			<imageNumber>114</imageNumber>
+			<releaseNumber>114</releaseNumber>
+			<title>らぶフェチ フェラチオ編 UMD-PG Edition</title>
+			<romSize>1764098048</romSize>
+			<publisher>Palace</publisher>
+			<location>7</location>
+			<sourceRom>umd dump kai v2</sourceRom>
+			<language>256</language>
+			<files>
+				<romCRC extension=".iso">DCE62091</romCRC>
+			</files>
+			<im1CRC>A589A1C5</im1CRC>
+			<im2CRC>9BADF96B</im2CRC>
+			<comment>2011/04/28</comment>
+			<duplicateID>0</duplicateID>
+		</game>
+		<game>
+			<imageNumber>115</imageNumber>
+			<releaseNumber>115</releaseNumber>
+			<title>催眠学園 UMD-PG Edition Disc1</title>
+			<romSize>769916928</romSize>
+			<publisher>Palace</publisher>
+			<location>7</location>
+			<sourceRom>umd dump kai v2</sourceRom>
+			<language>256</language>
+			<files>
+				<romCRC extension=".iso">BD614A62</romCRC>
+			</files>
+			<im1CRC>AD778A97</im1CRC>
+			<im2CRC>342E362A</im2CRC>
+			<comment>2011/04/28</comment>
+			<duplicateID>0</duplicateID>
+		</game>
+		<game>
+			<imageNumber>116</imageNumber>
+			<releaseNumber>116</releaseNumber>
+			<title>催眠学園 UMD-PG Edition Disc2</title>
+			<romSize>911310848</romSize>
+			<publisher>Palace</publisher>
+			<location>7</location>
+			<sourceRom>umd dump kai v2</sourceRom>
+			<language>256</language>
+			<files>
+				<romCRC extension=".iso">200BA166</romCRC>
+			</files>
+			<im1CRC>AD778A97</im1CRC>
+			<im2CRC>0E8BEAA4</im2CRC>
+			<comment>2011/04/28</comment>
+			<duplicateID>0</duplicateID>
+		</game>
+		<game>
+			<imageNumber>117</imageNumber>
+			<releaseNumber>117</releaseNumber>
+			<title>高飛車お嬢様のわがままセックス UMD-PG Edition</title>
+			<romSize>1696464896</romSize>
+			<publisher>KTファクトリー</publisher>
+			<location>7</location>
+			<sourceRom>umd dump kai v2</sourceRom>
+			<language>256</language>
+			<files>
+				<romCRC extension=".iso">A2691868</romCRC>
+			</files>
+			<im1CRC>28F29809</im1CRC>
+			<im2CRC>47C387A4</im2CRC>
+			<comment>2011/05/10</comment>
+			<duplicateID>0</duplicateID>
+		</game>
+		<game>
+			<imageNumber>118</imageNumber>
+			<releaseNumber>118</releaseNumber>
+			<title>触手の洗礼 守護天使ファルナ UMD-PG Edition</title>
+			<romSize>1667203072</romSize>
+			<publisher>KTファクトリー</publisher>
+			<location>7</location>
+			<sourceRom>umd dump kai v2</sourceRom>
+			<language>256</language>
+			<files>
+				<romCRC extension=".iso">A928DB83</romCRC>
+			</files>
+			<im1CRC>3A778F2F</im1CRC>
+			<im2CRC>6690DACE</im2CRC>
+			<comment>2011/05/10</comment>
+			<duplicateID>0</duplicateID>
+		</game>
+		<game>
+			<imageNumber>119</imageNumber>
+			<releaseNumber>119</releaseNumber>
+			<title>こなゆきふるり ～柚子原町カーリング部～ UMD-PG Edition Disc1</title>
+			<romSize>1507328000</romSize>
+			<publisher>Palace</publisher>
+			<location>7</location>
+			<sourceRom>umd dump kai v2</sourceRom>
+			<language>256</language>
+			<files>
+				<romCRC extension=".iso">6C50A8E0</romCRC>
+			</files>
+			<im1CRC>CFBD8AE8</im1CRC>
+			<im2CRC>9370BA6B</im2CRC>
+			<comment>2011/05/27</comment>
+			<duplicateID>0</duplicateID>
+		</game>
+		<game>
+			<imageNumber>120</imageNumber>
+			<releaseNumber>120</releaseNumber>
+			<title>こなゆきふるり ～柚子原町カーリング部～ UMD-PG Edition Disc2</title>
+			<romSize>1335689216</romSize>
+			<publisher>Palace</publisher>
+			<location>7</location>
+			<sourceRom>umd dump kai v2</sourceRom>
+			<language>256</language>
+			<files>
+				<romCRC extension=".iso">4B2D41E5</romCRC>
+			</files>
+			<im1CRC>CFBD8AE8</im1CRC>
+			<im2CRC>6404A860</im2CRC>
+			<comment>2011/05/27</comment>
+			<duplicateID>0</duplicateID>
+		</game>
+		<game>
+			<imageNumber>121</imageNumber>
+			<releaseNumber>121</releaseNumber>
+			<title>こなゆきふるり ～柚子原町カーリング部～ UMD-PG Edition Disc3</title>
+			<romSize>1535410176</romSize>
+			<publisher>Palace</publisher>
+			<location>7</location>
+			<sourceRom>umd dump kai v2</sourceRom>
+			<language>256</language>
+			<files>
+				<romCRC extension=".iso">5A83F3AC</romCRC>
+			</files>
+			<im1CRC>CFBD8AE8</im1CRC>
+			<im2CRC>6404A860</im2CRC>
+			<comment>2011/05/27</comment>
+			<duplicateID>0</duplicateID>
+		</game>
+		<game>
+			<imageNumber>122</imageNumber>
+			<releaseNumber>122</releaseNumber>
+			<title>こなゆきふるり ～柚子原町カーリング部～ UMD-PG Edition Disc4</title>
+			<romSize>1354694656</romSize>
+			<publisher>Palace</publisher>
+			<location>7</location>
+			<sourceRom>umd dump kai v2</sourceRom>
+			<language>256</language>
+			<files>
+				<romCRC extension=".iso">B917B972</romCRC>
+			</files>
+			<im1CRC>CFBD8AE8</im1CRC>
+			<im2CRC>6404A860</im2CRC>
+			<comment>2011/05/27</comment>
+			<duplicateID>0</duplicateID>
+		</game>
+		<game>
+			<imageNumber>123</imageNumber>
+			<releaseNumber>123</releaseNumber>
+			<title>らぶフェチ ～三者面談編～ UMD-PG Edition</title>
+			<romSize>1767243776</romSize>
+			<publisher>Palace</publisher>
+			<location>7</location>
+			<sourceRom>umd dump kai v2</sourceRom>
+			<language>256</language>
+			<files>
+				<romCRC extension=".iso">541B68BC</romCRC>
+			</files>
+			<im1CRC>D268823E</im1CRC>
+			<im2CRC>3A2FA43B</im2CRC>
+			<comment>2011/05/27</comment>
+			<duplicateID>0</duplicateID>
+		</game>
+		<game>
+			<imageNumber>124</imageNumber>
+			<releaseNumber>124</releaseNumber>
+			<title>淫妖蟲 蝕 ～凌触島退魔録～ UMD-PG Edition Disc1</title>
+			<romSize>1715961856</romSize>
+			<publisher>Palace</publisher>
+			<location>7</location>
+			<sourceRom>umd dump kai v2</sourceRom>
+			<language>256</language>
+			<files>
+				<romCRC extension=".iso">D210A990</romCRC>
+			</files>
+			<im1CRC>3D9A199F</im1CRC>
+			<im2CRC>DDD80065</im2CRC>
+			<comment>2011/05/27</comment>
+			<duplicateID>0</duplicateID>
+		</game>
+		<game>
+			<imageNumber>125</imageNumber>
+			<releaseNumber>125</releaseNumber>
+			<title>淫妖蟲 蝕 ～凌触島退魔録～ UMD-PG Edition Disc2</title>
+			<romSize>1403486208</romSize>
+			<publisher>Palace</publisher>
+			<location>7</location>
+			<sourceRom>umd dump kai v2</sourceRom>
+			<language>256</language>
+			<files>
+				<romCRC extension=".iso">44F74EFE</romCRC>
+			</files>
+			<im1CRC>3D9A199F</im1CRC>
+			<im2CRC>2D610C7B</im2CRC>
+			<comment>2011/05/27</comment>
+			<duplicateID>0</duplicateID>
+		</game>
+		<game>
+			<imageNumber>126</imageNumber>
+			<releaseNumber>126</releaseNumber>
+			<title>家庭教師は中出しがお好き UMD-PG Edition</title>
+			<romSize>1714716672</romSize>
+			<publisher>KTファクトリー</publisher>
+			<location>7</location>
+			<sourceRom>umd dump kai v2</sourceRom>
+			<language>256</language>
+			<files>
+				<romCRC extension=".iso">C701FEBA</romCRC>
+			</files>
+			<im1CRC>6FBAA722</im1CRC>
+			<im2CRC>F7C4E87A</im2CRC>
+			<comment>2011/06/10</comment>
+			<duplicateID>0</duplicateID>
+		</game>
+		<game>
+			<imageNumber>127</imageNumber>
+			<releaseNumber>127</releaseNumber>
+			<title>触手ぶっかけ審問 ～断罪のエルミア～ UMD-PG Edition</title>
+			<romSize>1701543936</romSize>
+			<publisher>KTファクトリー</publisher>
+			<location>7</location>
+			<sourceRom>umd dump kai v2</sourceRom>
+			<language>256</language>
+			<files>
+				<romCRC extension=".iso">212CDA91</romCRC>
+			</files>
+			<im1CRC>E5C3223C</im1CRC>
+			<im2CRC>048E635B</im2CRC>
+			<comment>2011/06/10</comment>
+			<duplicateID>0</duplicateID>
+		</game>
+		<game>
+			<imageNumber>128</imageNumber>
+			<releaseNumber>128</releaseNumber>
+			<title>ぬがせっ！！SEXYスロット天国DX2</title>
+			<romSize>1740210176</romSize>
+			<publisher>メディアバンク</publisher>
+			<location>7</location>
+			<sourceRom>umd dump kai v2</sourceRom>
+			<language>256</language>
+			<files>
+				<romCRC extension=".iso">AC783231</romCRC>
+			</files>
+			<im1CRC>6DD7783B</im1CRC>
+			<im2CRC>7A0A4835</im2CRC>
+			<comment>2011/06/17</comment>
+			<duplicateID>0</duplicateID>
+		</game>
+		<game>
+			<imageNumber>129</imageNumber>
+			<releaseNumber>129</releaseNumber>
+			<title>SUPERエロスロット大戦 DISCIPLINE DX</title>
+			<romSize>1730347008</romSize>
+			<publisher>ぷちぱれす</publisher>
+			<location>7</location>
+			<sourceRom>umd dump kai v2</sourceRom>
+			<language>256</language>
+			<files>
+				<romCRC extension=".iso">FBBBBEA2</romCRC>
+			</files>
+			<im1CRC>514DC28B</im1CRC>
+			<im2CRC>517C6DF3</im2CRC>
+			<comment>2011/06/24</comment>
+			<duplicateID>0</duplicateID>
+		</game>
+		<game>
+			<imageNumber>130</imageNumber>
+			<releaseNumber>130</releaseNumber>
+			<title>淫妖蟲 悦 ～怪楽変化退魔録～ UMD-PG Edition Disc1</title>
+			<romSize>1525022720</romSize>
+			<publisher>Palace</publisher>
+			<location>7</location>
+			<sourceRom>umd dump kai v2</sourceRom>
+			<language>256</language>
+			<files>
+				<romCRC extension=".iso">6F7E3962</romCRC>
+			</files>
+			<im1CRC>ADD35E8C</im1CRC>
+			<im2CRC>EF70F71E</im2CRC>
+			<comment>2011/06/24</comment>
+			<duplicateID>0</duplicateID>
+		</game>
+		<game>
+			<imageNumber>131</imageNumber>
+			<releaseNumber>131</releaseNumber>
+			<title>淫妖蟲 悦 ～怪楽変化退魔録～ UMD-PG Edition Disc2</title>
+			<romSize>1428160512</romSize>
+			<publisher>Palace</publisher>
+			<location>7</location>
+			<sourceRom>umd dump kai v2</sourceRom>
+			<language>256</language>
+			<files>
+				<romCRC extension=".iso">2D9A1F4E</romCRC>
+			</files>
+			<im1CRC>ADD35E8C</im1CRC>
+			<im2CRC>868ED599</im2CRC>
+			<comment>2011/06/24</comment>
+			<duplicateID>0</duplicateID>
+		</game>
+		<game>
+			<imageNumber>132</imageNumber>
+			<releaseNumber>132</releaseNumber>
+			<title>触手令嬢 Tentacle Master UMD-PG Edition</title>
+			<romSize>1606713344</romSize>
+			<publisher>KTファクトリー</publisher>
+			<location>7</location>
+			<sourceRom>umd dump kai v2</sourceRom>
+			<language>256</language>
+			<files>
+				<romCRC extension=".iso">3747A024</romCRC>
+			</files>
+			<im1CRC>066B9C43</im1CRC>
+			<im2CRC>7340B4AA</im2CRC>
+			<comment>2011/07/10</comment>
+			<duplicateID>0</duplicateID>
+		</game>
+		<game>
+			<imageNumber>133</imageNumber>
+			<releaseNumber>133</releaseNumber>
+			<title>寝取られセックス料理教室 UMD-PG Edition</title>
+			<romSize>1738997760</romSize>
+			<publisher>KTファクトリー</publisher>
+			<location>7</location>
+			<sourceRom>umd dump kai v2</sourceRom>
+			<language>256</language>
+			<files>
+				<romCRC extension=".iso">8C080B0F</romCRC>
+			</files>
+			<im1CRC>6C9FEB10</im1CRC>
+			<im2CRC>F659E54C</im2CRC>
+			<comment>2011/07/10</comment>
+			<duplicateID>0</duplicateID>
+		</game>
+		<game>
+			<imageNumber>134</imageNumber>
+			<releaseNumber>134</releaseNumber>
+			<title>ぬがせっ！！Super SEXY 麻雀5</title>
+			<romSize>1680474112</romSize>
+			<publisher>メディアバンク</publisher>
+			<location>7</location>
+			<sourceRom>umd dump kai v2</sourceRom>
+			<language>256</language>
+			<files>
+				<romCRC extension=".iso">DE78B80F</romCRC>
+			</files>
+			<im1CRC>BE9E944E</im1CRC>
+			<im2CRC>50D93244</im2CRC>
+			<comment>2011/07/22</comment>
+			<duplicateID>0</duplicateID>
+		</game>
+		<game>
+			<imageNumber>135</imageNumber>
+			<releaseNumber>135</releaseNumber>
+			<title>Cross Days UMD-PG Edition Disc1</title>
+			<romSize>1768456192</romSize>
+			<publisher>Palace</publisher>
+			<location>7</location>
+			<sourceRom>umd dump kai v2</sourceRom>
+			<language>256</language>
+			<files>
+				<romCRC extension=".iso">98A87220</romCRC>
+			</files>
+			<im1CRC>DF071A3D</im1CRC>
+			<im2CRC>38D611EE</im2CRC>
+			<comment>2011/07/29</comment>
+			<duplicateID>0</duplicateID>
+		</game>
+		<game>
+			<imageNumber>136</imageNumber>
+			<releaseNumber>136</releaseNumber>
+			<title>Cross Days UMD-PG Edition Disc2</title>
+			<romSize>1766391808</romSize>
+			<publisher>Palace</publisher>
+			<location>7</location>
+			<sourceRom>umd dump kai v2</sourceRom>
+			<language>256</language>
+			<files>
+				<romCRC extension=".iso">6E38BBBD</romCRC>
+			</files>
+			<im1CRC>DF071A3D</im1CRC>
+			<im2CRC>55EF333A</im2CRC>
+			<comment>2011/07/29</comment>
+			<duplicateID>0</duplicateID>
+		</game>
+		<game>
+			<imageNumber>137</imageNumber>
+			<releaseNumber>137</releaseNumber>
+			<title>Cross Days UMD-PG Edition Disc3</title>
+			<romSize>1764360192</romSize>
+			<publisher>Palace</publisher>
+			<location>7</location>
+			<sourceRom>umd dump kai v2</sourceRom>
+			<language>256</language>
+			<files>
+				<romCRC extension=".iso">255E3673</romCRC>
+			</files>
+			<im1CRC>DF071A3D</im1CRC>
+			<im2CRC>25BF8A92</im2CRC>
+			<comment>2011/07/29</comment>
+			<duplicateID>0</duplicateID>
+		</game>
+		<game>
+			<imageNumber>138</imageNumber>
+			<releaseNumber>138</releaseNumber>
+			<title>Cross Days UMD-PG Edition Disc4</title>
+			<romSize>1768128512</romSize>
+			<publisher>Palace</publisher>
+			<location>7</location>
+			<sourceRom>umd dump kai v2</sourceRom>
+			<language>256</language>
+			<files>
+				<romCRC extension=".iso">340D63D9</romCRC>
+			</files>
+			<im1CRC>DF071A3D</im1CRC>
+			<im2CRC>D7A48396</im2CRC>
+			<comment>2011/07/29</comment>
+			<duplicateID>0</duplicateID>
+		</game>
+		<game>
+			<imageNumber>139</imageNumber>
+			<releaseNumber>139</releaseNumber>
+			<title>おっぱいハート ～彼女はケダモノ発情期ッ！？～ UMD-PG Edition Disc1</title>
+			<romSize>1607761920</romSize>
+			<publisher>Palace</publisher>
+			<location>7</location>
+			<sourceRom>umd dump kai v2</sourceRom>
+			<language>256</language>
+			<files>
+				<romCRC extension=".iso">28C820C3</romCRC>
+			</files>
+			<im1CRC>7756016E</im1CRC>
+			<im2CRC>718E23F5</im2CRC>
+			<comment>2011/07/29</comment>
+			<duplicateID>0</duplicateID>
+		</game>
+		<game>
+			<imageNumber>140</imageNumber>
+			<releaseNumber>140</releaseNumber>
+			<title>おっぱいハート ～彼女はケダモノ発情期ッ！？～ UMD-PG Edition Disc2</title>
+			<romSize>1732313088</romSize>
+			<publisher>Palace</publisher>
+			<location>7</location>
+			<sourceRom>umd dump kai v2</sourceRom>
+			<language>256</language>
+			<files>
+				<romCRC extension=".iso">B114F374</romCRC>
+			</files>
+			<im1CRC>7756016E</im1CRC>
+			<im2CRC>8B57A93D</im2CRC>
+			<comment>2011/07/29</comment>
+			<duplicateID>0</duplicateID>
+		</game>
+		<game>
+			<imageNumber>141</imageNumber>
+			<releaseNumber>141</releaseNumber>
+			<title>潮風の消える海に UMD-PG Edition</title>
+			<romSize>1352400896</romSize>
+			<publisher>Palace</publisher>
+			<location>7</location>
+			<sourceRom>umd dump kai v2</sourceRom>
+			<language>256</language>
+			<files>
+				<romCRC extension=".iso">D03BFC0C</romCRC>
+			</files>
+			<im1CRC>CB201106</im1CRC>
+			<im2CRC>FAFB749C</im2CRC>
+			<comment>2011/07/29</comment>
+			<duplicateID>0</duplicateID>
+		</game>
+		<game>
+			<imageNumber>142</imageNumber>
+			<releaseNumber>142</releaseNumber>
+			<title>マゾ少女はセックス依存症 ～ONLY YOU～ UMD-PG Edition</title>
+			<romSize>1635418112</romSize>
+			<publisher>KTファクトリー</publisher>
+			<location>7</location>
+			<sourceRom>umd dump kai v2</sourceRom>
+			<language>256</language>
+			<files>
+				<romCRC extension=".iso">4C5DF09B</romCRC>
+			</files>
+			<im1CRC>FFA2267F</im1CRC>
+			<im2CRC>6726BE11</im2CRC>
+			<comment>2011/08/01</comment>
+			<duplicateID>0</duplicateID>
+		</game>
+		<game>
+			<imageNumber>143</imageNumber>
+			<releaseNumber>143</releaseNumber>
+			<title>触手ペット ～何度もイカされた風紀委員長～ UMD-PG Edition</title>
+			<romSize>1698824192</romSize>
+			<publisher>KTファクトリー</publisher>
+			<location>7</location>
+			<sourceRom>umd dump kai v2</sourceRom>
+			<language>256</language>
+			<files>
+				<romCRC extension=".iso">9B28710E</romCRC>
+			</files>
+			<im1CRC>A7BFDEAD</im1CRC>
+			<im2CRC>D6A1710F</im2CRC>
+			<comment>2011/08/01</comment>
+			<duplicateID>0</duplicateID>
+		</game>
+		<game>
+			<imageNumber>144</imageNumber>
+			<releaseNumber>144</releaseNumber>
+			<title>ぬがせっ！！DISCIPLINE 麻雀DX2</title>
+			<romSize>1650589696</romSize>
+			<publisher>メディアバンク</publisher>
+			<location>7</location>
+			<sourceRom>umd dump kai v2</sourceRom>
+			<language>256</language>
+			<files>
+				<romCRC extension=".iso">6AA53329</romCRC>
+			</files>
+			<im1CRC>8B39E7A5</im1CRC>
+			<im2CRC>6BBDF28C</im2CRC>
+			<comment>2011/08/05</comment>
+			<duplicateID>0</duplicateID>
+		</game>
+		<game>
+			<imageNumber>145</imageNumber>
+			<releaseNumber>145</releaseNumber>
+			<title>ぬがせっ！！SEXYスロット天国DX3</title>
+			<romSize>1731624960</romSize>
+			<publisher>メディアバンク</publisher>
+			<location>7</location>
+			<sourceRom>umd dump kai v2</sourceRom>
+			<language>256</language>
+			<files>
+				<romCRC extension=".iso">D77EE091</romCRC>
+			</files>
+			<im1CRC>A9C0B7FD</im1CRC>
+			<im2CRC>A9041778</im2CRC>
+			<comment>2011/09/09</comment>
+			<duplicateID>0</duplicateID>
+		</game>
+		<game>
+			<imageNumber>146</imageNumber>
+			<releaseNumber>146</releaseNumber>
+			<title>ふたなり魔法少女は射精中毒 UMD-PG Edition</title>
+			<romSize>1547829248</romSize>
+			<publisher>KTファクトリー</publisher>
+			<location>7</location>
+			<sourceRom>umd dump kai v2</sourceRom>
+			<language>256</language>
+			<files>
+				<romCRC extension=".iso">4FB1E9BB</romCRC>
+			</files>
+			<im1CRC>84975C64</im1CRC>
+			<im2CRC>29B492EF</im2CRC>
+			<comment>2011/09/10</comment>
+			<duplicateID>0</duplicateID>
+		</game>
+		<game>
+			<imageNumber>147</imageNumber>
+			<releaseNumber>147</releaseNumber>
+			<title>私を買ってくれませんか？ ～娼館街の少女リィナ～ UMD-PG Edition</title>
+			<romSize>1766457344</romSize>
+			<publisher>KTファクトリー</publisher>
+			<location>7</location>
+			<sourceRom>umd dump kai v2</sourceRom>
+			<language>256</language>
+			<files>
+				<romCRC extension=".iso">514E47A1</romCRC>
+			</files>
+			<im1CRC>41287632</im1CRC>
+			<im2CRC>EAC2013A</im2CRC>
+			<comment>2011/09/10</comment>
+			<duplicateID>0</duplicateID>
+		</game>
+		<game>
+			<imageNumber>148</imageNumber>
+			<releaseNumber>148</releaseNumber>
+			<title>夜勤病棟・弐 SUPERエロスロット大戦 DX</title>
+			<romSize>1678147584</romSize>
+			<publisher>ぷちぱれす</publisher>
+			<location>7</location>
+			<sourceRom>umd dump kai v2</sourceRom>
+			<language>256</language>
+			<files>
+				<romCRC extension=".iso">CBA4FF2F</romCRC>
+			</files>
+			<im1CRC>8F5D0D8A</im1CRC>
+			<im2CRC>ADB775B9</im2CRC>
+			<comment>2011/09/30</comment>
+			<duplicateID>0</duplicateID>
+		</game>
+		<game>
+			<imageNumber>149</imageNumber>
+			<releaseNumber>149</releaseNumber>
+			<title>リゾートBOIN UMD-PG Edition Disc1</title>
+			<romSize>1750335488</romSize>
+			<publisher>Palace</publisher>
+			<location>7</location>
+			<sourceRom>umd dump kai v2</sourceRom>
+			<language>256</language>
+			<files>
+				<romCRC extension=".iso">DF81EB9D</romCRC>
+			</files>
+			<im1CRC>43AD81A7</im1CRC>
+			<im2CRC>E08D8927</im2CRC>
+			<comment>2011/09/30</comment>
+			<duplicateID>0</duplicateID>
+		</game>
+		<game>
+			<imageNumber>150</imageNumber>
+			<releaseNumber>150</releaseNumber>
+			<title>リゾートBOIN UMD-PG Edition Disc2</title>
+			<romSize>1751154688</romSize>
+			<publisher>Palace</publisher>
+			<location>7</location>
+			<sourceRom>umd dump kai v2</sourceRom>
+			<language>256</language>
+			<files>
+				<romCRC extension=".iso">40A2A2E8</romCRC>
+			</files>
+			<im1CRC>43AD81A7</im1CRC>
+			<im2CRC>C539F74C</im2CRC>
+			<comment>2011/09/30</comment>
+			<duplicateID>0</duplicateID>
+		</game>
+		<game>
+			<imageNumber>151</imageNumber>
+			<releaseNumber>151</releaseNumber>
+			<title>リゾートBOIN UMD-PG Edition Disc3</title>
+			<romSize>1764786176</romSize>
+			<publisher>Palace</publisher>
+			<location>7</location>
+			<sourceRom>umd dump kai v2</sourceRom>
+			<language>256</language>
+			<files>
+				<romCRC extension=".iso">16BA7F48</romCRC>
+			</files>
+			<im1CRC>43AD81A7</im1CRC>
+			<im2CRC>C539F74C</im2CRC>
+			<comment>2011/09/30</comment>
+			<duplicateID>0</duplicateID>
+		</game>
+		<game>
+			<imageNumber>152</imageNumber>
+			<releaseNumber>152</releaseNumber>
+			<title>魔法少女触手責め ～マジカル☆ドルチェ～ UMD-PG Edition</title>
+			<romSize>1359544320</romSize>
+			<publisher>KTファクトリー</publisher>
+			<location>7</location>
+			<sourceRom>umd dump kai v2</sourceRom>
+			<language>256</language>
+			<files>
+				<romCRC extension=".iso">943671C5</romCRC>
+			</files>
+			<im1CRC>656DC0D4</im1CRC>
+			<im2CRC>22359420</im2CRC>
+			<comment>2011/10/10</comment>
+			<duplicateID>0</duplicateID>
+		</game>
+		<game>
+			<imageNumber>153</imageNumber>
+			<releaseNumber>153</releaseNumber>
+			<title>ぬがせっ！！Super SEXY 麻雀6</title>
+			<romSize>1712717824</romSize>
+			<publisher>メディアバンク</publisher>
+			<location>7</location>
+			<sourceRom>umd dump kai v2</sourceRom>
+			<language>256</language>
+			<files>
+				<romCRC extension=".iso">F57EE2D0</romCRC>
+			</files>
+			<im1CRC>8B4EB148</im1CRC>
+			<im2CRC>D374E683</im2CRC>
+			<comment>2011/10/28</comment>
+			<duplicateID>0</duplicateID>
+		</game>
+		<game>
+			<imageNumber>154</imageNumber>
+			<releaseNumber>154</releaseNumber>
+			<title>放課後ブルマ学園 ～触って！揉んで！舐めて！挿入！～ UMD-PG Edition</title>
+			<romSize>1539080192</romSize>
+			<publisher>KTファクトリー</publisher>
+			<location>7</location>
+			<sourceRom>umd dump kai v2</sourceRom>
+			<language>256</language>
+			<files>
+				<romCRC extension=".iso">F1664D69</romCRC>
+			</files>
+			<im1CRC>0C5241AC</im1CRC>
+			<im2CRC>7BE218CA</im2CRC>
+			<comment>2011/11/10</comment>
+			<duplicateID>0</duplicateID>
+		</game>
+		<game>
+			<imageNumber>155</imageNumber>
+			<releaseNumber>155</releaseNumber>
+			<title>ぬがせっ！！ハーレム野球拳</title>
+			<romSize>1697906688</romSize>
+			<publisher>メディアバンク</publisher>
+			<location>7</location>
+			<sourceRom>umd dump kai v2</sourceRom>
+			<language>256</language>
+			<files>
+				<romCRC extension=".iso">CBA39945</romCRC>
+			</files>
+			<im1CRC>87499F68</im1CRC>
+			<im2CRC>1418AA3E</im2CRC>
+			<comment>2011/11/18</comment>
+			<duplicateID>0</duplicateID>
+		</game>
+		<game>
+			<imageNumber>156</imageNumber>
+			<releaseNumber>156</releaseNumber>
+			<title>新婚性活 UMD-PG Edition Disc1</title>
+			<romSize>1755480064</romSize>
+			<publisher>ぷちぱれす</publisher>
+			<location>7</location>
+			<sourceRom>umd dump kai v2</sourceRom>
+			<language>256</language>
+			<files>
+				<romCRC extension=".iso">D5222A57</romCRC>
+			</files>
+			<im1CRC>881D118B</im1CRC>
+			<im2CRC>01886014</im2CRC>
+			<comment>2011/11/25</comment>
+			<duplicateID>0</duplicateID>
+		</game>
+		<game>
+			<imageNumber>157</imageNumber>
+			<releaseNumber>157</releaseNumber>
+			<title>新婚性活 UMD-PG Edition Disc2</title>
+			<romSize>1702887424</romSize>
+			<publisher>ぷちぱれす</publisher>
+			<location>7</location>
+			<sourceRom>umd dump kai v2</sourceRom>
+			<language>256</language>
+			<files>
+				<romCRC extension=".iso">42758DBF</romCRC>
+			</files>
+			<im1CRC>881D118B</im1CRC>
+			<im2CRC>C1797117</im2CRC>
+			<comment>2011/11/25</comment>
+			<duplicateID>0</duplicateID>
+		</game>
+		<game>
+			<imageNumber>158</imageNumber>
+			<releaseNumber>158</releaseNumber>
+			<title>毎日けだものっ！！ らぶえろ☆ももいろ☆すくーるらいふ♪ UMD-PG Edition Disc1</title>
+			<romSize>1475149824</romSize>
+			<publisher>Palace</publisher>
+			<location>7</location>
+			<sourceRom>umd dump kai v2</sourceRom>
+			<language>256</language>
+			<files>
+				<romCRC extension=".iso">BD23690E</romCRC>
+			</files>
+			<im1CRC>4E7106EE</im1CRC>
+			<im2CRC>4FC0D66B</im2CRC>
+			<comment>2011/11/25</comment>
+			<duplicateID>0</duplicateID>
+		</game>
+		<game>
+			<imageNumber>159</imageNumber>
+			<releaseNumber>159</releaseNumber>
+			<title>毎日けだものっ！！ らぶえろ☆ももいろ☆すくーるらいふ♪ UMD-PG Edition Disc2</title>
+			<romSize>1642004480</romSize>
+			<publisher>Palace</publisher>
+			<location>7</location>
+			<sourceRom>umd dump kai v2</sourceRom>
+			<language>256</language>
+			<files>
+				<romCRC extension=".iso">F6286232</romCRC>
+			</files>
+			<im1CRC>4E7106EE</im1CRC>
+			<im2CRC>9461B7BA</im2CRC>
+			<comment>2011/11/25</comment>
+			<duplicateID>0</duplicateID>
+		</game>
+		<game>
+			<imageNumber>160</imageNumber>
+			<releaseNumber>160</releaseNumber>
+			<title>箱入少女 ～処女のお嬢様はザーメンまみれ～ UMD-PG Edition</title>
+			<romSize>1631453184</romSize>
+			<publisher>KTファクトリー</publisher>
+			<location>7</location>
+			<sourceRom>umd dump kai v2</sourceRom>
+			<language>256</language>
+			<files>
+				<romCRC extension=".iso">1F440442</romCRC>
+			</files>
+			<im1CRC>9543E8DF</im1CRC>
+			<im2CRC>9115A6CD</im2CRC>
+			<comment>2011/12/01</comment>
+			<duplicateID>0</duplicateID>
+		</game>
+		<game>
+			<imageNumber>161</imageNumber>
+			<releaseNumber>161</releaseNumber>
+			<title>ぬがせっ！！SEXYスロット天国DX4</title>
+			<romSize>1716944896</romSize>
+			<publisher>メディアバンク</publisher>
+			<location>7</location>
+			<sourceRom>umd dump kai v2</sourceRom>
+			<language>256</language>
+			<files>
+				<romCRC extension=".iso">C98233CB</romCRC>
+			</files>
+			<im1CRC>AEE71AF2</im1CRC>
+			<im2CRC>1B0F1C18</im2CRC>
+			<comment>2011/12/09</comment>
+			<duplicateID>0</duplicateID>
+		</game>
+		<game>
+			<imageNumber>162</imageNumber>
+			<releaseNumber>162</releaseNumber>
+			<title>性の実験台にされた少女たち ～淫体実験～ UMD-PG Edition</title>
+			<romSize>1549467648</romSize>
+			<publisher>KTファクトリー</publisher>
+			<location>7</location>
+			<sourceRom>umd dump kai v2</sourceRom>
+			<language>256</language>
+			<files>
+				<romCRC extension=".iso">2622B570</romCRC>
+			</files>
+			<im1CRC>C54C8510</im1CRC>
+			<im2CRC>3ABBBEE2</im2CRC>
+			<comment>2012/01/10</comment>
+			<duplicateID>0</duplicateID>
+		</game>
+		<game>
+			<imageNumber>163</imageNumber>
+			<releaseNumber>163</releaseNumber>
+			<title>ゴア・スクリーミング・ショウ UMD-PG Edition Disc1</title>
+			<romSize>1255079936</romSize>
+			<publisher>Palace</publisher>
+			<location>7</location>
+			<sourceRom>umd dump kai v2</sourceRom>
+			<language>256</language>
+			<files>
+				<romCRC extension=".iso">D2F2099E</romCRC>
+			</files>
+			<im1CRC>43D6BF01</im1CRC>
+			<im2CRC>7E51C266</im2CRC>
+			<comment>2012/01/27</comment>
+			<duplicateID>0</duplicateID>
+		</game>
+		<game>
+			<imageNumber>164</imageNumber>
+			<releaseNumber>164</releaseNumber>
+			<title>ゴア・スクリーミング・ショウ UMD-PG Edition Disc2</title>
+			<romSize>1310687232</romSize>
+			<publisher>Palace</publisher>
+			<location>7</location>
+			<sourceRom>umd dump kai v2</sourceRom>
+			<language>256</language>
+			<files>
+				<romCRC extension=".iso">004B250C</romCRC>
+			</files>
+			<im1CRC>43D6BF01</im1CRC>
+			<im2CRC>19EA85EA</im2CRC>
+			<comment>2012/01/27</comment>
+			<duplicateID>0</duplicateID>
+		</game>
+		<game>
+			<imageNumber>165</imageNumber>
+			<releaseNumber>165</releaseNumber>
+			<title>触手プリンセス UMD-PG Edition</title>
+			<romSize>1710653440</romSize>
+			<publisher>KTファクトリー</publisher>
+			<location>7</location>
+			<sourceRom>umd dump kai v2</sourceRom>
+			<language>256</language>
+			<files>
+				<romCRC extension=".iso">B65458F3</romCRC>
+			</files>
+			<im1CRC>F11C21F3</im1CRC>
+			<im2CRC>6CFF1DC9</im2CRC>
+			<comment>2012/02/10</comment>
+			<duplicateID>0</duplicateID>
+		</game>
+		<game>
+			<imageNumber>166</imageNumber>
+			<releaseNumber>166</releaseNumber>
+			<title>ぬがせっ！！ハーレム野球拳2</title>
+			<romSize>1357119488</romSize>
+			<publisher>メディアバンク</publisher>
+			<location>7</location>
+			<sourceRom>umd dump kai v2</sourceRom>
+			<language>256</language>
+			<files>
+				<romCRC extension=".iso">2DF4FCDE</romCRC>
+			</files>
+			<im1CRC>CFB40405</im1CRC>
+			<im2CRC>822B417B</im2CRC>
+			<comment>2012/02/24</comment>
+			<duplicateID>0</duplicateID>
+		</game>
+		<game>
+			<imageNumber>167</imageNumber>
+			<releaseNumber>167</releaseNumber>
+			<title>妹孕ませっくす ～中出しされて妊娠～ UMD-PG Edition</title>
+			<romSize>1423835136</romSize>
+			<publisher>KTファクトリー</publisher>
+			<location>7</location>
+			<sourceRom>umd dump kai v2</sourceRom>
+			<language>256</language>
+			<files>
+				<romCRC extension=".iso">75285579</romCRC>
+			</files>
+			<im1CRC>A212BB7E</im1CRC>
+			<im2CRC>89CD34E1</im2CRC>
+			<comment>2012/03/10</comment>
+			<duplicateID>0</duplicateID>
+		</game>
+		<game>
+			<imageNumber>168</imageNumber>
+			<releaseNumber>168</releaseNumber>
+			<title>ぬがせっ！！Super SEXY 麻雀7</title>
+			<romSize>1720811520</romSize>
+			<publisher>メディアバンク</publisher>
+			<location>7</location>
+			<sourceRom>umd dump kai v2</sourceRom>
+			<language>256</language>
+			<files>
+				<romCRC extension=".iso">7508FABE</romCRC>
+			</files>
+			<im1CRC>ED09ECF1</im1CRC>
+			<im2CRC>E08812EC</im2CRC>
+			<comment>2012/03/23</comment>
+			<duplicateID>0</duplicateID>
+		</game>
+		<game>
+			<imageNumber>169</imageNumber>
+			<releaseNumber>169</releaseNumber>
+			<title>ぬがせっ！！姉ちゃんとしようよっ！麻雀DX2</title>
+			<romSize>1530953728</romSize>
+			<publisher>メディアバンク</publisher>
+			<location>7</location>
+			<sourceRom>umd dump kai v2</sourceRom>
+			<language>256</language>
+			<files>
+				<romCRC extension=".iso">8F1E8726</romCRC>
+			</files>
+			<im1CRC>72699F69</im1CRC>
+			<im2CRC>10432433</im2CRC>
+			<comment>2012/03/23</comment>
+			<duplicateID>0</duplicateID>
+		</game>
+		<game>
+			<imageNumber>170</imageNumber>
+			<releaseNumber>170</releaseNumber>
+			<title>肉食系メガネ痴女 UMD-PG Edition</title>
+			<romSize>1738833920</romSize>
+			<publisher>KTファクトリー</publisher>
+			<location>7</location>
+			<sourceRom>umd dump kai v2</sourceRom>
+			<language>256</language>
+			<files>
+				<romCRC extension=".iso">36765164</romCRC>
+			</files>
+			<im1CRC>5B4FF8D4</im1CRC>
+			<im2CRC>9C7875BE</im2CRC>
+			<comment>2012/04/10</comment>
+			<duplicateID>0</duplicateID>
+		</game>
+		<game>
+			<imageNumber>171</imageNumber>
+			<releaseNumber>171</releaseNumber>
+			<title>ぬがせっ！！ハーレム野球拳3</title>
+			<romSize>1759838208</romSize>
+			<publisher>メディアバンク</publisher>
+			<location>7</location>
+			<sourceRom>umd dump kai v2</sourceRom>
+			<language>256</language>
+			<files>
+				<romCRC extension=".iso">EFE67157</romCRC>
+			</files>
+			<im1CRC>F645C440</im1CRC>
+			<im2CRC>97C8C5A5</im2CRC>
+			<comment>2012/04/20</comment>
+			<duplicateID>0</duplicateID>
+		</game>
+		<game>
+			<imageNumber>172</imageNumber>
+			<releaseNumber>172</releaseNumber>
+			<title>催眠カウンセリングで教え子にぶっかけ中出し UMD-PG Edition</title>
+			<romSize>1431175168</romSize>
+			<publisher>KTファクトリー</publisher>
+			<location>7</location>
+			<sourceRom>umd dump kai v2</sourceRom>
+			<language>256</language>
+			<files>
+				<romCRC extension=".iso">69AF98FE</romCRC>
+			</files>
+			<im1CRC>F4486A05</im1CRC>
+			<im2CRC>BF96DBE1</im2CRC>
+			<comment>2012/05/10</comment>
+			<duplicateID>0</duplicateID>
+		</game>
+		<game>
+			<imageNumber>173</imageNumber>
+			<releaseNumber>173</releaseNumber>
+			<title>姉と弟はセックス中毒 ～ONLY YOU 2～ UMD-PG Edition</title>
+			<romSize>1488519168</romSize>
+			<publisher>KTファクトリー</publisher>
+			<location>7</location>
+			<sourceRom>umd dump kai v2</sourceRom>
+			<language>256</language>
+			<files>
+				<romCRC extension=".iso">C063FB51</romCRC>
+			</files>
+			<im1CRC>E28DAF81</im1CRC>
+			<im2CRC>C73D5DA0</im2CRC>
+			<comment>2012/06/10</comment>
+			<duplicateID>0</duplicateID>
+		</game>
+		<game>
+			<imageNumber>174</imageNumber>
+			<releaseNumber>174</releaseNumber>
+			<title>とらわれた王女のSM中毒 UMD-PG Edition</title>
+			<romSize>1324351488</romSize>
+			<publisher>KTファクトリー</publisher>
+			<location>7</location>
+			<sourceRom>umd dump kai v2</sourceRom>
+			<language>256</language>
+			<files>
+				<romCRC extension=".iso">31B1F14F</romCRC>
+			</files>
+			<im1CRC>2D322381</im1CRC>
+			<im2CRC>7EA32E4A</im2CRC>
+			<comment>2012/07/10</comment>
+			<duplicateID>0</duplicateID>
+		</game>
+		<game>
+			<imageNumber>175</imageNumber>
+			<releaseNumber>175</releaseNumber>
+			<title>ぬがせっ！！ハーレム野球拳 女子校生GP</title>
+			<romSize>1744044032</romSize>
+			<publisher>メディアバンク</publisher>
+			<location>7</location>
+			<sourceRom>umd dump kai v2</sourceRom>
+			<language>256</language>
+			<files>
+				<romCRC extension=".iso">2D9B02B8</romCRC>
+			</files>
+			<im1CRC>DAAE9DA1</im1CRC>
+			<im2CRC>812A8C14</im2CRC>
+			<comment>2012/07/27</comment>
+			<duplicateID>0</duplicateID>
+		</game>
+		<game>
+			<imageNumber>176</imageNumber>
+			<releaseNumber>176</releaseNumber>
+			<title>通勤痴漢電車 姦状線 姉妹が電車でめちゃくちゃに… UMD-PG Edition</title>
+			<romSize>1575944192</romSize>
+			<publisher>KTファクトリー</publisher>
+			<location>7</location>
+			<sourceRom>umd dump kai v2</sourceRom>
+			<language>256</language>
+			<files>
+				<romCRC extension=".iso">BC3E0B92</romCRC>
+			</files>
+			<im1CRC>15E2B3DB</im1CRC>
+			<im2CRC>4815C977</im2CRC>
+			<comment>2012/08/01</comment>
+			<duplicateID>0</duplicateID>
+		</game>
+		<game>
+			<imageNumber>177</imageNumber>
+			<releaseNumber>177</releaseNumber>
+			<title>淫乱OL裏風俗 借金返済のため中出し三昧 UMD-PG Edition</title>
+			<romSize>1609957376</romSize>
+			<publisher>KTファクトリー</publisher>
+			<location>7</location>
+			<sourceRom>umd dump kai v2</sourceRom>
+			<language>256</language>
+			<files>
+				<romCRC extension=".iso">E73DAAE3</romCRC>
+			</files>
+			<im1CRC>E34AD6BE</im1CRC>
+			<im2CRC>4A901C3A</im2CRC>
+			<comment>2012/09/10</comment>
+			<duplicateID>0</duplicateID>
+		</game>
+		<game>
+			<imageNumber>178</imageNumber>
+			<releaseNumber>178</releaseNumber>
+			<title>教師が教え子をズタズタにぶっかけザーメン中出し注入 ～寝取られた幼馴染～ UMD-PG Edition</title>
+			<romSize>1459388416</romSize>
+			<publisher>KTファクトリー</publisher>
+			<location>7</location>
+			<sourceRom>umd dump kai v2</sourceRom>
+			<language>256</language>
+			<files>
+				<romCRC extension=".iso">C9F3486E</romCRC>
+			</files>
+			<im1CRC>7012B71A</im1CRC>
+			<im2CRC>96CB573D</im2CRC>
+			<comment>2012/10/10</comment>
+			<duplicateID>0</duplicateID>
+		</game>
+		<game>
+			<imageNumber>179</imageNumber>
+			<releaseNumber>179</releaseNumber>
+			<title>魔法少女モニカ ～精液まみれのお姫さま～ UMD-PG Edition</title>
+			<romSize>1383923712</romSize>
+			<publisher>KTファクトリー</publisher>
+			<location>7</location>
+			<sourceRom>umd dump kai v2</sourceRom>
+			<language>256</language>
+			<files>
+				<romCRC extension=".iso">38C5A357</romCRC>
+			</files>
+			<im1CRC>80D39864</im1CRC>
+			<im2CRC>67D0DDC8</im2CRC>
+			<comment>2012/11/10</comment>
+			<duplicateID>0</duplicateID>
+		</game>
+		<game>
+			<imageNumber>180</imageNumber>
+			<releaseNumber>180</releaseNumber>
+			<title>アネトリ ～オクテな姉は俺の性処理玩具～ UMD-PG Edition</title>
+			<romSize>1553367040</romSize>
+			<publisher>KTファクトリー</publisher>
+			<location>7</location>
+			<sourceRom>umd dump kai v2</sourceRom>
+			<language>256</language>
+			<files>
+				<romCRC extension=".iso">437AB334</romCRC>
+			</files>
+			<im1CRC>86AA339B</im1CRC>
+			<im2CRC>1E3DD8E9</im2CRC>
+			<comment>2012/12/10</comment>
+			<duplicateID>0</duplicateID>
+		</game>
+		<game>
+			<imageNumber>181</imageNumber>
+			<releaseNumber>181</releaseNumber>
+			<title>家出お嬢様の身売り性生活 UMD-PG Edition</title>
+			<romSize>1345060864</romSize>
+			<publisher>KTファクトリー</publisher>
+			<location>7</location>
+			<sourceRom>umd dump kai v2</sourceRom>
+			<language>256</language>
+			<files>
+				<romCRC extension=".iso">0168DDFB</romCRC>
+			</files>
+			<im1CRC>03395544</im1CRC>
+			<im2CRC>0E39A467</im2CRC>
+			<comment>2013/01/10</comment>
+			<duplicateID>0</duplicateID>
+		</game>
+		<game>
+			<imageNumber>182</imageNumber>
+			<releaseNumber>182</releaseNumber>
+			<title>淫乱な双子の妹とHな性活 ～お兄ちゃん大好き～ UMD-PG Edition</title>
+			<romSize>1317830656</romSize>
+			<publisher>KTファクトリー</publisher>
+			<location>7</location>
+			<sourceRom>umd dump kai v2</sourceRom>
+			<language>256</language>
+			<files>
+				<romCRC extension=".iso">F1E43653</romCRC>
+			</files>
+			<im1CRC>0679060A</im1CRC>
+			<im2CRC>2DD87C22</im2CRC>
+			<comment>2013/02/10</comment>
+			<duplicateID>0</duplicateID>
+		</game>
+		<game>
+			<imageNumber>183</imageNumber>
+			<releaseNumber>183</releaseNumber>
+			<title>エロじじいにネットリしつこく責められる孫娘 UMD-PG Edition</title>
+			<romSize>1662386176</romSize>
+			<publisher>KTファクトリー</publisher>
+			<location>7</location>
+			<sourceRom>umd dump kai v2</sourceRom>
+			<language>256</language>
+			<files>
+				<romCRC extension=".iso">27631C9A</romCRC>
+			</files>
+			<im1CRC>597AEB84</im1CRC>
+			<im2CRC>BB1C3CC0</im2CRC>
+			<comment>2013/04/10</comment>
+			<duplicateID>0</duplicateID>
+		</game>
+		<game>
+			<imageNumber>184</imageNumber>
+			<releaseNumber>184</releaseNumber>
+			<title>お兄ちゃんだけのいやらしいペットになりたいの UMD-PG Edition</title>
+			<romSize>1624637440</romSize>
+			<publisher>KTファクトリー</publisher>
+			<location>7</location>
+			<sourceRom>umd dump kai v2</sourceRom>
+			<language>256</language>
+			<files>
+				<romCRC extension=".iso">BD305181</romCRC>
+			</files>
+			<im1CRC>3B37CC5F</im1CRC>
+			<im2CRC>5EFD1DBF</im2CRC>
+			<comment>2013/06/10</comment>
+			<duplicateID>0</duplicateID>
+		</game>
+		<game>
+			<imageNumber>185</imageNumber>
+			<releaseNumber>185</releaseNumber>
+			<title>盗撮教師と教え子 ～盗撮をネタに命令し放題～ UMD-PG Edition</title>
+			<romSize>1662287872</romSize>
+			<publisher>KTファクトリー</publisher>
+			<location>7</location>
+			<sourceRom>umd dump kai v2</sourceRom>
+			<language>256</language>
+			<files>
+				<romCRC extension=".iso">92DF6FA5</romCRC>
+			</files>
+			<im1CRC>3D427673</im1CRC>
+			<im2CRC>B3FD3AA4</im2CRC>
+			<comment>2013/08/01</comment>
+			<duplicateID>0</duplicateID>
+		</game>
+	</games>
+	<gui>
+		<images width="431" height="183">
+			<image x="0" y="0" width="104" height="181"/>
+			<image x="109" y="0" width="320" height="181"/>
+		</images>
+	</gui>
+</dat>

@@ -1,0 +1,383 @@
+<?xml version="1.0" encoding="Shift_JIS" standalone="no"?>
+<dat xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="datas.xsd">
+<configuration>
+<datName>ポケモンミニ</datName><imFolder>Official No-Intro Pokemon Mini</imFolder>
+<datVersion>1176301643</datVersion>
+<system>Nintendo Pokemon Mini</system>
+<screenshotsWidth>96</screenshotsWidth>
+<screenshotsHeight>64</screenshotsHeight>
+<infos>
+<title visible="false" inNamingOption="true" default="false"></title>
+<location visible="true" inNamingOption="true" default="true"></location>
+<publisher visible="false" inNamingOption="false" default="false"></publisher>
+<sourceRom visible="false" inNamingOption="false" default="false"></sourceRom>
+<saveType visible="false" inNamingOption="false" default="false"></saveType>
+<romSize visible="true" inNamingOption="true" default="true"></romSize>
+<releaseNumber visible="true" inNamingOption="true" default="false"></releaseNumber>
+<languageNumber visible="true" inNamingOption="true" default="false"></languageNumber>
+<comment visible="true" inNamingOption="true" default="true"></comment>
+<romCRC visible="true" inNamingOption="true" default="true"></romCRC>
+<im1CRC visible="true" inNamingOption="true" default="false"></im1CRC>
+<im2CRC visible="true" inNamingOption="true" default="false"></im2CRC>
+<languages visible="true" inNamingOption="true" default="true"></languages>
+</infos>
+<canOpen>
+<extension>.min</extension>
+</canOpen>
+<newDat>
+<datVersionURL>http://offline.s233.xrea.com/dat/Pokemon%20Mini</datVersionURL>
+<datURL fileName="Pokemon Mini (JP).zip">http://offline.s233.xrea.com/dat/Pokemon%20Mini%20%28JP%29.zip</datURL>
+<imURL>http://nointro.free.fr/imgs/Official%20No-Intro%20Pokemon%20Mini/</imURL>
+</newDat>
+<search>
+<to value="location" default="true" auto="true"></to>
+<to value="romSize" default="true" auto="false">
+<find operation="=" value="4096">= 32 KBits</find>
+<find operation="=" value="524288">= 4 MBits</find>
+</to>
+<to value="languages" default="true" auto="true"></to>
+</search>
+<romTitle>%n %o %m %e</romTitle>
+</configuration>
+<games><game>
+<imageNumber>50003</imageNumber>
+<releaseNumber>0</releaseNumber>
+<title>任天堂ポケモンミニ ＢＩＯＳ</title>
+<saveType></saveType>
+<romSize>4096</romSize>
+<publisher></publisher>
+<location>17</location>
+<sourceRom></sourceRom>
+<language>258</language>
+<files>
+<romCRC extension=".min">AED3C14D</romCRC>
+</files>
+<im1CRC>69B4A221</im1CRC>
+<im2CRC>E6B81CB6</im2CRC>
+<comment></comment>
+<duplicateID>0</duplicateID>
+</game><game>
+<imageNumber>50001</imageNumber>
+<releaseNumber>0</releaseNumber>
+<title>ピチューブラザーズ ミニ</title>
+<saveType></saveType>
+<romSize>524288</romSize>
+<publisher></publisher>
+<location>7</location>
+<sourceRom></sourceRom>
+<language>256</language>
+<files>
+<romCRC extension=".min">00D8C968</romCRC>
+</files>
+<im1CRC>6F6535C2</im1CRC>
+<im2CRC>1A9313DC</im2CRC>
+<comment></comment>
+<duplicateID>0</duplicateID>
+</game><game>
+<imageNumber>0</imageNumber>
+<releaseNumber>0</releaseNumber>
+<title>ピチューブラザーズ ミニ - ハネッコジャンプ</title>
+<saveType></saveType>
+<romSize>524288</romSize>
+<publisher></publisher>
+<location>7</location>
+<sourceRom></sourceRom>
+<language>256</language>
+<files>
+<romCRC extension=".min">BE22866A</romCRC>
+</files>
+<im1CRC>616919B9</im1CRC>
+<im2CRC>616919B9</im2CRC>
+<comment>(Preview)</comment>
+<duplicateID>0</duplicateID>
+</game><game>
+<imageNumber>0</imageNumber>
+<releaseNumber>0</releaseNumber>
+<title>ピチューブラザーズ ミニ - ブビィねつききゅう</title>
+<saveType></saveType>
+<romSize>524288</romSize>
+<publisher></publisher>
+<location>7</location>
+<sourceRom></sourceRom>
+<language>256</language>
+<files>
+<romCRC extension=".min">A22D00A7</romCRC>
+</files>
+<im1CRC>616919B9</im1CRC>
+<im2CRC>616919B9</im2CRC>
+<comment>(Preview)</comment>
+<duplicateID>0</duplicateID>
+</game><game>
+<imageNumber>0</imageNumber>
+<releaseNumber>0</releaseNumber>
+<title>ピチューブラザーズ ミニ - スケボーピチュー</title>
+<saveType></saveType>
+<romSize>524288</romSize>
+<publisher></publisher>
+<location>7</location>
+<sourceRom></sourceRom>
+<language>256</language>
+<files>
+<romCRC extension=".min">DEC65262</romCRC>
+</files>
+<im1CRC>616919B9</im1CRC>
+<im2CRC>616919B9</im2CRC>
+<comment>(Preview)</comment>
+<duplicateID>0</duplicateID>
+</game><game>
+<imageNumber>50002</imageNumber>
+<releaseNumber>0</releaseNumber>
+<title>ポケモン アニメカード大作戦</title>
+<saveType></saveType>
+<romSize>524288</romSize>
+<publisher></publisher>
+<location>7</location>
+<sourceRom></sourceRom>
+<language>256</language>
+<files>
+<romCRC extension=".min">199D7AB1</romCRC>
+</files>
+<im1CRC>32375E28</im1CRC>
+<im2CRC>88144A68</im2CRC>
+<comment></comment>
+<duplicateID>0</duplicateID>
+</game><game>
+<imageNumber>0</imageNumber>
+<releaseNumber>0</releaseNumber>
+<title>ポケモンパーティー ミニ - ヤドキングジャッジ</title>
+<saveType></saveType>
+<romSize>524288</romSize>
+<publisher></publisher>
+<location>7</location>
+<sourceRom></sourceRom>
+<language>256</language>
+<files>
+<romCRC extension=".min">F5192440</romCRC>
+</files>
+<im1CRC>616919B9</im1CRC>
+<im2CRC>616919B9</im2CRC>
+<comment>(Gamecube)</comment>
+<duplicateID>2</duplicateID>
+</game><game>
+<imageNumber>0</imageNumber>
+<releaseNumber>0</releaseNumber>
+<title>ポケモンパーティー ミニ - ラッキ～ドリブル</title>
+<saveType></saveType>
+<romSize>524288</romSize>
+<publisher></publisher>
+<location>7</location>
+<sourceRom></sourceRom>
+<language>256</language>
+<files>
+<romCRC extension=".min">D09DB45C</romCRC>
+</files>
+<im1CRC>616919B9</im1CRC>
+<im2CRC>616919B9</im2CRC>
+<comment>(Gamecube)</comment>
+<duplicateID>4</duplicateID>
+</game><game>
+<imageNumber>50009</imageNumber>
+<releaseNumber>0</releaseNumber>
+<title>ポケモン ピンボール ミニ</title>
+<saveType></saveType>
+<romSize>524288</romSize>
+<publisher></publisher>
+<location>7</location>
+<sourceRom></sourceRom>
+<language>256</language>
+<files>
+<romCRC extension=".min">398D47DE</romCRC>
+</files>
+<im1CRC>E53CDB04</im1CRC>
+<im2CRC>A291DB06</im2CRC>
+<comment></comment>
+<duplicateID>5</duplicateID>
+</game><game>
+<imageNumber>0</imageNumber>
+<releaseNumber>0</releaseNumber>
+<title>ポケモン ピンボール ミニ</title>
+<saveType></saveType>
+<romSize>524288</romSize>
+<publisher></publisher>
+<location>7</location>
+<sourceRom></sourceRom>
+<language>256</language>
+<files>
+<romCRC extension=".min">88CA8CC5</romCRC>
+</files>
+<im1CRC>616919B9</im1CRC>
+<im2CRC>616919B9</im2CRC>
+<comment>(Preview)</comment>
+<duplicateID>5</duplicateID>
+</game><game>
+<imageNumber>50014</imageNumber>
+<releaseNumber>0</releaseNumber>
+<title>ポケモン パズルコレクション</title>
+<saveType></saveType>
+<romSize>524288</romSize>
+<publisher></publisher>
+<location>7</location>
+<sourceRom></sourceRom>
+<language>256</language>
+<files>
+<romCRC extension=".min">95AFAE59</romCRC>
+</files>
+<im1CRC>6B1FEAC7</im1CRC>
+<im2CRC>988A6A50</im2CRC>
+<comment></comment>
+<duplicateID>7</duplicateID>
+</game><game>
+<imageNumber>0</imageNumber>
+<releaseNumber>0</releaseNumber>
+<title>ポケモン パズルコレクション</title>
+<saveType></saveType>
+<romSize>524288</romSize>
+<publisher></publisher>
+<location>7</location>
+<sourceRom></sourceRom>
+<language>256</language>
+<files>
+<romCRC extension=".min">DA278854</romCRC>
+</files>
+<im1CRC>616919B9</im1CRC>
+<im2CRC>616919B9</im2CRC>
+<comment>(Gamecube)</comment>
+<duplicateID>7</duplicateID>
+</game><game>
+<imageNumber>50016</imageNumber>
+<releaseNumber>0</releaseNumber>
+<title>ポケモン パズルコレクション Ｖｏｌ．２</title>
+<saveType></saveType>
+<romSize>524288</romSize>
+<publisher></publisher>
+<location>7</location>
+<sourceRom></sourceRom>
+<language>256</language>
+<files>
+<romCRC extension=".min">76A1BBF8</romCRC>
+</files>
+<im1CRC>BEED9220</im1CRC>
+<im2CRC>9B713C8D</im2CRC>
+<comment></comment>
+<duplicateID>0</duplicateID>
+</game><game>
+<imageNumber>50017</imageNumber>
+<releaseNumber>0</releaseNumber>
+<title>ポケモンレース ミニ</title>
+<saveType></saveType>
+<romSize>524288</romSize>
+<publisher></publisher>
+<location>7</location>
+<sourceRom></sourceRom>
+<language>256</language>
+<files>
+<romCRC extension=".min">F8C842B5</romCRC>
+</files>
+<im1CRC>0532BC53</im1CRC>
+<im2CRC>2E159213</im2CRC>
+<comment></comment>
+<duplicateID>9</duplicateID>
+</game><game>
+<imageNumber>0</imageNumber>
+<releaseNumber>0</releaseNumber>
+<title>ポケモンレース ミニ</title>
+<saveType></saveType>
+<romSize>524288</romSize>
+<publisher></publisher>
+<location>7</location>
+<sourceRom></sourceRom>
+<language>256</language>
+<files>
+<romCRC extension=".min">8F731830</romCRC>
+</files>
+<im1CRC>616919B9</im1CRC>
+<im2CRC>616919B9</im2CRC>
+<comment>(Preview)</comment>
+<duplicateID>9</duplicateID>
+</game><game>
+<imageNumber>50020</imageNumber>
+<releaseNumber>0</releaseNumber>
+<title>ポケモン ショックテトリス</title>
+<saveType></saveType>
+<romSize>524288</romSize>
+<publisher></publisher>
+<location>7</location>
+<sourceRom></sourceRom>
+<language>256</language>
+<files>
+<romCRC extension=".min">B4B5CC20</romCRC>
+</files>
+<im1CRC>166C157A</im1CRC>
+<im2CRC>0AEDCE37</im2CRC>
+<comment></comment>
+<duplicateID>0</duplicateID>
+</game><game>
+<imageNumber>50018</imageNumber>
+<releaseNumber>0</releaseNumber>
+<title>ポケモン そだてやさん ミニ</title>
+<saveType></saveType>
+<romSize>524288</romSize>
+<publisher></publisher>
+<location>7</location>
+<sourceRom></sourceRom>
+<language>256</language>
+<files>
+<romCRC extension=".min">D55FC4C8</romCRC>
+</files>
+<im1CRC>CA891725</im1CRC>
+<im2CRC>8F1D1A04</im2CRC>
+<comment></comment>
+<duplicateID>0</duplicateID>
+</game><game>
+<imageNumber>0</imageNumber>
+<releaseNumber>0</releaseNumber>
+<title>カビゴンのランチタイム</title>
+<saveType></saveType>
+<romSize>524288</romSize>
+<publisher></publisher>
+<location>7</location>
+<sourceRom></sourceRom>
+<language>256</language>
+<files>
+<romCRC extension=".min">0186EA70</romCRC>
+</files>
+<im1CRC>616919B9</im1CRC>
+<im2CRC>616919B9</im2CRC>
+<comment>(Gamecube)</comment>
+<duplicateID>11</duplicateID>
+</game><game>
+<imageNumber>50024</imageNumber>
+<releaseNumber>0</releaseNumber>
+<title>トゲピーのだいぼうけん</title>
+<saveType></saveType>
+<romSize>524288</romSize>
+<publisher></publisher>
+<location>7</location>
+<sourceRom></sourceRom>
+<language>256</language>
+<files>
+<romCRC extension=".min">33B3492B</romCRC>
+</files>
+<im1CRC>FBC0BAA8</im1CRC>
+<im2CRC>F72CD252</im2CRC>
+<comment></comment>
+<duplicateID>12</duplicateID>
+</game><game>
+<imageNumber>0</imageNumber>
+<releaseNumber>0</releaseNumber>
+<title>トゲピーのだいぼうけん</title>
+<saveType></saveType>
+<romSize>524288</romSize>
+<publisher></publisher>
+<location>7</location>
+<sourceRom></sourceRom>
+<language>256</language>
+<files>
+<romCRC extension=".min">8C557C89</romCRC>
+</files>
+<im1CRC>616919B9</im1CRC>
+<im2CRC>616919B9</im2CRC>
+<comment>(Preview)</comment>
+<duplicateID>12</duplicateID>
+</game></games>
+</dat>

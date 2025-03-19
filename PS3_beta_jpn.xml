@@ -1,0 +1,4050 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<dat xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="datas.xsd">
+  <configuration>
+    <datName>PS3 - OfflineList (J)</datName>
+    <imFolder>PS3_imgs_jpn</imFolder>
+    <datVersion>0267</datVersion>
+    <system>PlayStation 3</system>
+    <screenshotsWidth>350</screenshotsWidth>
+    <screenshotsHeight>200</screenshotsHeight>
+    <infos>
+      <title visible="false" inNamingOption="true" default="false" />
+      <location visible="true" inNamingOption="true" default="true" />
+      <publisher visible="true" inNamingOption="true" default="true" />
+      <sourceRom visible="true" inNamingOption="true" default="true" />
+      <releaseNumber visible="true" inNamingOption="true" default="false" />
+      <languageNumber visible="true" inNamingOption="true" default="false" />
+      <comment visible="true" inNamingOption="true" default="true" />
+      <romCRC visible="true" inNamingOption="true" default="true" />
+      <languages visible="true" inNamingOption="true" default="true" />
+    </infos>
+    <canOpen>
+      <extension>.iso</extension>
+    </canOpen>
+    <newDat>
+      <datVersionURL>http://zipt.web.fc2.com/offlinelist/ps3_offlinelist/PS3.txt</datVersionURL>
+      <datURL fileName="PS3_beta_jpn.zip">http://zipt.web.fc2.com/offlinelist/ps3_offlinelist/PS3_beta_jpn.zip</datURL>
+      <imURL>http://zipt.web.fc2.com/offlinelist/ps3_offlinelist/img/</imURL>
+    </newDat>
+    <search>
+      <to value="location" default="true" auto="true" />
+      <to value="languages" default="true" auto="true" />
+      <to value="publisher" default="true" auto="true" />
+      <to value="sourceRom" default="true" auto="true" />
+    </search>
+    <romTitle>%u - %n</romTitle>
+  </configuration>
+  <games>
+    <game>
+      <imageNumber>1</imageNumber>
+      <releaseNumber>1</releaseNumber>
+      <title>GENJI -神威奏乱-</title>
+      <publisher>ソニー</publisher>
+      <location>7</location>
+      <sourceRom></sourceRom>
+      <language>256</language>
+      <files>
+        <romCRC extension=".iso">00000001</romCRC>
+      </files>
+      <im1CRC>0947246E</im1CRC>
+      <im2CRC>12d71abc</im2CRC>
+      <comment>2006-11-11</comment>
+    </game>
+    <game>
+      <imageNumber>2</imageNumber>
+      <releaseNumber>2</releaseNumber>
+      <title>RESISTANCE～人類没落の日～</title>
+      <publisher>ソニー</publisher>
+      <location>7</location>
+      <sourceRom></sourceRom>
+      <language>256</language>
+      <files>
+        <romCRC extension=".iso">00000002</romCRC>
+      </files>
+      <im1CRC>07d54f9c</im1CRC>
+      <im2CRC>8795714e</im2CRC>
+      <comment>2006-11-11</comment>
+    </game>
+    <game>
+      <imageNumber>3</imageNumber>
+      <releaseNumber>3</releaseNumber>
+      <title>リッジレーサー7</title>
+      <publisher>ナムコ</publisher>
+      <location>7</location>
+      <sourceRom></sourceRom>
+      <language>256</language>
+      <files>
+        <romCRC extension=".iso">00000003</romCRC>
+      </files>
+      <im1CRC>a99e9356</im1CRC>
+      <im2CRC>4d6f431d</im2CRC>
+      <comment>2006-11-11</comment>
+    </game>
+    <game>
+      <imageNumber>4</imageNumber>
+      <releaseNumber>4</releaseNumber>
+      <title>機動戦士ガンダム ターゲット イン サイト</title>
+      <publisher>バンダイナムコゲームス</publisher>
+      <location>7</location>
+      <sourceRom></sourceRom>
+      <language>256</language>
+      <files>
+        <romCRC extension=".iso">00000004</romCRC>
+      </files>
+      <im1CRC>375d15e3</im1CRC>
+      <im2CRC>e11c5870</im2CRC>
+      <comment>2006-11-11</comment>
+    </game>
+    <game>
+      <imageNumber>5</imageNumber>
+      <releaseNumber>5</releaseNumber>
+      <title>宮里三兄弟内蔵 SEGA GOLFCLUB</title>
+      <publisher>セガ</publisher>
+      <location>7</location>
+      <sourceRom></sourceRom>
+      <language>256</language>
+      <files>
+        <romCRC extension=".iso">00000005</romCRC>
+      </files>
+      <im1CRC>879488bf</im1CRC>
+      <im2CRC>0b1fce30</im2CRC>
+      <comment>2006-11-11</comment>
+    </game>
+    <game>
+      <imageNumber>6</imageNumber>
+      <releaseNumber>6</releaseNumber>
+      <title>麻雀格闘倶楽部 全国対戦版</title>
+      <publisher>コナミデジタルエンタテインメント</publisher>
+      <location>7</location>
+      <sourceRom />
+      <language>256</language>
+      <files>
+        <romCRC extension=".iso">8713DD41</romCRC>
+      </files>
+      <im1CRC>f1cbefe6</im1CRC>
+      <im2CRC>3b2dca17</im2CRC>
+      <comment>2006-11-16</comment>
+    </game>
+    <game>
+      <imageNumber>7</imageNumber>
+      <releaseNumber>7</releaseNumber>
+      <title>麻雀大会IV</title>
+      <publisher>コーエー</publisher>
+      <location>7</location>
+      <sourceRom />
+      <language>256</language>
+      <files>
+        <romCRC extension=".iso">83DCEFB7</romCRC>
+      </files>
+      <im1CRC>258390ca</im1CRC>
+      <im2CRC>e3d9aede</im2CRC>
+      <comment>2006-11-22</comment>
+    </game>
+    <game>
+      <imageNumber>8</imageNumber>
+      <releaseNumber>8</releaseNumber>
+      <title>モーターストーム</title>
+      <publisher>ソニー</publisher>
+      <location>7</location>
+      <sourceRom />
+      <language>256</language>
+      <files>
+        <romCRC extension=".iso">4F5344CD</romCRC>
+      </files>
+      <im1CRC>3adc32c8</im1CRC>
+      <im2CRC>b207c2b8</im2CRC>
+      <comment>2006-12-14</comment>
+    </game>
+    <game>
+      <imageNumber>9</imageNumber>
+      <releaseNumber>9</releaseNumber>
+      <title>アーマード・コア4</title>
+      <publisher>フロム・ソフトウェア</publisher>
+      <location>7</location>
+      <sourceRom />
+      <language>256</language>
+      <files>
+        <romCRC extension=".iso">13792798</romCRC>
+      </files>
+      <im1CRC>3a345750</im1CRC>
+      <im2CRC>8864532a</im2CRC>
+      <comment>2006-12-21</comment>
+    </game>
+    <game>
+      <imageNumber>10</imageNumber>
+      <releaseNumber>10</releaseNumber>
+      <title>レールファン</title>
+      <publisher>音楽館</publisher>
+      <location>7</location>
+      <sourceRom />
+      <language>256</language>
+      <files>
+        <romCRC extension=".iso">D4620087</romCRC>
+      </files>
+      <im1CRC>90ce6f1a</im1CRC>
+      <im2CRC>1ac0a402</im2CRC>
+      <comment>2006-12-21</comment>
+    </game>
+    <game>
+      <imageNumber>11</imageNumber>
+      <releaseNumber>11</releaseNumber>
+      <title>ソニック・ザ・ヘッジホッグ</title>
+      <publisher>セガ</publisher>
+      <location>7</location>
+      <sourceRom />
+      <language>256</language>
+      <files>
+        <romCRC extension=".iso">D2F15996</romCRC>
+      </files>
+      <im1CRC>f3f4748f</im1CRC>
+      <im2CRC>9cc0e1c2</im2CRC>
+      <comment>2006-12-21</comment>
+    </game>
+    <game>
+      <imageNumber>12</imageNumber>
+      <releaseNumber>12</releaseNumber>
+      <title>ニード・フォー・スピード カーボン</title>
+      <publisher>エレクトロニック・アーツ</publisher>
+      <location>7</location>
+      <sourceRom />
+      <language>256</language>
+      <files>
+        <romCRC extension=".iso">C531E0E5</romCRC>
+      </files>
+      <im1CRC>489e1a46</im1CRC>
+      <im2CRC>18a096d4</im2CRC>
+      <comment>2006-12-21</comment>
+    </game>
+    <game>
+      <imageNumber>13</imageNumber>
+      <releaseNumber>13</releaseNumber>
+      <title>FORMULA ONE CHAMPIONSHIP EDITION</title>
+      <publisher>ソニー</publisher>
+      <location>7</location>
+      <sourceRom />
+      <language>256</language>
+      <files>
+        <romCRC extension=".iso">FA1A82AD</romCRC>
+      </files>
+      <im1CRC>e596a1cd</im1CRC>
+      <im2CRC>0a92b4e1</im2CRC>
+      <comment>2006-12-28</comment>
+    </game>
+    <game>
+      <imageNumber>14</imageNumber>
+      <releaseNumber>14</releaseNumber>
+      <title>NBA07</title>
+      <publisher>エレクトロニック・アーツ</publisher>
+      <location>7</location>
+      <sourceRom />
+      <language>256</language>
+      <files>
+        <romCRC extension=".iso">AF86ADD3</romCRC>
+      </files>
+      <im1CRC>0cf1a875</im1CRC>
+      <im2CRC>bb11f840</im2CRC>
+      <comment>2007-1-11</comment>
+    </game>
+    <game>
+      <imageNumber>15</imageNumber>
+      <releaseNumber>15</releaseNumber>
+      <title>エンチャント・アーム</title>
+      <publisher>ソニー</publisher>
+      <location>7</location>
+      <sourceRom />
+      <language>256</language>
+      <files>
+        <romCRC extension=".iso">8D1DB23B</romCRC>
+      </files>
+      <im1CRC>b1996ec2</im1CRC>
+      <im2CRC>60cbd198</im2CRC>
+      <comment>2007-1-25</comment>
+    </game>
+    <game>
+      <imageNumber>16</imageNumber>
+      <releaseNumber>16</releaseNumber>
+      <title>バーチャファイター5</title>
+      <publisher>セガ</publisher>
+      <location>7</location>
+      <sourceRom />
+      <language>256</language>
+      <files>
+        <romCRC extension=".iso">6313D317</romCRC>
+      </files>
+      <im1CRC>136d11eb</im1CRC>
+      <im2CRC>e0e61e07</im2CRC>
+      <comment>2007-2-8</comment>
+    </game>
+    <game>
+      <imageNumber>17</imageNumber>
+      <releaseNumber>17</releaseNumber>
+      <title>Untold Legends ダークキングダム</title>
+      <publisher>ソニー</publisher>
+      <location>7</location>
+      <sourceRom />
+      <language>256</language>
+      <files>
+        <romCRC extension=".iso">6E0ED3DD</romCRC>
+      </files>
+      <im1CRC>77d22b9a</im1CRC>
+      <im2CRC>d6ce0354</im2CRC>
+      <comment>2007-2-22</comment>
+    </game>
+    <game>
+      <imageNumber>18</imageNumber>
+      <releaseNumber>18</releaseNumber>
+      <title>ガンダム無双</title>
+      <publisher>バンダイナムコゲームス</publisher>
+      <location>7</location>
+      <sourceRom />
+      <language>256</language>
+      <files>
+        <romCRC extension=".iso">1414E381</romCRC>
+      </files>
+      <im1CRC>331391f2</im1CRC>
+      <im2CRC>943b2607</im2CRC>
+      <comment>2007-3-1</comment>
+    </game>
+    <game>
+      <imageNumber>19</imageNumber>
+      <releaseNumber>19</releaseNumber>
+      <title>パワースマッシュ3</title>
+      <publisher>セガ</publisher>
+      <location>7</location>
+      <sourceRom />
+      <language>256</language>
+      <files>
+        <romCRC extension=".iso">936B4763</romCRC>
+      </files>
+      <im1CRC>0fb656f4</im1CRC>
+      <im2CRC>fcdfabcb</im2CRC>
+      <comment>2007-3-8</comment>
+    </game>
+    <game>
+      <imageNumber>20</imageNumber>
+      <releaseNumber>20</releaseNumber>
+      <title>ファイトナイト ラウンド3</title>
+      <publisher>エレクトロニック・アーツ</publisher>
+      <location>7</location>
+      <sourceRom />
+      <language>256</language>
+      <files>
+        <romCRC extension=".iso">EAB7FFC7</romCRC>
+      </files>
+      <im1CRC>f03625fd</im1CRC>
+      <im2CRC>40f34244</im2CRC>
+      <comment>2007-3-15</comment>
+    </game>
+    <game>
+      <imageNumber>21</imageNumber>
+      <releaseNumber>21</releaseNumber>
+      <title>MIST OF CHAOS</title>
+      <publisher>アイディアファクトリー</publisher>
+      <location>7</location>
+      <sourceRom />
+      <language>256</language>
+      <files>
+        <romCRC extension=".iso">AB2DE132</romCRC>
+      </files>
+      <im1CRC>71b19722</im1CRC>
+      <im2CRC>4b9b5ccc</im2CRC>
+      <comment>2007-3-22</comment>
+    </game>
+    <game>
+      <imageNumber>22</imageNumber>
+      <releaseNumber>22</releaseNumber>
+      <title>Winning Post 7 MAXIMUM2007</title>
+      <publisher>コーエー</publisher>
+      <location>7</location>
+      <sourceRom />
+      <language>256</language>
+      <files>
+        <romCRC extension=".iso">0012D20A</romCRC>
+      </files>
+      <im1CRC>810ead27</im1CRC>
+      <im2CRC>f43097c9</im2CRC>
+      <comment>2007-3-29</comment>
+    </game>
+    <game>
+      <imageNumber>23</imageNumber>
+      <releaseNumber>23</releaseNumber>
+      <title>プロ野球スピリッツ4</title>
+      <publisher>コナミデジタルエンタテインメント</publisher>
+      <location>7</location>
+      <sourceRom />
+      <language>256</language>
+      <files>
+        <romCRC extension=".iso">9E7647A9</romCRC>
+      </files>
+      <im1CRC>e0f6c533</im1CRC>
+      <im2CRC>f13eb723</im2CRC>
+      <comment>2007-4-1</comment>
+    </game>
+    <game>
+      <imageNumber>24</imageNumber>
+      <releaseNumber>24</releaseNumber>
+      <title>マッデン NFL 07</title>
+      <publisher>エレクトロニック・アーツ</publisher>
+      <location>7</location>
+      <sourceRom />
+      <language>256</language>
+      <files>
+        <romCRC extension=".iso">83DFEFB7</romCRC>
+      </files>
+      <im1CRC>b3af281b</im1CRC>
+      <im2CRC>15b5ede5</im2CRC>
+      <comment>2007-4-26</comment>
+    </game>
+    <game>
+      <imageNumber>25</imageNumber>
+      <releaseNumber>25</releaseNumber>
+      <title>NBAストリート ホームコート</title>
+      <publisher>エレクトロニック・アーツ</publisher>
+      <location>7</location>
+      <sourceRom />
+      <language>256</language>
+      <files>
+        <romCRC extension=".iso">7D65264F</romCRC>
+      </files>
+      <im1CRC>7ed4beb5</im1CRC>
+      <im2CRC>5a474214</im2CRC>
+      <comment>2007-5-24</comment>
+    </game>
+    <game>
+      <imageNumber>26</imageNumber>
+      <releaseNumber>26</releaseNumber>
+      <title>NINJA GAIDEN Σ</title>
+      <publisher>テクモ</publisher>
+      <location>7</location>
+      <sourceRom />
+      <language>256</language>
+      <files>
+        <romCRC extension=".iso">709F9EA8</romCRC>
+      </files>
+      <im1CRC>3e054755</im1CRC>
+      <im2CRC>38c64700</im2CRC>
+      <comment>2007-6-14</comment>
+    </game>
+    <game>
+      <imageNumber>27</imageNumber>
+      <releaseNumber>27</releaseNumber>
+      <title>コール オブ デューティ 3</title>
+      <publisher>Activision</publisher>
+      <location>7</location>
+      <sourceRom />
+      <language>256</language>
+      <files>
+        <romCRC extension=".iso">6ABF4A82</romCRC>
+      </files>
+      <im1CRC>45d17da2</im1CRC>
+      <im2CRC>fdc81e9a</im2CRC>
+      <comment>2007-6-14</comment>
+    </game>
+    <game>
+      <imageNumber>28</imageNumber>
+      <releaseNumber>28</releaseNumber>
+      <title>FolksSoul -失われた伝承-</title>
+      <publisher>ソニー</publisher>
+      <location>7</location>
+      <sourceRom />
+      <language>256</language>
+      <files>
+        <romCRC extension=".iso">9E91FF84</romCRC>
+      </files>
+      <im1CRC>32834972</im1CRC>
+      <im2CRC>fce5e7b1</im2CRC>
+      <comment>2007-6-21</comment>
+    </game>
+    <game>
+      <imageNumber>29</imageNumber>
+      <releaseNumber>29</releaseNumber>
+      <title>デフジャム・アイコン</title>
+      <publisher>エレクトロニック・アーツ</publisher>
+      <location>7</location>
+      <sourceRom />
+      <language>256</language>
+      <files>
+        <romCRC extension=".iso">E46C77F5</romCRC>
+      </files>
+      <im1CRC>19cf1414</im1CRC>
+      <im2CRC>c5d76ece</im2CRC>
+      <comment>2007-6-21</comment>
+    </game>
+    <game>
+      <imageNumber>30</imageNumber>
+      <releaseNumber>30</releaseNumber>
+      <title>マーベル アルティメット アライアンス</title>
+      <publisher>Activision</publisher>
+      <location>7</location>
+      <sourceRom />
+      <language>256</language>
+      <files>
+        <romCRC extension=".iso">84B12BAE</romCRC>
+      </files>
+      <im1CRC>2088285a</im1CRC>
+      <im2CRC>bedfa73e</im2CRC>
+      <comment>2007-6-28</comment>
+    </game>
+    <game>
+      <imageNumber>31</imageNumber>
+      <releaseNumber>31</releaseNumber>
+      <title>レインボーシックス ベガス</title>
+      <publisher>ユービーアイ ソフト</publisher>
+      <location>7</location>
+      <sourceRom />
+      <language>256</language>
+      <files>
+        <romCRC extension=".iso">E996CF12</romCRC>
+      </files>
+      <im1CRC>4b2bad08</im1CRC>
+      <im2CRC>3b64aa6d</im2CRC>
+      <comment>2007-6-28</comment>
+    </game>
+    <game>
+      <imageNumber>32</imageNumber>
+      <releaseNumber>32</releaseNumber>
+      <title>ぼくのなつやすみ3 ‐北国篇‐ 小さなボクの大草原</title>
+      <publisher>ソニー</publisher>
+      <location>7</location>
+      <sourceRom />
+      <language>256</language>
+      <files>
+        <romCRC extension=".iso">7E44169A</romCRC>
+      </files>
+      <im1CRC>5247f04f</im1CRC>
+      <im2CRC>91113116</im2CRC>
+      <comment>2007-7-5</comment>
+    </game>
+    <game>
+      <imageNumber>33</imageNumber>
+      <releaseNumber>33</releaseNumber>
+      <title>ブレイジング・エンジェル</title>
+      <publisher>ユービーアイ ソフト</publisher>
+      <location>7</location>
+      <sourceRom />
+      <language>256</language>
+      <files>
+        <romCRC extension=".iso">7715E29C</romCRC>
+      </files>
+      <im1CRC>03b625f2</im1CRC>
+      <im2CRC>76240c80</im2CRC>
+      <comment>2007-7-5</comment>
+    </game>
+    <game>
+      <imageNumber>34</imageNumber>
+      <releaseNumber>34</releaseNumber>
+      <title>みんなのGOLF 5</title>
+      <publisher>ソニー</publisher>
+      <location>7</location>
+      <sourceRom />
+      <language>256</language>
+      <files>
+        <romCRC extension=".iso">6EE96BF0</romCRC>
+      </files>
+      <im1CRC>9a22e302</im1CRC>
+      <im2CRC>c7a944e4</im2CRC>
+      <comment>2007-7-26</comment>
+    </game>
+    <game>
+      <imageNumber>35</imageNumber>
+      <releaseNumber>35</releaseNumber>
+      <title>メジャーリーグベースボール 2K7</title>
+      <publisher>2K Games</publisher>
+      <location>7</location>
+      <sourceRom />
+      <language>256</language>
+      <files>
+        <romCRC extension=".iso">84ABFE10</romCRC>
+      </files>
+      <im1CRC>b083fac3</im1CRC>
+      <im2CRC>817141b3</im2CRC>
+      <comment>2007-7-26</comment>
+    </game>
+    <game>
+      <imageNumber>36</imageNumber>
+      <releaseNumber>36</releaseNumber>
+      <title>湾岸ミッドナイト</title>
+      <publisher>元気</publisher>
+      <location>7</location>
+      <sourceRom />
+      <language>256</language>
+      <files>
+        <romCRC extension=".iso">19EE5B66</romCRC>
+      </files>
+      <im1CRC>896b4e1b</im1CRC>
+      <im2CRC>5b3305a6</im2CRC>
+      <comment>2007-7-26</comment>
+    </game>
+    <game>
+      <imageNumber>37</imageNumber>
+      <releaseNumber>37</releaseNumber>
+      <title>BLADESTORM 百年戦争</title>
+      <publisher>コーエー</publisher>
+      <location>7</location>
+      <sourceRom />
+      <language>256</language>
+      <files>
+        <romCRC extension=".iso">0F37C730</romCRC>
+      </files>
+      <im1CRC>c6b85f78</im1CRC>
+      <im2CRC>d557a472</im2CRC>
+      <comment>2007-8-30</comment>
+    </game>
+    <game>
+      <imageNumber>38</imageNumber>
+      <releaseNumber>38</releaseNumber>
+      <title>山佐DigiワールドSPパチスロ戦国無双</title>
+      <publisher>山佐</publisher>
+      <location>7</location>
+      <sourceRom />
+      <language>256</language>
+      <files>
+        <romCRC extension=".iso">EB4962CF</romCRC>
+      </files>
+      <im1CRC>b531f80d</im1CRC>
+      <im2CRC>b3b8ace8</im2CRC>
+      <comment>2007-9-6</comment>
+    </game>
+    <game>
+      <imageNumber>39</imageNumber>
+      <releaseNumber>39</releaseNumber>
+      <title>MEGAZONE23 青いガーランド</title>
+      <publisher>コンパイルハート</publisher>
+      <location>7</location>
+      <sourceRom />
+      <language>256</language>
+      <files>
+        <romCRC extension=".iso">CF3F8F9F</romCRC>
+      </files>
+      <im1CRC>cb3e025e</im1CRC>
+      <im2CRC>c6e564b6</im2CRC>
+      <comment>2007-9-13</comment>
+    </game>
+    <game>
+      <imageNumber>40</imageNumber>
+      <releaseNumber>40</releaseNumber>
+      <title>The Elder Scrolls IV:オブリビオン</title>
+      <publisher>2K Games</publisher>
+      <location>7</location>
+      <sourceRom />
+      <language>256</language>
+      <files>
+        <romCRC extension=".iso">F0F355FA</romCRC>
+      </files>
+      <im1CRC>568b17f5</im1CRC>
+      <im2CRC>042f466d</im2CRC>
+      <comment>2007-9-27</comment>
+    </game>
+    <game>
+      <imageNumber>41</imageNumber>
+      <releaseNumber>41</releaseNumber>
+      <title>アガレスト戦記</title>
+      <publisher>アイディアファクトリー</publisher>
+      <location>7</location>
+      <sourceRom />
+      <language>256</language>
+      <files>
+        <romCRC extension=".iso">7186BB8D</romCRC>
+      </files>
+      <im1CRC>f1fe150c</im1CRC>
+      <im2CRC>048002b6</im2CRC>
+      <comment>2007-9-27</comment>
+    </game>
+    <game>
+      <imageNumber>42</imageNumber>
+      <releaseNumber>42</releaseNumber>
+      <title>RISE FROM LAIR</title>
+      <publisher>ソニー</publisher>
+      <location>7</location>
+      <sourceRom />
+      <language>256</language>
+      <files>
+        <romCRC extension=".iso">085A0329</romCRC>
+      </files>
+      <im1CRC>3a10d417</im1CRC>
+      <im2CRC>11579de7</im2CRC>
+      <comment>2007-10-11</comment>
+    </game>
+    <game>
+      <imageNumber>43</imageNumber>
+      <releaseNumber>43</releaseNumber>
+      <title>ゴッドファーザー ドン・エディション</title>
+      <publisher>エレクトロニック・アーツ</publisher>
+      <location>7</location>
+      <sourceRom />
+      <language>256</language>
+      <files>
+        <romCRC extension=".iso">CBEA68D7</romCRC>
+      </files>
+      <im1CRC>18cc2760</im1CRC>
+      <im2CRC>93859134</im2CRC>
+      <comment>2007-10-11</comment>
+    </game>
+    <game>
+      <imageNumber>44</imageNumber>
+      <releaseNumber>44</releaseNumber>
+      <title>スパイダーマン3</title>
+      <publisher>Activision</publisher>
+      <location>7</location>
+      <sourceRom />
+      <language>256</language>
+      <files>
+        <romCRC extension=".iso">F06A467E</romCRC>
+      </files>
+      <im1CRC>16652151</im1CRC>
+      <im2CRC>e5f44c09</im2CRC>
+      <comment>2007-10-17</comment>
+    </game>
+    <game>
+      <imageNumber>45</imageNumber>
+      <releaseNumber>45</releaseNumber>
+      <title>THE EYE OF JUDGMENT BIOLITH REBELLION</title>
+      <publisher>ソニー</publisher>
+      <location>7</location>
+      <sourceRom />
+      <language>256</language>
+      <files>
+        <romCRC extension=".iso">7F5D33BF</romCRC>
+      </files>
+      <im1CRC>5f094283</im1CRC>
+      <im2CRC>8c6d341f</im2CRC>
+      <comment>2007-10-25</comment>
+    </game>
+    <game>
+      <imageNumber>46</imageNumber>
+      <releaseNumber>46</releaseNumber>
+      <title>忌火起草</title>
+      <publisher>セガ</publisher>
+      <location>7</location>
+      <sourceRom />
+      <language>256</language>
+      <files>
+        <romCRC extension=".iso">7830F7A6</romCRC>
+      </files>
+      <im1CRC>8efdfee5</im1CRC>
+      <im2CRC>2e3711c0</im2CRC>
+      <comment>2007-10-25</comment>
+    </game>
+    <game>
+      <imageNumber>47</imageNumber>
+      <releaseNumber>47</releaseNumber>
+      <title>Railfan 台湾高鉄</title>
+      <publisher>音楽館</publisher>
+      <location>7</location>
+      <sourceRom />
+      <language>256</language>
+      <files>
+        <romCRC extension=".iso">0FB22E2D</romCRC>
+      </files>
+      <im1CRC>d64d9c73</im1CRC>
+      <im2CRC>1ac0a402</im2CRC>
+      <comment>2007-11-1</comment>
+    </game>
+    <game>
+      <imageNumber>48</imageNumber>
+      <releaseNumber>48</releaseNumber>
+      <title>ジーワン ジョッキー4 2007</title>
+      <publisher>コーエー</publisher>
+      <location>7</location>
+      <sourceRom />
+      <language>256</language>
+      <files>
+        <romCRC extension=".iso">4B847981</romCRC>
+      </files>
+      <im1CRC>eff0969a</im1CRC>
+      <im2CRC>4fb1a7b5</im2CRC>
+      <comment>2007-11-1</comment>
+    </game>
+    <game>
+      <imageNumber>49</imageNumber>
+      <releaseNumber>49</releaseNumber>
+      <title>NBA ライブ 08</title>
+      <publisher>エレクトロニック・アーツ</publisher>
+      <location>7</location>
+      <sourceRom />
+      <language>256</language>
+      <files>
+        <romCRC extension=".iso">8511BEAD</romCRC>
+      </files>
+      <im1CRC>5ef3dd90</im1CRC>
+      <im2CRC>190a87bc</im2CRC>
+      <comment>2007-11-8</comment>
+    </game>
+    <game>
+      <imageNumber>50</imageNumber>
+      <releaseNumber>50</releaseNumber>
+      <title>ゴーストリコン アドバンスウォーファイター2</title>
+      <publisher>ユービーアイ ソフト</publisher>
+      <location>7</location>
+      <sourceRom />
+      <language>256</language>
+      <files>
+        <romCRC extension=".iso">AC3E8E82</romCRC>
+      </files>
+      <im1CRC>296d5844</im1CRC>
+      <im2CRC>a2677a01</im2CRC>
+      <comment>2007-11-8</comment>
+    </game>
+    <game>
+      <imageNumber>51</imageNumber>
+      <releaseNumber>51</releaseNumber>
+      <title>ラチェット＆クランク FUTURE</title>
+      <publisher>ソニー</publisher>
+      <location>7</location>
+      <sourceRom />
+      <language>256</language>
+      <files>
+        <romCRC extension=".iso">9E08EC00</romCRC>
+      </files>
+      <im1CRC>9d0766d9</im1CRC>
+      <im2CRC>00420b97</im2CRC>
+      <comment>2007-11-11</comment>
+    </game>
+    <game>
+      <imageNumber>52</imageNumber>
+      <releaseNumber>52</releaseNumber>
+      <title>真・三國無双5</title>
+      <publisher>コーエー</publisher>
+      <location>7</location>
+      <sourceRom />
+      <language>256</language>
+      <files>
+        <romCRC extension=".iso">DE12C454</romCRC>
+      </files>
+      <im1CRC>92bb3fc4</im1CRC>
+      <im2CRC>ae21e302</im2CRC>
+      <comment>2007-11-11</comment>
+    </game>
+    <game>
+      <imageNumber>53</imageNumber>
+      <releaseNumber>53</releaseNumber>
+      <title>Heavenly Sword～ヘブンリーソード～</title>
+      <publisher>ソニー</publisher>
+      <location>7</location>
+      <sourceRom />
+      <language>256</language>
+      <files>
+        <romCRC extension=".iso">72403375</romCRC>
+      </files>
+      <im1CRC>9eebd4e7</im1CRC>
+      <im2CRC>2359cf04</im2CRC>
+      <comment>2007-11-15</comment>
+    </game>
+    <game>
+      <imageNumber>54</imageNumber>
+      <releaseNumber>54</releaseNumber>
+      <title>WORLD SOCCER Winning Eleven 2008</title>
+      <publisher>コナミデジタルエンタテインメント</publisher>
+      <location>7</location>
+      <sourceRom />
+      <language>256</language>
+      <files>
+        <romCRC extension=".iso">0BDED747</romCRC>
+      </files>
+      <im1CRC>90619e44</im1CRC>
+      <im2CRC>d33fe0ec</im2CRC>
+      <comment>2007-11-22</comment>
+    </game>
+    <game>
+      <imageNumber>55</imageNumber>
+      <releaseNumber>55</releaseNumber>
+      <title>ハリー・ポッターと不死鳥の騎士団</title>
+      <publisher>エレクトロニック・アーツ</publisher>
+      <location>7</location>
+      <sourceRom />
+      <language>256</language>
+      <files>
+        <romCRC extension=".iso">00F56A27</romCRC>
+      </files>
+      <im1CRC>af3739aa</im1CRC>
+      <im2CRC>e1520e5b</im2CRC>
+      <comment>2007-6-14</comment>
+    </game>
+    <game>
+      <imageNumber>56</imageNumber>
+      <releaseNumber>56</releaseNumber>
+      <title>レミーのおいしいレストラン</title>
+      <publisher>THQジャパン</publisher>
+      <location>7</location>
+      <sourceRom />
+      <language>256</language>
+      <files>
+        <romCRC extension=".iso">2DACD8D8</romCRC>
+      </files>
+      <im1CRC>13ec3450</im1CRC>
+      <im2CRC>a0853068</im2CRC>
+      <comment>2007-11-22</comment>
+    </game>
+    <game>
+      <imageNumber>57</imageNumber>
+      <releaseNumber>57</releaseNumber>
+      <title>トニー・ホーク プロジェクト8</title>
+      <publisher>Activision</publisher>
+      <location>7</location>
+      <sourceRom />
+      <language>256</language>
+      <files>
+        <romCRC extension=".iso">3F39B042</romCRC>
+      </files>
+      <im1CRC>ee95a115</im1CRC>
+      <im2CRC>35c3d8ec</im2CRC>
+      <comment>2007-11-29</comment>
+    </game>
+    <game>
+      <imageNumber>58</imageNumber>
+      <releaseNumber>58</releaseNumber>
+      <title>CONAN</title>
+      <publisher>THQジャパン</publisher>
+      <location>7</location>
+      <sourceRom />
+      <language>256</language>
+      <files>
+        <romCRC extension=".iso">34B7E999</romCRC>
+      </files>
+      <im1CRC>b7b12bda</im1CRC>
+      <im2CRC>20683d94</im2CRC>
+      <comment>2007-12-6</comment>
+    </game>
+    <game>
+      <imageNumber>59</imageNumber>
+      <releaseNumber>59</releaseNumber>
+      <title>アンチャーテッド エル・ドラドの秘宝</title>
+      <publisher>ソニー</publisher>
+      <location>7</location>
+      <sourceRom />
+      <language>256</language>
+      <files>
+        <romCRC extension=".iso">9C4E5259</romCRC>
+      </files>
+      <im1CRC>1b449872</im1CRC>
+      <im2CRC>90903350</im2CRC>
+      <comment>2007-12-6</comment>
+    </game>
+    <game>
+      <imageNumber>60</imageNumber>
+      <releaseNumber>60</releaseNumber>
+      <title>パイレーツ・オブ・カリビアン/ワールド・エンド</title>
+      <publisher>Disney</publisher>
+      <location>7</location>
+      <sourceRom />
+      <language>256</language>
+      <files>
+        <romCRC extension=".iso">F9DC0A55</romCRC>
+      </files>
+      <im1CRC>18a78721</im1CRC>
+      <im2CRC>e88ecf7a</im2CRC>
+      <comment>2007-12-6</comment>
+    </game>
+    <game>
+      <imageNumber>61</imageNumber>
+      <releaseNumber>61</releaseNumber>
+      <title>グランツーリスモ5 プロローグ</title>
+      <publisher>ソニー</publisher>
+      <location>7</location>
+      <sourceRom />
+      <language>256</language>
+      <files>
+        <romCRC extension=".iso">0CF14FC8</romCRC>
+      </files>
+      <im1CRC>97af11f5</im1CRC>
+      <im2CRC>623af1c1</im2CRC>
+      <comment>2007-12-13</comment>
+    </game>
+    <game>
+      <imageNumber>62</imageNumber>
+      <releaseNumber>62</releaseNumber>
+      <title>FIFA 08 ワールドクラス サッカー</title>
+      <publisher>エレクトロニック・アーツ</publisher>
+      <location>7</location>
+      <sourceRom />
+      <language>256</language>
+      <files>
+        <romCRC extension=".iso">4A069524</romCRC>
+      </files>
+      <im1CRC>7e8ce3b7</im1CRC>
+      <im2CRC>27d3b81e</im2CRC>
+      <comment>2007-12-20</comment>
+    </game>
+    <game>
+      <imageNumber>63</imageNumber>
+      <releaseNumber>63</releaseNumber>
+      <title>タイムクライシス4</title>
+      <publisher>ナムコ</publisher>
+      <location>7</location>
+      <sourceRom />
+      <language>256</language>
+      <files>
+        <romCRC extension=".iso">1B31F6BB</romCRC>
+      </files>
+      <im1CRC>62fe3e17</im1CRC>
+      <im2CRC>b954e990</im2CRC>
+      <comment>2007-6-14</comment>
+    </game>
+    <game>
+      <imageNumber>64</imageNumber>
+      <releaseNumber>64</releaseNumber>
+      <title>メダル オブ オナー エアボーン</title>
+      <publisher>エレクトロニック・アーツ</publisher>
+      <location>7</location>
+      <sourceRom />
+      <language>256</language>
+      <files>
+        <romCRC extension=".iso">279E409D</romCRC>
+      </files>
+      <im1CRC>c1c4dd64</im1CRC>
+      <im2CRC>87b3a1ef</im2CRC>
+      <comment>2007-12-20</comment>
+    </game>
+    <game>
+      <imageNumber>65</imageNumber>
+      <releaseNumber>65</releaseNumber>
+      <title>コール オブ デューティ 4 モダン・ウォーフェア</title>
+      <publisher>Activision</publisher>
+      <location>7</location>
+      <sourceRom />
+      <language>256</language>
+      <files>
+        <romCRC extension=".iso">E139A61C</romCRC>
+      </files>
+      <im1CRC>854608fa</im1CRC>
+      <im2CRC>8784357a</im2CRC>
+      <comment>2007-12-27</comment>
+    </game>
+    <game>
+      <imageNumber>66</imageNumber>
+      <releaseNumber>66</releaseNumber>
+      <title>ドリフトナイツ:Juiced2</title>
+      <publisher>THQジャパン</publisher>
+      <location>7</location>
+      <sourceRom />
+      <language>256</language>
+      <files>
+        <romCRC extension=".iso">689D8ACC</romCRC>
+      </files>
+      <im1CRC>caa77766</im1CRC>
+      <im2CRC>4679aa3a</im2CRC>
+      <comment>2008-1-24</comment>
+    </game>
+    <game>
+      <imageNumber>67</imageNumber>
+      <releaseNumber>67</releaseNumber>
+      <title>SEGA RALLY REVO</title>
+      <publisher>セガ</publisher>
+      <location>7</location>
+      <sourceRom />
+      <language>256</language>
+      <files>
+        <romCRC extension=".iso">3A6C61AB</romCRC>
+      </files>
+      <im1CRC>c1d4ea1a</im1CRC>
+      <im2CRC>d1c54a71</im2CRC>
+      <comment>2008-1-31</comment>
+    </game>
+    <game>
+      <imageNumber>68</imageNumber>
+      <releaseNumber>68</releaseNumber>
+      <title>アサシン クリード</title>
+      <publisher>ユービーアイ ソフト</publisher>
+      <location>7</location>
+      <sourceRom />
+      <language>256</language>
+      <files>
+        <romCRC extension=".iso">407651F7</romCRC>
+      </files>
+      <im1CRC>d3aadbba</im1CRC>
+      <im2CRC>1c95eeca</im2CRC>
+      <comment>2008-1-31</comment>
+    </game>
+    <game>
+      <imageNumber>69</imageNumber>
+      <releaseNumber>69</releaseNumber>
+      <title>デビル メイ クライ 4</title>
+      <publisher>カプコン</publisher>
+      <location>7</location>
+      <sourceRom />
+      <language>256</language>
+      <files>
+        <romCRC extension=".iso">9BC42E6D</romCRC>
+      </files>
+      <im1CRC>f19cee8c</im1CRC>
+      <im2CRC>f5d6b9e4</im2CRC>
+      <comment>2008-1-31</comment>
+    </game>
+    <game>
+      <imageNumber>70</imageNumber>
+      <releaseNumber>70</releaseNumber>
+      <title>ニード・フォー・スピード プロストリート</title>
+      <publisher>エレクトロニック・アーツ</publisher>
+      <location>7</location>
+      <sourceRom />
+      <language>256</language>
+      <files>
+        <romCRC extension=".iso">C709F515</romCRC>
+      </files>
+      <im1CRC>6ebe9d54</im1CRC>
+      <im2CRC>24a83a9a</im2CRC>
+      <comment>2008-1-31</comment>
+    </game>
+    <game>
+      <imageNumber>71</imageNumber>
+      <releaseNumber>71</releaseNumber>
+      <title>魔界戦記ディスガイア3</title>
+      <publisher>日本一ソフトウェア</publisher>
+      <location>7</location>
+      <sourceRom />
+      <language>256</language>
+      <files>
+        <romCRC extension=".iso">05A0BBCE</romCRC>
+      </files>
+      <im1CRC>077d5401</im1CRC>
+      <im2CRC>633fb722</im2CRC>
+      <comment>2008-1-31</comment>
+    </game>
+    <game>
+      <imageNumber>72</imageNumber>
+      <releaseNumber>72</releaseNumber>
+      <title>トランスフォーマー THE GAME</title>
+      <publisher>Activision</publisher>
+      <location>7</location>
+      <sourceRom />
+      <language>256</language>
+      <files>
+        <romCRC extension=".iso">0943260C</romCRC>
+      </files>
+      <im1CRC>c0792f75</im1CRC>
+      <im2CRC>aca48a8c</im2CRC>
+      <comment>2008-2-7</comment>
+    </game>
+    <game>
+      <imageNumber>73</imageNumber>
+      <releaseNumber>73</releaseNumber>
+      <title>WWE2008 SmackDown vs Raw</title>
+      <publisher>THQジャパン</publisher>
+      <location>7</location>
+      <sourceRom />
+      <language>256</language>
+      <files>
+        <romCRC extension=".iso">06818B1B</romCRC>
+      </files>
+      <im1CRC>36a55923</im1CRC>
+      <im2CRC>4d2b8df2</im2CRC>
+      <comment>2008-2-14</comment>
+    </game>
+    <game>
+      <imageNumber>74</imageNumber>
+      <releaseNumber>74</releaseNumber>
+      <title>スタントマン: イグニッション</title>
+      <publisher>THQジャパン</publisher>
+      <location>7</location>
+      <sourceRom />
+      <language>256</language>
+      <files>
+        <romCRC extension=".iso">0701BDBA</romCRC>
+      </files>
+      <im1CRC>8f3414f9</im1CRC>
+      <im2CRC>7d43075f</im2CRC>
+      <comment>2008-2-21</comment>
+    </game>
+    <game>
+      <imageNumber>75</imageNumber>
+      <releaseNumber>75</releaseNumber>
+      <title>バーンアウト パラダイス</title>
+      <publisher>エレクトロニック・アーツ</publisher>
+      <location>7</location>
+      <sourceRom />
+      <language>256</language>
+      <files>
+        <romCRC extension=".iso">FE28DDC8</romCRC>
+      </files>
+      <im1CRC>536ae5cf</im1CRC>
+      <im2CRC>b5294ee1</im2CRC>
+      <comment>2008-2-21</comment>
+    </game>
+    <game>
+      <imageNumber>76</imageNumber>
+      <releaseNumber>76</releaseNumber>
+      <title>ロストプラネット エクストリーム コンディション</title>
+      <publisher>カプコン</publisher>
+      <location>7</location>
+      <sourceRom />
+      <language>256</language>
+      <files>
+        <romCRC extension=".iso">6BBCBA19</romCRC>
+      </files>
+      <im1CRC>e2cb4254</im1CRC>
+      <im2CRC>9ed2c02a</im2CRC>
+      <comment>2008-2-21</comment>
+    </game>
+    <game>
+      <imageNumber>77</imageNumber>
+      <releaseNumber>77</releaseNumber>
+      <title>ギターヒーロー3 レジェンド オブ ロック（ギターヒーロー３専用ワイヤレス レスポールコントローラ同梱セット)</title>
+      <publisher>Activision</publisher>
+      <location>7</location>
+      <sourceRom />
+      <language>256</language>
+      <files>
+        <romCRC extension=".iso">6B5B0234</romCRC>
+      </files>
+      <im1CRC>0f9c6d54</im1CRC>
+      <im2CRC>3b1c07f1</im2CRC>
+      <comment>2008-3-6</comment>
+    </game>
+    <game>
+      <imageNumber>78</imageNumber>
+      <releaseNumber>78</releaseNumber>
+      <title>龍が如く 見参！</title>
+      <publisher>セガ</publisher>
+      <location>7</location>
+      <sourceRom />
+      <language>256</language>
+      <files>
+        <romCRC extension=".iso">FC6E6391</romCRC>
+      </files>
+      <im1CRC>17a1194a</im1CRC>
+      <im2CRC>1c831091</im2CRC>
+      <comment>2008-3-6</comment>
+    </game>
+    <game>
+      <imageNumber>79</imageNumber>
+      <releaseNumber>79</releaseNumber>
+      <title>ウイニングポスト7 マキシマム2008</title>
+      <publisher>コーエー</publisher>
+      <location>7</location>
+      <sourceRom />
+      <language>256</language>
+      <files>
+        <romCRC extension=".iso">43F28599</romCRC>
+      </files>
+      <im1CRC>892ae63a</im1CRC>
+      <im2CRC>6f585e05</im2CRC>
+      <comment>2008-3-13</comment>
+    </game>
+    <game>
+      <imageNumber>80</imageNumber>
+      <releaseNumber>80</releaseNumber>
+      <title>スケート</title>
+      <publisher>エレクトロニック・アーツ</publisher>
+      <location>7</location>
+      <sourceRom />
+      <language>256</language>
+      <files>
+        <romCRC extension=".iso">664602FE</romCRC>
+      </files>
+      <im1CRC>2bcb4616</im1CRC>
+      <im2CRC>ab82a189</im2CRC>
+      <comment>2008-3-13</comment>
+    </game>
+    <game>
+      <imageNumber>81</imageNumber>
+      <releaseNumber>81</releaseNumber>
+      <title>アーマード・コア フォーアンサー</title>
+      <publisher>フロム・ソフトウェア</publisher>
+      <location>7</location>
+      <sourceRom />
+      <language>256</language>
+      <files>
+        <romCRC extension=".iso">77F25AB1</romCRC>
+      </files>
+      <im1CRC>01707adb</im1CRC>
+      <im2CRC>dbcf671f</im2CRC>
+      <comment>2008-3-19</comment>
+    </game>
+    <game>
+      <imageNumber>82</imageNumber>
+      <releaseNumber>82</releaseNumber>
+      <title>アーミー オブ ツー</title>
+      <publisher>エレクトロニック・アーツ</publisher>
+      <location>7</location>
+      <sourceRom />
+      <language>256</language>
+      <files>
+        <romCRC extension=".iso">6CD17E00</romCRC>
+      </files>
+      <im1CRC>5c07c2b6</im1CRC>
+      <im2CRC>025bbe05</im2CRC>
+      <comment>2008-3-19</comment>
+    </game>
+    <game>
+      <imageNumber>83</imageNumber>
+      <releaseNumber>83</releaseNumber>
+      <title>ブレイジング エンジェル2</title>
+      <publisher>ユービーアイ ソフト</publisher>
+      <location>7</location>
+      <sourceRom />
+      <language>256</language>
+      <files>
+        <romCRC extension=".iso">C064310C</romCRC>
+      </files>
+      <im1CRC>325c46ec</im1CRC>
+      <im2CRC>baa99ac4</im2CRC>
+      <comment>2008-3-19</comment>
+    </game>
+    <game>
+      <imageNumber>84</imageNumber>
+      <releaseNumber>84</releaseNumber>
+      <title>ライラの冒険 ～黄金の羅針盤～</title>
+      <publisher>セガ</publisher>
+      <location>7</location>
+      <sourceRom />
+      <language>256</language>
+      <files>
+        <romCRC extension=".iso">27DC1C0B</romCRC>
+      </files>
+      <im1CRC>f0c09241</im1CRC>
+      <im2CRC>8d5d778e</im2CRC>
+      <comment>2008-3-27</comment>
+    </game>
+    <game>
+      <imageNumber>85</imageNumber>
+      <releaseNumber>85</releaseNumber>
+      <title>レゴR スター・ウォーズ コンプリート サーガ</title>
+      <publisher>LucasArts</publisher>
+      <location>7</location>
+      <sourceRom />
+      <language>256</language>
+      <files>
+        <romCRC extension=".iso">301CA578</romCRC>
+      </files>
+      <im1CRC>3dc3fa4b</im1CRC>
+      <im2CRC>f44efad9</im2CRC>
+      <comment>2008-3-27</comment>
+    </game>
+    <game>
+      <imageNumber>86</imageNumber>
+      <releaseNumber>86</releaseNumber>
+      <title>プロ野球スピリッツ5</title>
+      <publisher>コナミデジタルエンタテインメント</publisher>
+      <location>7</location>
+      <sourceRom />
+      <language>256</language>
+      <files>
+        <romCRC extension=".iso">9E7647A8</romCRC>
+      </files>
+      <im1CRC>78ffee75</im1CRC>
+      <im2CRC>3344472d</im2CRC>
+      <comment>2008-4-1</comment>
+    </game>
+    <game>
+      <imageNumber>87</imageNumber>
+      <releaseNumber>87</releaseNumber>
+      <title>戦場のヴァルキュリア</title>
+      <publisher>セガ</publisher>
+      <location>7</location>
+      <sourceRom />
+      <language>256</language>
+      <files>
+        <romCRC extension=".iso">13078C31</romCRC>
+      </files>
+      <im1CRC>9b041889</im1CRC>
+      <im2CRC>538425ec</im2CRC>
+      <comment>2008-4-24</comment>
+    </game>
+    <game>
+      <imageNumber>88</imageNumber>
+      <releaseNumber>88</releaseNumber>
+      <title>HAZE</title>
+      <publisher>ユービーアイ ソフト</publisher>
+      <location>7</location>
+      <sourceRom />
+      <language>256</language>
+      <files>
+        <romCRC extension=".iso">A78C2066</romCRC>
+      </files>
+      <im1CRC>a3743842</im1CRC>
+      <im2CRC>ef6dd1c0</im2CRC>
+      <comment>2008-5-22</comment>
+    </game>
+    <game>
+      <imageNumber>89</imageNumber>
+      <releaseNumber>89</releaseNumber>
+      <title>MotorStorm Complete</title>
+      <publisher>ソニー</publisher>
+      <location>7</location>
+      <sourceRom />
+      <language>256</language>
+      <files>
+        <romCRC extension=".iso">76A92302</romCRC>
+      </files>
+      <im1CRC>82298e2d</im1CRC>
+      <im2CRC>b9310857</im2CRC>
+      <comment>2008-5-22</comment>
+    </game>
+    <game>
+      <imageNumber>90</imageNumber>
+      <releaseNumber>90</releaseNumber>
+      <title>テュロック</title>
+      <publisher>Propaganda Games</publisher>
+      <location>7</location>
+      <sourceRom />
+      <language>256</language>
+      <files>
+        <romCRC extension=".iso">1EFD34D6</romCRC>
+      </files>
+      <im1CRC>95c480e9</im1CRC>
+      <im2CRC>868188c1</im2CRC>
+      <comment>2008-5-29</comment>
+    </game>
+    <game>
+      <imageNumber>91</imageNumber>
+      <releaseNumber>91</releaseNumber>
+      <title>バトルファンタジア</title>
+      <publisher>Arc System Works</publisher>
+      <location>7</location>
+      <sourceRom />
+      <language>256</language>
+      <files>
+        <romCRC extension=".iso">8D631992</romCRC>
+      </files>
+      <im1CRC>32eb4d56</im1CRC>
+      <im2CRC>b2c78ead</im2CRC>
+      <comment>2008-5-29</comment>
+    </game>
+    <game>
+      <imageNumber>92</imageNumber>
+      <releaseNumber>92</releaseNumber>
+      <title>レインボーシックス ベガス2</title>
+      <publisher>ユービーアイ ソフト</publisher>
+      <location>7</location>
+      <sourceRom />
+      <language>256</language>
+      <files>
+        <romCRC extension=".iso">3F471BEB</romCRC>
+      </files>
+      <im1CRC>ff05a4c2</im1CRC>
+      <im2CRC>8440d4b1</im2CRC>
+      <comment>2008-5-29</comment>
+    </game>
+    <game>
+      <imageNumber>93</imageNumber>
+      <releaseNumber>93</releaseNumber>
+      <title>FIFA ストリート3</title>
+      <publisher>エレクトロニック・アーツ</publisher>
+      <location>7</location>
+      <sourceRom />
+      <language>256</language>
+      <files>
+        <romCRC extension=".iso">1CBB8A8F</romCRC>
+      </files>
+      <im1CRC>78865475</im1CRC>
+      <im2CRC>5d4c4be6</im2CRC>
+      <comment>2008-6-5</comment>
+    </game>
+    <game>
+      <imageNumber>94</imageNumber>
+      <releaseNumber>94</releaseNumber>
+      <title>ドラゴンボールZ バーストリミット</title>
+      <publisher>バンダイナムコゲームス</publisher>
+      <location>7</location>
+      <sourceRom />
+      <language>256</language>
+      <files>
+        <romCRC extension=".iso">6ADB3495</romCRC>
+      </files>
+      <im1CRC>bb99eaae</im1CRC>
+      <im2CRC>03c86d36</im2CRC>
+      <comment>2008-6-5</comment>
+    </game>
+    <game>
+      <imageNumber>95</imageNumber>
+      <releaseNumber>95</releaseNumber>
+      <title>METAL GEAR SOLID 4 GUNS OF THE PATRIOTS</title>
+      <publisher>コナミデジタルエンタテインメント</publisher>
+      <location>7</location>
+      <sourceRom />
+      <language>256</language>
+      <files>
+        <romCRC extension=".iso">E412DC5C</romCRC>
+      </files>
+      <im1CRC>f77c82a9</im1CRC>
+      <im2CRC>fdbf1c72</im2CRC>
+      <comment>2008-6-12</comment>
+    </game>
+    <game>
+      <imageNumber>96</imageNumber>
+      <releaseNumber>96</releaseNumber>
+      <title>The Darkness</title>
+      <publisher>2K Games</publisher>
+      <location>7</location>
+      <sourceRom />
+      <language>256</language>
+      <files>
+        <romCRC extension=".iso">1E839F7F</romCRC>
+      </files>
+      <im1CRC>98fad0f1</im1CRC>
+      <im2CRC>b4c68ab9</im2CRC>
+      <comment>2008-6-26</comment>
+    </game>
+    <game>
+      <imageNumber>97</imageNumber>
+      <releaseNumber>97</releaseNumber>
+      <title>クエイク ウォーズ エネミーテリトリー</title>
+      <publisher>Activision</publisher>
+      <location>7</location>
+      <sourceRom />
+      <language>256</language>
+      <files>
+        <romCRC extension=".iso">FA642904</romCRC>
+      </files>
+      <im1CRC>946ff864</im1CRC>
+      <im2CRC>0326b061</im2CRC>
+      <comment>2008-6-26</comment>
+    </game>
+    <game>
+      <imageNumber>98</imageNumber>
+      <releaseNumber>98</releaseNumber>
+      <title>コールオブデューティー4</title>
+      <publisher>Activision</publisher>
+      <location>7</location>
+      <sourceRom />
+      <language>256</language>
+      <files>
+        <romCRC extension=".iso">535FF8F3</romCRC>
+      </files>
+      <im1CRC>c7b7a507</im1CRC>
+      <im2CRC>2affc11a</im2CRC>
+      <comment>2008-7-3</comment>
+    </game>
+    <game>
+      <imageNumber>99</imageNumber>
+      <releaseNumber>99</releaseNumber>
+      <title>頭文字D Extream Stage</title>
+      <publisher>セガ</publisher>
+      <location>7</location>
+      <sourceRom />
+      <language>256</language>
+      <files>
+        <romCRC extension=".iso">B2487BDA</romCRC>
+      </files>
+      <im1CRC>53b782be</im1CRC>
+      <im2CRC>f2711d7e</im2CRC>
+      <comment>2008-7-3</comment>
+    </game>
+    <game>
+      <imageNumber>100</imageNumber>
+      <releaseNumber>100</releaseNumber>
+      <title>KANE＆LYNCH: DEAD MEN</title>
+      <publisher>Eidos</publisher>
+      <location>7</location>
+      <sourceRom />
+      <language>256</language>
+      <files>
+        <romCRC extension=".iso">3E8571DC</romCRC>
+      </files>
+      <im1CRC>d0f07d2f</im1CRC>
+      <im2CRC>f52aa969</im2CRC>
+      <comment>2008-7-10</comment>
+    </game>
+    <game>
+      <imageNumber>101</imageNumber>
+      <releaseNumber>101</releaseNumber>
+      <title>ダークセクター</title>
+      <publisher>D3 Publisher</publisher>
+      <location>7</location>
+      <sourceRom />
+      <language>256</language>
+      <files>
+        <romCRC extension=".iso">87F4656C</romCRC>
+      </files>
+      <im1CRC>f4b7321b</im1CRC>
+      <im2CRC>f0b0f09d</im2CRC>
+      <comment>2008-7-10</comment>
+    </game>
+    <game>
+      <imageNumber>102</imageNumber>
+      <releaseNumber>102</releaseNumber>
+      <title>METAL GEAR ONLINE</title>
+      <publisher>コナミデジタルエンタテインメント</publisher>
+      <location>7</location>
+      <sourceRom />
+      <language>256</language>
+      <files>
+        <romCRC extension=".iso">807E1958</romCRC>
+      </files>
+      <im1CRC>744346f2</im1CRC>
+      <im2CRC>abdc4221</im2CRC>
+      <comment>2008-7-17</comment>
+    </game>
+    <game>
+      <imageNumber>103</imageNumber>
+      <releaseNumber>103</releaseNumber>
+      <title>ティアーズ・トゥ・ティアラ 花冠の大地</title>
+      <publisher>アクアプラス</publisher>
+      <location>7</location>
+      <sourceRom />
+      <language>256</language>
+      <files>
+        <romCRC extension=".iso">C54F4B4C</romCRC>
+      </files>
+      <im1CRC>cbdc06d0</im1CRC>
+      <im2CRC>7d049df7</im2CRC>
+      <comment>2008-7-17</comment>
+    </game>
+    <game>
+      <imageNumber>104</imageNumber>
+      <releaseNumber>104</releaseNumber>
+      <title>SIREN: New Translation</title>
+      <publisher>ソニー</publisher>
+      <location>7</location>
+      <sourceRom />
+      <language>256</language>
+      <files>
+        <romCRC extension=".iso">B525BFC3</romCRC>
+      </files>
+      <im1CRC>e0c8a80a</im1CRC>
+      <im2CRC>00425674</im2CRC>
+      <comment>2008-7-24</comment>
+    </game>
+    <game>
+      <imageNumber>105</imageNumber>
+      <releaseNumber>105</releaseNumber>
+      <title>カンフー・パンダ</title>
+      <publisher>Activision</publisher>
+      <location>7</location>
+      <sourceRom />
+      <language>256</language>
+      <files>
+        <romCRC extension=".iso">259AA252</romCRC>
+      </files>
+      <im1CRC>4bc1a1b8</im1CRC>
+      <im2CRC>006384a9</im2CRC>
+      <comment>2008-1-27</comment>
+    </game>
+    <game>
+      <imageNumber>106</imageNumber>
+      <releaseNumber>106</releaseNumber>
+      <title>ソウルキャリバーIV</title>
+      <publisher>ナムコ</publisher>
+      <location>7</location>
+      <sourceRom />
+      <language>256</language>
+      <files>
+        <romCRC extension=".iso">529D92C4</romCRC>
+      </files>
+      <im1CRC>98dd43e0</im1CRC>
+      <im2CRC>c61e678b</im2CRC>
+      <comment>2008-7-31</comment>
+    </game>
+    <game>
+      <imageNumber>107</imageNumber>
+      <releaseNumber>107</releaseNumber>
+      <title>北京オリンピック 2008</title>
+      <publisher>セガ</publisher>
+      <location>7</location>
+      <sourceRom />
+      <language>256</language>
+      <files>
+        <romCRC extension=".iso">AB534A9B</romCRC>
+      </files>
+      <im1CRC>811ec51e</im1CRC>
+      <im2CRC>cb3cc6d8</im2CRC>
+      <comment>2008-7-31</comment>
+    </game>
+    <game>
+      <imageNumber>108</imageNumber>
+      <releaseNumber>108</releaseNumber>
+      <title>NBA 2K8</title>
+      <publisher>2K Games</publisher>
+      <location>7</location>
+      <sourceRom />
+      <language>256</language>
+      <files>
+        <romCRC extension=".iso">2E6A5020</romCRC>
+      </files>
+      <im1CRC>324d773d</im1CRC>
+      <im2CRC>fd11ef8c</im2CRC>
+      <comment>2008-8-7</comment>
+    </game>
+    <game>
+      <imageNumber>109</imageNumber>
+      <releaseNumber>109</releaseNumber>
+      <title>ヴァンパイアレイン：アルタードスピーシーズ</title>
+      <publisher>AQ Interactive</publisher>
+      <location>7</location>
+      <sourceRom />
+      <language>256</language>
+      <files>
+        <romCRC extension=".iso">ADFCE4B5</romCRC>
+      </files>
+      <im1CRC>fd85c5ad</im1CRC>
+      <im2CRC>2d8b7782</im2CRC>
+      <comment>2008-8-21</comment>
+    </game>
+    <game>
+      <imageNumber>110</imageNumber>
+      <releaseNumber>110</releaseNumber>
+      <title>AFRIKA</title>
+      <publisher>ソニー</publisher>
+      <location>7</location>
+      <sourceRom />
+      <language>256</language>
+      <files>
+        <romCRC extension=".iso">C99021B1</romCRC>
+      </files>
+      <im1CRC>dd1e21d5</im1CRC>
+      <im2CRC>880705d7</im2CRC>
+      <comment>2008-8-28</comment>
+    </game>
+    <game>
+      <imageNumber>111</imageNumber>
+      <releaseNumber>111</releaseNumber>
+      <title>バトルフィールド:バッドカンパニー</title>
+      <publisher>エレクトロニック・アーツ</publisher>
+      <location>7</location>
+      <sourceRom />
+      <language>256</language>
+      <files>
+        <romCRC extension=".iso">455D2BB7</romCRC>
+      </files>
+      <im1CRC>9b2f4943</im1CRC>
+      <im2CRC>9493a405</im2CRC>
+      <comment>2008-8-28</comment>
+    </game>
+    <game>
+      <imageNumber>112</imageNumber>
+      <releaseNumber>112</releaseNumber>
+      <title>ストラングルホールド</title>
+      <publisher>Midway</publisher>
+      <location>7</location>
+      <sourceRom />
+      <language>256</language>
+      <files>
+        <romCRC extension=".iso">95BA42E4</romCRC>
+      </files>
+      <im1CRC>00943158</im1CRC>
+      <im2CRC>bb9b1bd5</im2CRC>
+      <comment>2008-9-11</comment>
+    </game>
+    <game>
+      <imageNumber>113</imageNumber>
+      <releaseNumber>113</releaseNumber>
+      <title>ダブルクラッチ</title>
+      <publisher>スパイク</publisher>
+      <location>7</location>
+      <sourceRom />
+      <language>256</language>
+      <files>
+        <romCRC extension=".iso">70782685</romCRC>
+      </files>
+      <im1CRC>62b54c8a</im1CRC>
+      <im2CRC>d4046fee</im2CRC>
+      <comment>2008-9-11</comment>
+    </game>
+    <game>
+      <imageNumber>114</imageNumber>
+      <releaseNumber>114</releaseNumber>
+      <title>アンリアル トーナメント3</title>
+      <publisher>Midway</publisher>
+      <location>7</location>
+      <sourceRom />
+      <language>256</language>
+      <files>
+        <romCRC extension=".iso">65C2D690</romCRC>
+      </files>
+      <im1CRC>d41204da</im1CRC>
+      <im2CRC>7c8dfed5</im2CRC>
+      <comment>2008-9-18</comment>
+    </game>
+    <game>
+      <imageNumber>115</imageNumber>
+      <releaseNumber>115</releaseNumber>
+      <title>ジーワンジョッキー4 2008</title>
+      <publisher>ソニー</publisher>
+      <location>7</location>
+      <sourceRom />
+      <language>256</language>
+      <files>
+        <romCRC extension=".iso">054703E3</romCRC>
+      </files>
+      <im1CRC>78641971</im1CRC>
+      <im2CRC>d24f5749</im2CRC>
+      <comment>2008-9-18</comment>
+    </game>
+    <game>
+      <imageNumber>116</imageNumber>
+      <releaseNumber>116</releaseNumber>
+      <title>トラスティベル～ショパンの夢～ ルプリーズ</title>
+      <publisher>ナムコ</publisher>
+      <location>7</location>
+      <sourceRom />
+      <language>256</language>
+      <files>
+        <romCRC extension=".iso">764E9B2F</romCRC>
+      </files>
+      <im1CRC>2d2dda3c</im1CRC>
+      <im2CRC>bc6b053a</im2CRC>
+      <comment>2008-9-18</comment>
+    </game>
+    <game>
+      <imageNumber>117</imageNumber>
+      <releaseNumber>117</releaseNumber>
+      <title>AQUANAUT'S HOLIDAY 隠された記録</title>
+      <publisher>ソニー</publisher>
+      <location>7</location>
+      <sourceRom />
+      <language>256</language>
+      <files>
+        <romCRC extension=".iso">5AE9B4D8</romCRC>
+      </files>
+      <im1CRC>1a470f8f</im1CRC>
+      <im2CRC>534745c5</im2CRC>
+      <comment>2008-9-25</comment>
+    </game>
+    <game>
+      <imageNumber>118</imageNumber>
+      <releaseNumber>118</releaseNumber>
+      <title>クロスエッジ</title>
+      <publisher>ガストxカプコンx日本一ソフトウェアxバンダイナムコゲームスxアイディアファクトリー</publisher>
+      <location>7</location>
+      <sourceRom />
+      <language>256</language>
+      <files>
+        <romCRC extension=".iso">1F3F5EE1</romCRC>
+      </files>
+      <im1CRC>0e4f5ef3</im1CRC>
+      <im2CRC>aa1dc6f3</im2CRC>
+      <comment>2008-9-25</comment>
+    </game>
+    <game>
+      <imageNumber>119</imageNumber>
+      <releaseNumber>119</releaseNumber>
+      <title>タイガー・ウッズ PGA TOUR 09</title>
+      <publisher>エレクトロニック・アーツ</publisher>
+      <location>7</location>
+      <sourceRom />
+      <language>256</language>
+      <files>
+        <romCRC extension=".iso">E9E864BB</romCRC>
+      </files>
+      <im1CRC>5e895fff</im1CRC>
+      <im2CRC>a2ce27f7</im2CRC>
+      <comment>2008-9-25</comment>
+    </game>
+    <game>
+      <imageNumber>120</imageNumber>
+      <releaseNumber>120</releaseNumber>
+      <title>マッデン NFL 09</title>
+      <publisher>エレクトロニック・アーツ</publisher>
+      <location>7</location>
+      <sourceRom />
+      <language>256</language>
+      <files>
+        <romCRC extension=".iso">E90FDC96</romCRC>
+      </files>
+      <im1CRC>7da18475</im1CRC>
+      <im2CRC>370e4204</im2CRC>
+      <comment>2008-9-25</comment>
+    </game>
+    <game>
+      <imageNumber>121</imageNumber>
+      <releaseNumber>121</releaseNumber>
+      <title>ギターヒーロー エアロスミス</title>
+      <publisher>Activision</publisher>
+      <location>7</location>
+      <sourceRom />
+      <language>256</language>
+      <files>
+        <romCRC extension=".iso">20F38484</romCRC>
+      </files>
+      <im1CRC>4bf31744</im1CRC>
+      <im2CRC>e187c5dc</im2CRC>
+      <comment>2008-10-9</comment>
+    </game>
+    <game>
+      <imageNumber>122</imageNumber>
+      <releaseNumber>122</releaseNumber>
+      <title>ギターヒーロー3 レジェンドオブロック (ソフト単体版)</title>
+      <publisher>Activision</publisher>
+      <location>7</location>
+      <sourceRom />
+      <language>256</language>
+      <files>
+        <romCRC extension=".iso">00000122</romCRC>
+      </files>
+      <im1CRC>e0e837c4</im1CRC>
+      <im2CRC>936a374a</im2CRC>
+      <comment>2008-10-9</comment>
+    </game>
+    <game>
+      <imageNumber>123</imageNumber>
+      <releaseNumber>123</releaseNumber>
+      <title>フェイスブレイカー</title>
+      <publisher>エレクトロニック・アーツ</publisher>
+      <location>7</location>
+      <sourceRom />
+      <language>256</language>
+      <files>
+        <romCRC extension=".iso">F1D687E0</romCRC>
+      </files>
+      <im1CRC>664ba5c5</im1CRC>
+      <im2CRC>5a9eb2d3</im2CRC>
+      <comment>2008-10-16</comment>
+    </game>
+    <game>
+      <imageNumber>124</imageNumber>
+      <releaseNumber>124</releaseNumber>
+      <title>NBAライブ09</title>
+      <publisher>エレクトロニック・アーツ</publisher>
+      <location>7</location>
+      <sourceRom />
+      <language>256</language>
+      <files>
+        <romCRC extension=".iso">71C4E71B</romCRC>
+      </files>
+      <im1CRC>fb56460a</im1CRC>
+      <im2CRC>9442e594</im2CRC>
+      <comment>2008-10-23</comment>
+    </game>
+    <game>
+      <imageNumber>125</imageNumber>
+      <releaseNumber>125</releaseNumber>
+      <title>SOCOM: CONFRONTATION</title>
+      <publisher>ソニー</publisher>
+      <location>7</location>
+      <sourceRom />
+      <language>256</language>
+      <files>
+        <romCRC extension=".iso">7872AB30</romCRC>
+      </files>
+      <im1CRC>93eb8972</im1CRC>
+      <im2CRC>f9d12cb6</im2CRC>
+      <comment>2008-10-30</comment>
+    </game>
+    <game>
+      <imageNumber>126</imageNumber>
+      <releaseNumber>126</releaseNumber>
+      <title>グランツーリスモ 5 プロローグ Spec Ⅲ</title>
+      <publisher>ソニー</publisher>
+      <location>7</location>
+      <sourceRom />
+      <language>256</language>
+      <files>
+        <romCRC extension=".iso">0F759BA6</romCRC>
+      </files>
+      <im1CRC>3b248550</im1CRC>
+      <im2CRC>46fd502a</im2CRC>
+      <comment>2008-10-30</comment>
+    </game>
+    <game>
+      <imageNumber>127</imageNumber>
+      <releaseNumber>127</releaseNumber>
+      <title>グランド・セフト・オート IV</title>
+      <publisher>Rockstar</publisher>
+      <location>7</location>
+      <sourceRom />
+      <language>256</language>
+      <files>
+        <romCRC extension=".iso">8A0EDD8B</romCRC>
+      </files>
+      <im1CRC>6f9a5f42</im1CRC>
+      <im2CRC>a033821f</im2CRC>
+      <comment>2008-10-30</comment>
+    </game>
+    <game>
+      <imageNumber>128</imageNumber>
+      <releaseNumber>128</releaseNumber>
+      <title>フラクチャー</title>
+      <publisher>LucasArts</publisher>
+      <location>7</location>
+      <sourceRom />
+      <language>256</language>
+      <files>
+        <romCRC extension=".iso">815BCB42</romCRC>
+      </files>
+      <im1CRC>89a198f0</im1CRC>
+      <im2CRC>c6e70bc6</im2CRC>
+      <comment>2008-10-30</comment>
+    </game>
+    <game>
+      <imageNumber>129</imageNumber>
+      <releaseNumber>129</releaseNumber>
+      <title>リトルビッグプラネット</title>
+      <publisher>ソニー</publisher>
+      <location>7</location>
+      <sourceRom />
+      <language>256</language>
+      <files>
+        <romCRC extension=".iso">01AE1394</romCRC>
+      </files>
+      <im1CRC>8947d9d2</im1CRC>
+      <im2CRC>cca8c91f</im2CRC>
+      <comment>2008-10-30</comment>
+    </game>
+    <game>
+      <imageNumber>130</imageNumber>
+      <releaseNumber>130</releaseNumber>
+      <title>山佐DigiワールドSP バウンティキラー</title>
+      <publisher>山佐</publisher>
+      <location>7</location>
+      <sourceRom />
+      <language>256</language>
+      <files>
+        <romCRC extension=".iso">EB5962CF</romCRC>
+      </files>
+      <im1CRC>5155e7e8</im1CRC>
+      <im2CRC>bc9191f3</im2CRC>
+      <comment>2008-10-30</comment>
+    </game>
+    <game>
+      <imageNumber>131</imageNumber>
+      <releaseNumber>131</releaseNumber>
+      <title>FIFA09 ワールドクラスサッカー</title>
+      <publisher>エレクトロニック・アーツ</publisher>
+      <location>7</location>
+      <sourceRom />
+      <language>256</language>
+      <files>
+        <romCRC extension=".iso">15A8221F</romCRC>
+      </files>
+      <im1CRC>49db1c1d</im1CRC>
+      <im2CRC>b88f296c</im2CRC>
+      <comment>2008-11-13</comment>
+    </game>
+    <game>
+      <imageNumber>132</imageNumber>
+      <releaseNumber>132</releaseNumber>
+      <title>RESISTANCE 2</title>
+      <publisher>ソニー</publisher>
+      <location>7</location>
+      <sourceRom />
+      <language>256</language>
+      <files>
+        <romCRC extension=".iso">61699A71</romCRC>
+      </files>
+      <im1CRC>99434bcc</im1CRC>
+      <im2CRC>0f5f31b9</im2CRC>
+      <comment>2008-1-27</comment>
+    </game>
+    <game>
+      <imageNumber>133</imageNumber>
+      <releaseNumber>133</releaseNumber>
+      <title>ダービータイム オンライン</title>
+      <publisher>ソニー</publisher>
+      <location>7</location>
+      <sourceRom />
+      <language>256</language>
+      <files>
+        <romCRC extension=".iso">F77929CE</romCRC>
+      </files>
+      <im1CRC>0486a1e5</im1CRC>
+      <im2CRC>c3d5cbf3</im2CRC>
+      <comment>2008-11-13</comment>
+    </game>
+    <game>
+      <imageNumber>134</imageNumber>
+      <releaseNumber>134</releaseNumber>
+      <title>メジャーリーグベースボール2K8</title>
+      <publisher>サイバーフロント</publisher>
+      <location>7</location>
+      <sourceRom />
+      <language>256</language>
+      <files>
+        <romCRC extension=".iso">91F6B628</romCRC>
+      </files>
+      <im1CRC>9fe5f27b</im1CRC>
+      <im2CRC>36af1cce</im2CRC>
+      <comment>2008-11-13</comment>
+    </game>
+    <game>
+      <imageNumber>135</imageNumber>
+      <releaseNumber>135</releaseNumber>
+      <title>侍道3</title>
+      <publisher>スパイク</publisher>
+      <location>7</location>
+      <sourceRom />
+      <language>256</language>
+      <files>
+        <romCRC extension=".iso">91F6B627</romCRC>
+      </files>
+      <im1CRC>851fe931</im1CRC>
+      <im2CRC>40a2993a</im2CRC>
+      <comment>2008-11-13</comment>
+    </game>
+    <game>
+      <imageNumber>136</imageNumber>
+      <releaseNumber>136</releaseNumber>
+      <title>MotorStorm 2</title>
+      <publisher>ソニー</publisher>
+      <location>7</location>
+      <sourceRom />
+      <language>256</language>
+      <files>
+        <romCRC extension=".iso">91F6B626</romCRC>
+      </files>
+      <im1CRC>660bdb4d</im1CRC>
+      <im2CRC>b01722b5</im2CRC>
+      <comment>2008-11-20</comment>
+    </game>
+    <game>
+      <imageNumber>137</imageNumber>
+      <releaseNumber>137</releaseNumber>
+      <title>マーセナリーズ2 ワールドイン フレームス</title>
+      <publisher>エレクトロニック・アーツ</publisher>
+      <location>7</location>
+      <sourceRom />
+      <language>256</language>
+      <files>
+        <romCRC extension=".iso">07E60597</romCRC>
+      </files>
+      <im1CRC>a41110b5</im1CRC>
+      <im2CRC>8e72a293</im2CRC>
+      <comment>2008-11-20</comment>
+    </game>
+    <game>
+      <imageNumber>138</imageNumber>
+      <releaseNumber>138</releaseNumber>
+      <title>WORLD SOCCER Winning Eleven 2009</title>
+      <publisher>コナミデジタルエンタテインメント</publisher>
+      <location>7</location>
+      <sourceRom />
+      <language>256</language>
+      <files>
+        <romCRC extension=".iso">07E60596</romCRC>
+      </files>
+      <im1CRC>460db0a1</im1CRC>
+      <im2CRC>239325c7</im2CRC>
+      <comment>2008-11-27</comment>
+    </game>
+    <game>
+      <imageNumber>139</imageNumber>
+      <releaseNumber>139</releaseNumber>
+      <title>ブラザー イン アームズ ヘルズハイウェイ</title>
+      <publisher>ユービーアイ ソフト</publisher>
+      <location>7</location>
+      <sourceRom />
+      <language>256</language>
+      <files>
+        <romCRC extension=".iso">D7E6D4E9</romCRC>
+      </files>
+      <im1CRC>945712e2</im1CRC>
+      <im2CRC>4e73fd07</im2CRC>
+      <comment>2008-11-27</comment>
+    </game>
+    <game>
+      <imageNumber>140</imageNumber>
+      <releaseNumber>140</releaseNumber>
+      <title>セインツ・ロウ 2</title>
+      <publisher>THQジャパン</publisher>
+      <location>7</location>
+      <sourceRom />
+      <language>256</language>
+      <files>
+        <romCRC extension=".iso">33987116</romCRC>
+      </files>
+      <im1CRC>b755dad1</im1CRC>
+      <im2CRC>2b46a9c6</im2CRC>
+      <comment>2008-12-4</comment>
+    </game>
+    <game>
+      <imageNumber>141</imageNumber>
+      <releaseNumber>141</releaseNumber>
+      <title>プロ野球スピリッツ5 完全版</title>
+      <publisher>コナミデジタルエンタテインメント</publisher>
+      <location>7</location>
+      <sourceRom />
+      <language>256</language>
+      <files>
+        <romCRC extension=".iso">33987115</romCRC>
+      </files>
+      <im1CRC>23112ae1</im1CRC>
+      <im2CRC>8562bfbc</im2CRC>
+      <comment>2008-12-4</comment>
+    </game>
+    <game>
+      <imageNumber>142</imageNumber>
+      <releaseNumber>142</releaseNumber>
+      <title>ウォーリー</title>
+      <publisher>THQジャパン</publisher>
+      <location>7</location>
+      <sourceRom />
+      <language>256</language>
+      <files>
+        <romCRC extension=".iso">33987114</romCRC>
+      </files>
+      <im1CRC>b50827de</im1CRC>
+      <im2CRC>32ef0131</im2CRC>
+      <comment>2008-12-11</comment>
+    </game>
+    <game>
+      <imageNumber>143</imageNumber>
+      <releaseNumber>143</releaseNumber>
+      <title>ミラーズエッジ</title>
+      <publisher>エレクトロニック・アーツ</publisher>
+      <location>7</location>
+      <sourceRom />
+      <language>256</language>
+      <files>
+        <romCRC extension=".iso">E82A0E8C</romCRC>
+      </files>
+      <im1CRC>f349936f</im1CRC>
+      <im2CRC>1af4b6c2</im2CRC>
+      <comment>2008-12-11</comment>
+    </game>
+    <game>
+      <imageNumber>144</imageNumber>
+      <releaseNumber>144</releaseNumber>
+      <title>ガンダム無双2</title>
+      <publisher>バンダイナムコゲームス</publisher>
+      <location>7</location>
+      <sourceRom />
+      <language>256</language>
+      <files>
+        <romCRC extension=".iso">E82A0E7C</romCRC>
+      </files>
+      <im1CRC>0bf6a965</im1CRC>
+      <im2CRC>566552b3</im2CRC>
+      <comment>2008-12-18</comment>
+    </game>
+    <game>
+      <imageNumber>145</imageNumber>
+      <releaseNumber>145</releaseNumber>
+      <title>ニード・フォー・スピード アンダーカバー</title>
+      <publisher>エレクトロニック・アーツ</publisher>
+      <location>7</location>
+      <sourceRom />
+      <language>256</language>
+      <files>
+        <romCRC extension=".iso">E6F186BE</romCRC>
+      </files>
+      <im1CRC>ed7e921b</im1CRC>
+      <im2CRC>1cca8034</im2CRC>
+      <comment>2008-12-18</comment>
+    </game>
+    <game>
+      <imageNumber>146</imageNumber>
+      <releaseNumber>146</releaseNumber>
+      <title>レゴ バットマン</title>
+      <publisher>Warner Bros.</publisher>
+      <location>7</location>
+      <sourceRom />
+      <language>256</language>
+      <files>
+        <romCRC extension=".iso">05055F75</romCRC>
+      </files>
+      <im1CRC>811017d9</im1CRC>
+      <im2CRC>c50c363d</im2CRC>
+      <comment>2008-12-18</comment>
+    </game>
+    <game>
+      <imageNumber>147</imageNumber>
+      <releaseNumber>147</releaseNumber>
+      <title>BIOSHOCK</title>
+      <publisher>2K Games</publisher>
+      <location>7</location>
+      <sourceRom />
+      <language>256</language>
+      <files>
+        <romCRC extension=".iso">449F4180</romCRC>
+      </files>
+      <im1CRC>5fa31c89</im1CRC>
+      <im2CRC>0372aad7</im2CRC>
+      <comment>2008-12-25</comment>
+    </game>
+    <game>
+      <imageNumber>148</imageNumber>
+      <releaseNumber>148</releaseNumber>
+      <title>アローン・イン・ザ・ダーク</title>
+      <publisher>アタリ</publisher>
+      <location>7</location>
+      <sourceRom />
+      <language>256</language>
+      <files>
+        <romCRC extension=".iso">0149ABB9</romCRC>
+      </files>
+      <im1CRC>56c4fa2e</im1CRC>
+      <im2CRC>b7745ee0</im2CRC>
+      <comment>2008-12-25</comment>
+    </game>
+    <game>
+      <imageNumber>149</imageNumber>
+      <releaseNumber>149</releaseNumber>
+      <title>シヴィライゼーション レボリューション</title>
+      <publisher>2K Games</publisher>
+      <location>7</location>
+      <sourceRom />
+      <language>256</language>
+      <files>
+        <romCRC extension=".iso">0D717969</romCRC>
+      </files>
+      <im1CRC>0a21f59d</im1CRC>
+      <im2CRC>f44c1bf0</im2CRC>
+      <comment>2008-12-25</comment>
+    </game>
+    <game>
+      <imageNumber>150</imageNumber>
+      <releaseNumber>150</releaseNumber>
+      <title>ファー クライ2</title>
+      <publisher>ユービーアイ ソフト</publisher>
+      <location>7</location>
+      <sourceRom />
+      <language>256</language>
+      <files>
+        <romCRC extension=".iso">DAFBD423</romCRC>
+      </files>
+      <im1CRC>fd673da3</im1CRC>
+      <im2CRC>65fe9c87</im2CRC>
+      <comment>2008-12-25</comment>
+    </game>
+    <game>
+      <imageNumber>151</imageNumber>
+      <releaseNumber>151</releaseNumber>
+      <title>白騎士物語-古の鼓動-</title>
+      <publisher>ソニー</publisher>
+      <location>7</location>
+      <sourceRom />
+      <language>256</language>
+      <files>
+        <romCRC extension=".iso">00000151</romCRC>
+      </files>
+      <im1CRC>c138bbcf</im1CRC>
+      <im2CRC>f5044d92</im2CRC>
+      <comment>2008-12-25</comment>
+    </game>
+    <game>
+      <imageNumber>152</imageNumber>
+      <releaseNumber>152</releaseNumber>
+      <title>Fallout 3</title>
+      <publisher>ベセスダ・ソフトワークス</publisher>
+      <location>7</location>
+      <sourceRom />
+      <language>256</language>
+      <files>
+        <romCRC extension=".iso">00000152</romCRC>
+      </files>
+      <im1CRC>f260b3cc</im1CRC>
+      <im2CRC>d6d3eabb</im2CRC>
+      <comment>2009-1-15</comment>
+    </game>
+    <game>
+      <imageNumber>153</imageNumber>
+      <releaseNumber>153</releaseNumber>
+      <title>NARUTO-ナルト- ナルティメットストーム</title>
+      <publisher>バンダイナムコゲームス</publisher>
+      <location>7</location>
+      <sourceRom />
+      <language>256</language>
+      <files>
+        <romCRC extension=".iso">00000153</romCRC>
+      </files>
+      <im1CRC>949c239c</im1CRC>
+      <im2CRC>7d994c3e</im2CRC>
+      <comment>2009-1-15</comment>
+    </game>
+    <game>
+      <imageNumber>154</imageNumber>
+      <releaseNumber>154</releaseNumber>
+      <title>RACE DRIVER GRID</title>
+      <publisher>コードマスターズ</publisher>
+      <location>7</location>
+      <sourceRom />
+      <language>256</language>
+      <files>
+        <romCRC extension=".iso">00000154</romCRC>
+      </files>
+      <im1CRC>c57601a1</im1CRC>
+      <im2CRC>c8083317</im2CRC>
+      <comment>2009-1-15</comment>
+    </game>
+    <game>
+      <imageNumber>155</imageNumber>
+      <releaseNumber>155</releaseNumber>
+      <title>プリンス・オブ・ペルシャ</title>
+      <publisher>ユービーアイ ソフト</publisher>
+      <location>7</location>
+      <sourceRom />
+      <language>256</language>
+      <files>
+        <romCRC extension=".iso">00000155</romCRC>
+      </files>
+      <im1CRC>B2C18592</im1CRC>
+      <im2CRC>CE171319</im2CRC>
+      <comment>2009-1-22</comment>
+    </game>
+    <game>
+      <imageNumber>156</imageNumber>
+      <releaseNumber>156</releaseNumber>
+      <title>WWE2009 SmackDown vs Raw</title>
+      <publisher>THQジャパン</publisher>
+      <location>7</location>
+      <sourceRom />
+      <language>256</language>
+      <files>
+        <romCRC extension=".iso">00000156</romCRC>
+      </files>
+      <im1CRC>1658BD3A</im1CRC>
+      <im2CRC>5AD96E0B</im2CRC>
+      <comment>2009-1-22</comment>
+    </game>
+    <game>
+      <imageNumber>157</imageNumber>
+      <releaseNumber>157</releaseNumber>
+      <title>TOMB RAIDER: UNDERWORLD</title>
+      <publisher>スパイク</publisher>
+      <location>7</location>
+      <sourceRom />
+      <language>256</language>
+      <files>
+        <romCRC extension=".iso">00000157</romCRC>
+      </files>
+      <im1CRC>CC9869ED</im1CRC>
+      <im2CRC>A983B2E5</im2CRC>
+      <comment>2009-1-29</comment>
+    </game>
+    <game>
+      <imageNumber>158</imageNumber>
+      <releaseNumber>158</releaseNumber>
+      <title>ショーン・ホワイト スノーボード</title>
+      <publisher>ユービーアイ ソフト</publisher>
+      <location>7</location>
+      <sourceRom />
+      <language>256</language>
+      <files>
+        <romCRC extension=".iso">00000158</romCRC>
+      </files>
+      <im1CRC>cc642613</im1CRC>
+      <im2CRC>36ef15e7</im2CRC>
+      <comment>2009-2-5</comment>
+    </game>
+    <game>
+      <imageNumber>159</imageNumber>
+      <releaseNumber>159</releaseNumber>
+      <title>Midnight Club: Los Angeles</title>
+      <publisher>スパイク</publisher>
+      <location>7</location>
+      <sourceRom />
+      <language>256</language>
+      <files>
+        <romCRC extension=".iso">00000159</romCRC>
+      </files>
+      <im1CRC>f87fd5fa</im1CRC>
+      <im2CRC>83793225</im2CRC>
+      <comment>2009-2-5</comment>
+    </game>
+    <game>
+      <imageNumber>160</imageNumber>
+      <releaseNumber>160</releaseNumber>
+      <title>Demon's Souls</title>
+      <publisher>ソニー</publisher>
+      <location>7</location>
+      <sourceRom />
+      <language>256</language>
+      <files>
+        <romCRC extension=".iso">00000160</romCRC>
+      </files>
+      <im1CRC>8d5a5241</im1CRC>
+      <im2CRC>9137c09d</im2CRC>
+      <comment>2009-2-5</comment>
+    </game>
+    <game>
+      <imageNumber>161</imageNumber>
+      <releaseNumber>161</releaseNumber>
+      <title>スケート 2</title>
+      <publisher>エレクトロニック・アーツ</publisher>
+      <location>7</location>
+      <sourceRom />
+      <language>256</language>
+      <files>
+        <romCRC extension=".iso">00000161</romCRC>
+      </files>
+      <im1CRC>ec6f35c6</im1CRC>
+      <im2CRC>9ca86885</im2CRC>
+      <comment>2009-2-12</comment>
+    </game>
+    <game>
+      <imageNumber>162</imageNumber>
+      <releaseNumber>162</releaseNumber>
+      <title>STREET FIGHTER IV</title>
+      <publisher>カプコン</publisher>
+      <location>7</location>
+      <sourceRom />
+      <language>256</language>
+      <files>
+        <romCRC extension=".iso">00000162</romCRC>
+      </files>
+      <im1CRC>efc9c91f</im1CRC>
+      <im2CRC>c5908410</im2CRC>
+      <comment>2009-2-12</comment>
+    </game>
+    <game>
+      <imageNumber>163</imageNumber>
+      <releaseNumber>163</releaseNumber>
+      <title>ソニック ワールドアドベンチャー</title>
+      <publisher>セガ</publisher>
+      <location>7</location>
+      <sourceRom />
+      <language>256</language>
+      <files>
+        <romCRC extension=".iso">00000163</romCRC>
+      </files>
+      <im1CRC>d4dd4e10</im1CRC>
+      <im2CRC>c195f358</im2CRC>
+      <comment>2009-2-19</comment>
+    </game>
+    <game>
+      <imageNumber>164</imageNumber>
+      <releaseNumber>164</releaseNumber>
+      <title>龍が如く3</title>
+      <publisher>セガ</publisher>
+      <location>7</location>
+      <sourceRom />
+      <language>256</language>
+      <files>
+        <romCRC extension=".iso">00000164</romCRC>
+      </files>
+      <im1CRC>7199b4da</im1CRC>
+      <im2CRC>A983B2E5</im2CRC>
+      <comment>2009-2-26</comment>
+    </game>
+    <game>
+      <imageNumber>165</imageNumber>
+      <releaseNumber>165</releaseNumber>
+      <title>エンド ウォー</title>
+      <publisher>ユービーアイ ソフト</publisher>
+      <location>7</location>
+      <sourceRom />
+      <language>256</language>
+      <files>
+        <romCRC extension=".iso">00000165</romCRC>
+      </files>
+      <im1CRC>fa6e19e1</im1CRC>
+      <im2CRC>40f29dd3</im2CRC>
+      <comment>2009-2-26</comment>
+    </game>
+    <game>
+      <imageNumber>166</imageNumber>
+      <releaseNumber>166</releaseNumber>
+      <title>バイオハザード5</title>
+      <publisher>カプコン</publisher>
+      <location>7</location>
+      <sourceRom />
+      <language>256</language>
+      <files>
+        <romCRC extension=".iso">00000166</romCRC>
+      </files>
+      <im1CRC>4602483a</im1CRC>
+      <im2CRC>d0b9d8ae</im2CRC>
+      <comment>2009-3-5</comment>
+    </game>
+    <game>
+      <imageNumber>167</imageNumber>
+      <releaseNumber>167</releaseNumber>
+      <title>無双OROCHI Z</title>
+      <publisher>コーエー</publisher>
+      <location>7</location>
+      <sourceRom />
+      <language>256</language>
+      <files>
+        <romCRC extension=".iso">00000167</romCRC>
+      </files>
+      <im1CRC>655153f9</im1CRC>
+      <im2CRC>23079fb3</im2CRC>
+      <comment>2009-3-12</comment>
+    </game>
+    <game>
+      <imageNumber>168</imageNumber>
+      <releaseNumber>168</releaseNumber>
+      <title>NBA 2K9</title>
+      <publisher>スパイク</publisher>
+      <location>7</location>
+      <sourceRom />
+      <language>256</language>
+      <files>
+        <romCRC extension=".iso">00000168</romCRC>
+      </files>
+      <im1CRC>8fce0abe</im1CRC>
+      <im2CRC>0abcc9da</im2CRC>
+      <comment>2009-3-26</comment>
+    </game>
+    <game>
+      <imageNumber>169</imageNumber>
+      <releaseNumber>169</releaseNumber>
+      <title>007 / 慰めの報酬</title>
+      <publisher>スクウェア・エニックス</publisher>
+      <location>7</location>
+      <sourceRom />
+      <language>256</language>
+      <files>
+        <romCRC extension=".iso">00000169</romCRC>
+      </files>
+      <im1CRC>76a49ab2</im1CRC>
+      <im2CRC>619c6cac</im2CRC>
+      <comment>2009-3-26</comment>
+    </game>
+    <game>
+      <imageNumber>170</imageNumber>
+      <releaseNumber>170</releaseNumber>
+      <title>ウイニングポストワールド</title>
+      <publisher>コーエー</publisher>
+      <location>7</location>
+      <sourceRom />
+      <language>256</language>
+      <files>
+        <romCRC extension=".iso">00000170</romCRC>
+      </files>
+      <im1CRC>04a4a9a0</im1CRC>
+      <im2CRC>b4d8aa4f</im2CRC>
+      <comment>2009-4-2</comment>
+    </game>
+    <game>
+      <imageNumber>171</imageNumber>
+      <releaseNumber>171</releaseNumber>
+      <title>ゴッドファーザー2</title>
+      <publisher>エレクトロニック・アーツ</publisher>
+      <location>7</location>
+      <sourceRom />
+      <language>256</language>
+      <files>
+        <romCRC extension=".iso">00000171</romCRC>
+      </files>
+      <im1CRC>3888830e</im1CRC>
+      <im2CRC>d9ce54ff</im2CRC>
+      <comment>2009-4-16</comment>
+    </game>
+    <game>
+      <imageNumber>172</imageNumber>
+      <releaseNumber>172</releaseNumber>
+      <title>KILLZONE 2</title>
+      <publisher>ソニー</publisher>
+      <location>7</location>
+      <sourceRom />
+      <language>256</language>
+      <files>
+        <romCRC extension=".iso">00000172</romCRC>
+      </files>
+      <im1CRC>b5adf852</im1CRC>
+      <im2CRC>8c76a977</im2CRC>
+      <comment>2009-4-23</comment>
+    </game>
+    <game>
+      <imageNumber>173</imageNumber>
+      <releaseNumber>173</releaseNumber>
+      <title>大航海時代Online ～Cruz del Sur～</title>
+      <publisher>コーエー</publisher>
+      <location>7</location>
+      <sourceRom />
+      <language>256</language>
+      <files>
+        <romCRC extension=".iso">00000173</romCRC>
+      </files>
+      <im1CRC>a94d0047</im1CRC>
+      <im2CRC>e9a7c749</im2CRC>
+      <comment>2009-4-28</comment>
+    </game>
+    <game>
+      <imageNumber>174</imageNumber>
+      <releaseNumber>174</releaseNumber>
+      <title>NHL 2K9(英語版)</title>
+      <publisher>スパイク</publisher>
+      <location>7</location>
+      <sourceRom />
+      <language>256</language>
+      <files>
+        <romCRC extension=".iso">00000174</romCRC>
+      </files>
+      <im1CRC>442488c2</im1CRC>
+      <im2CRC>4445b8ce</im2CRC>
+      <comment>2009-4-29</comment>
+    </game>
+    <game>
+      <imageNumber>175</imageNumber>
+      <releaseNumber>175</releaseNumber>
+      <title>Xブレード</title>
+      <publisher>ユービーアイ ソフト</publisher>
+      <location>7</location>
+      <sourceRom />
+      <language>256</language>
+      <files>
+        <romCRC extension=".iso">00000175</romCRC>
+      </files>
+      <im1CRC>989298f0</im1CRC>
+      <im2CRC>791d5c9c</im2CRC>
+      <comment>2009-4-30</comment>
+    </game>
+    <game>
+      <imageNumber>176</imageNumber>
+      <releaseNumber>176</releaseNumber>
+      <title>真・三國無双5 Empires</title>
+      <publisher>コーエー</publisher>
+      <location>7</location>
+      <sourceRom />
+      <language>256</language>
+      <files>
+        <romCRC extension=".iso">00000176</romCRC>
+      </files>
+      <im1CRC>7ec75e15</im1CRC>
+      <im2CRC>f76fb19c</im2CRC>
+      <comment>2009-5-28</comment>
+    </game>
+    <game>
+      <imageNumber>177</imageNumber>
+      <releaseNumber>177</releaseNumber>
+      <title>The Last Guy</title>
+      <publisher>ソニー</publisher>
+      <location>7</location>
+      <sourceRom />
+      <language>256</language>
+      <files>
+        <romCRC extension=".iso">00000177</romCRC>
+      </files>
+      <im1CRC>2bbf6013</im1CRC>
+      <im2CRC>d6c29f3e</im2CRC>
+      <comment>2009-5-28</comment>
+    </game>
+    <game>
+      <imageNumber>178</imageNumber>
+      <releaseNumber>178</releaseNumber>
+      <title>H.A.W.X</title>
+      <publisher>ユービーアイ ソフト</publisher>
+      <location>7</location>
+      <sourceRom />
+      <language>256</language>
+      <files>
+        <romCRC extension=".iso">00000178</romCRC>
+      </files>
+      <im1CRC>4c2bfbdb</im1CRC>
+      <im2CRC>c1bbd3d3</im2CRC>
+      <comment>2009-5-28</comment>
+    </game>
+    <game>
+      <imageNumber>179</imageNumber>
+      <releaseNumber>179</releaseNumber>
+      <title>ロロナのアトリエ～アーランドの錬金術士～</title>
+      <publisher>ガスト</publisher>
+      <location>7</location>
+      <sourceRom />
+      <language>256</language>
+      <files>
+        <romCRC extension=".iso">00000179</romCRC>
+      </files>
+      <im1CRC>8282CF6D</im1CRC>
+      <im2CRC>5E367301</im2CRC>
+      <comment>2009-6-25</comment>
+    </game>
+    <game>
+      <imageNumber>180</imageNumber>
+      <releaseNumber>180</releaseNumber>
+      <title>エクストリーム・レーシング -PURE-</title>
+      <publisher>ウォルト・ディズニー・ジャパン</publisher>
+      <location>7</location>
+      <sourceRom />
+      <language>256</language>
+      <files>
+        <romCRC extension=".iso">00000180</romCRC>
+      </files>
+      <im1CRC>69751204</im1CRC>
+      <im2CRC>35E11A8D</im2CRC>
+      <comment>2009-6-25</comment>
+    </game>
+    <game>
+      <imageNumber>181</imageNumber>
+      <releaseNumber>181</releaseNumber>
+      <title>アガレスト戦記ZERO</title>
+      <publisher>コンパイルハート</publisher>
+      <location>7</location>
+      <sourceRom />
+      <language>256</language>
+      <files>
+        <romCRC extension=".iso">00000181</romCRC>
+      </files>
+      <im1CRC>ABE0723A</im1CRC>
+      <im2CRC>86B0B3D7</im2CRC>
+      <comment>2009-6-25</comment>
+    </game>
+    <game>
+      <imageNumber>182</imageNumber>
+      <releaseNumber>182</releaseNumber>
+      <title>WANTED: WEAPONS OF FATE</title>
+      <publisher>エレクトロニック・アーツ</publisher>
+      <location>7</location>
+      <sourceRom />
+      <language>256</language>
+      <files>
+        <romCRC extension=".iso">00000182</romCRC>
+      </files>
+      <im1CRC>8025261E</im1CRC>
+      <im2CRC>1A80E183</im2CRC>
+      <comment>2009-6-25</comment>
+    </game>
+    <game>
+      <imageNumber>183</imageNumber>
+      <releaseNumber>183</releaseNumber>
+      <title>BLAZBLUE</title>
+      <publisher>アークシステムワークス</publisher>
+      <location>7</location>
+      <sourceRom />
+      <language>256</language>
+      <files>
+        <romCRC extension=".iso">00000183</romCRC>
+      </files>
+      <im1CRC>BEB1FA36</im1CRC>
+      <im2CRC>228EF026</im2CRC>
+      <comment>2009-6-25</comment>
+    </game>
+    <game>
+      <imageNumber>184</imageNumber>
+      <releaseNumber>184</releaseNumber>
+      <title>BIONIC COMMANDO</title>
+      <publisher>カプコン</publisher>
+      <location>7</location>
+      <sourceRom />
+      <language>256</language>
+      <files>
+        <romCRC extension=".iso">00000184</romCRC>
+      </files>
+      <im1CRC>5A78F061</im1CRC>
+      <im2CRC>530ED676</im2CRC>
+      <comment>2009-6-25</comment>
+    </game>
+	<game>
+      <imageNumber>185</imageNumber>
+      <releaseNumber>185</releaseNumber>
+      <title>WWE Legends of WrestleMania</title>
+      <publisher>THQジャパン</publisher>
+      <location>7</location>
+      <sourceRom />
+      <language>256</language>
+      <files>
+        <romCRC extension=".iso">00000185</romCRC>
+      </files>
+      <im1CRC>16087BBB</im1CRC>
+      <im2CRC>99913641</im2CRC>
+      <comment>2009-7-9</comment>
+    </game>
+	<game>
+      <imageNumber>186</imageNumber>
+      <releaseNumber>186</releaseNumber>
+      <title>MLB 2K9(英語版)</title>
+      <publisher>スパイク</publisher>
+      <location>7</location>
+      <sourceRom />
+      <language>256</language>
+      <files>
+        <romCRC extension=".iso">00000186</romCRC>
+      </files>
+      <im1CRC>D11D6726</im1CRC>
+      <im2CRC>0C6F5595</im2CRC>
+      <comment>2009-7-9</comment>
+    </game>
+	<game>
+      <imageNumber>187</imageNumber>
+      <releaseNumber>187</releaseNumber>
+      <title>プロ野球スピリッツ6</title>
+      <publisher>コナミデジタルエンタテインメント</publisher>
+      <location>7</location>
+      <sourceRom />
+      <language>256</language>
+      <files>
+        <romCRC extension=".iso">00000187</romCRC>
+      </files>
+      <im1CRC>24F8A246</im1CRC>
+      <im2CRC>33392F85</im2CRC>
+      <comment>2009-7-16</comment>
+    </game>
+	<game>
+      <imageNumber>188</imageNumber>
+      <releaseNumber>188</releaseNumber>
+      <title>塊魂トリビュート</title>
+      <publisher>バンダイナムコゲームス</publisher>
+      <location>7</location>
+      <sourceRom />
+      <language>256</language>
+      <files>
+        <romCRC extension=".iso">00000188</romCRC>
+      </files>
+      <im1CRC>F06C4596</im1CRC>
+      <im2CRC>1500B583</im2CRC>
+      <comment>2009-7-23</comment>
+    </game>
+	<game>
+      <imageNumber>189</imageNumber>
+      <releaseNumber>189</releaseNumber>
+      <title>トロともりもり</title>
+      <publisher>ソニー</publisher>
+      <location>7</location>
+      <sourceRom />
+      <language>256</language>
+      <files>
+        <romCRC extension=".iso">00000189</romCRC>
+      </files>
+      <im1CRC>7346F3BC</im1CRC>
+      <im2CRC>3A71E995</im2CRC>
+      <comment>2009-7-23</comment>
+    </game>
+	<game>
+      <imageNumber>190</imageNumber>
+      <releaseNumber>190</releaseNumber>
+      <title>コール・オブ・ファレス 血の絆</title>
+      <publisher>ユービーアイ ソフト</publisher>
+      <location>7</location>
+      <sourceRom />
+      <language>256</language>
+      <files>
+        <romCRC extension=".iso">00000190</romCRC>
+      </files>
+      <im1CRC>1F7B83F0</im1CRC>
+      <im2CRC>AAC4F78C</im2CRC>
+      <comment>2009-7-23</comment>
+    </game>
+	<game>
+      <imageNumber>191</imageNumber>
+      <releaseNumber>191</releaseNumber>
+      <title>50 Cent: Blood on the Sand</title>
+      <publisher>ベセスダ・ソフトワークス</publisher>
+      <location>7</location>
+      <sourceRom />
+      <language>256</language>
+      <files>
+        <romCRC extension=".iso">00000191</romCRC>
+      </files>
+      <im1CRC>65CB3348</im1CRC>
+      <im2CRC>26A26A74</im2CRC>
+      <comment>2009-7-23</comment>
+    </game>
+	<game>
+      <imageNumber>192</imageNumber>
+      <releaseNumber>192</releaseNumber>
+      <title>TOP SPIN 3</title>
+      <publisher>ディースリー・パブリッシャー</publisher>
+      <location>7</location>
+      <sourceRom />
+      <language>256</language>
+      <files>
+        <romCRC extension=".iso">00000192</romCRC>
+      </files>
+      <im1CRC>509325A5</im1CRC>
+      <im2CRC>481D79E7</im2CRC>
+      <comment>2009-7-30</comment>
+    </game>
+    <game>
+      <imageNumber>193</imageNumber>
+      <releaseNumber>193</releaseNumber>
+      <title>THE KING OF FIGHTERS XII</title>
+      <publisher>SNKプレイモア</publisher>
+      <location>7</location>
+      <sourceRom />
+      <language>256</language>
+      <files>
+        <romCRC extension=".iso">00000193</romCRC>
+      </files>
+      <im1CRC>094B9F1E</im1CRC>
+      <im2CRC>9C2F67F7</im2CRC>
+      <comment>2009-7-30</comment>
+    </game>
+    <game>
+      <imageNumber>194</imageNumber>
+      <releaseNumber>194</releaseNumber>
+      <title>ジャンラインR</title>
+      <publisher>レコム</publisher>
+      <location>7</location>
+      <sourceRom />
+      <language>256</language>
+      <files>
+        <romCRC extension=".iso">00000194</romCRC>
+      </files>
+      <im1CRC>5910C2B5</im1CRC>
+      <im2CRC>7659BB32</im2CRC>
+      <comment>2009-8-6</comment>
+    </game>
+    <game>
+      <imageNumber>195</imageNumber>
+      <releaseNumber>195</releaseNumber>
+      <title>Red Faction: Guerrilla</title>
+      <publisher>スパイク</publisher>
+      <location>7</location>
+      <sourceRom />
+      <language>256</language>
+      <files>
+        <romCRC extension=".iso">00000195</romCRC>
+      </files>
+      <im1CRC>574C0A2C</im1CRC>
+      <im2CRC>B1C36687</im2CRC>
+      <comment>2009-8-6</comment>
+    </game>
+    <game>
+      <imageNumber>196</imageNumber>
+      <releaseNumber>196</releaseNumber>
+      <title>F.E.A.R.2 PROJECT ORIGIN</title>
+      <publisher>サイバーフロント</publisher>
+      <location>7</location>
+      <sourceRom />
+      <language>256</language>
+      <files>
+        <romCRC extension=".iso">00000196</romCRC>
+      </files>
+      <im1CRC>60E35E91</im1CRC>
+      <im2CRC>968CF89D</im2CRC>
+      <comment>2009-8-27</comment>
+    </game>
+    <game>
+      <imageNumber>197</imageNumber>
+      <releaseNumber>197</releaseNumber>
+      <title>機動戦士ガンダム戦記</title>
+      <publisher>バンダイナムコゲームス</publisher>
+      <location>7</location>
+      <sourceRom />
+      <language>256</language>
+      <files>
+        <romCRC extension=".iso">00000197</romCRC>
+      </files>
+      <im1CRC>2892D417</im1CRC>
+      <im2CRC>591A13F1</im2CRC>
+      <comment>2009-9-3</comment>
+    </game>
+    <game>
+      <imageNumber>198</imageNumber>
+      <releaseNumber>198</releaseNumber>
+      <title>428 ～封鎖された渋谷で～</title>
+      <publisher>スパイク</publisher>
+      <location>7</location>
+      <sourceRom />
+      <language>256</language>
+      <files>
+        <romCRC extension=".iso">00000198</romCRC>
+      </files>
+      <im1CRC>2BA4DA5D</im1CRC>
+      <im2CRC>61CF53D6</im2CRC>
+      <comment>2009-9-3</comment>
+    </game>
+    <game>
+      <imageNumber>199</imageNumber>
+      <releaseNumber>199</releaseNumber>
+      <title>シヴィライゼーション レボリューション スタンダード</title>
+      <publisher>サイバーフロント</publisher>
+      <location>7</location>
+      <sourceRom />
+      <language>256</language>
+      <files>
+        <romCRC extension=".iso">00000199</romCRC>
+      </files>
+      <im1CRC>3542C7F7</im1CRC>
+      <im2CRC>7A912949</im2CRC>
+      <comment>2009-9-10</comment>
+    </game>
+    <game>
+      <imageNumber>200</imageNumber>
+      <releaseNumber>200</releaseNumber>
+      <title>CALL of DUTY4 MODERN WARFARE</title>
+      <publisher>スクウェア・エニックス</publisher>
+      <location>7</location>
+      <sourceRom />
+      <language>256</language>
+      <files>
+        <romCRC extension=".iso">00000200</romCRC>
+      </files>
+      <im1CRC>2D7D144E</im1CRC>
+      <im2CRC>EB6C7213</im2CRC>
+      <comment>2009-9-10</comment>
+    </game>
+    <game>
+      <imageNumber>201</imageNumber>
+      <releaseNumber>201</releaseNumber>
+      <title>魔界戦記ディスガイア3 ラズベリル編はじめました。</title>
+      <publisher>日本一ソフトウェア</publisher>
+      <location>7</location>
+      <sourceRom />
+      <language>256</language>
+      <files>
+        <romCRC extension=".iso">00000201</romCRC>
+      </files>
+      <im1CRC>56D551CC</im1CRC>
+      <im2CRC>490C2AA7</im2CRC>
+      <comment>2009-9-17</comment>
+    </game>
+    <game>
+      <imageNumber>202</imageNumber>
+      <releaseNumber>202</releaseNumber>
+      <title>テイルズ オブ ヴェスペリア</title>
+      <publisher>バンダイナムコゲームス</publisher>
+      <location>7</location>
+      <sourceRom />
+      <language>256</language>
+      <files>
+        <romCRC extension=".iso">00000202</romCRC>
+      </files>
+      <im1CRC>1FE6AF16</im1CRC>
+      <im2CRC>C048E13D</im2CRC>
+      <comment>2009-9-17</comment>
+    </game>
+    <game>
+      <imageNumber>203</imageNumber>
+      <releaseNumber>203</releaseNumber>
+      <title>ティアーズ・トゥ・ティアラ外伝 アヴァロンの謎</title>
+      <publisher>AQインタラクティブ</publisher>
+      <location>7</location>
+      <sourceRom />
+      <language>256</language>
+      <files>
+        <romCRC extension=".iso">00000203</romCRC>
+      </files>
+      <im1CRC>4B4DA1E3</im1CRC>
+      <im2CRC>B40F8D60</im2CRC>
+      <comment>2009-9-17</comment>
+    </game>
+    <game>
+      <imageNumber>204</imageNumber>
+      <releaseNumber>204</releaseNumber>
+      <title>ターミネーター サルベーション</title>
+      <publisher>タイトー</publisher>
+      <location>7</location>
+      <sourceRom />
+      <language>256</language>
+      <files>
+        <romCRC extension=".iso">00000204</romCRC>
+      </files>
+      <im1CRC>D42EEFDC</im1CRC>
+      <im2CRC>E76A7471</im2CRC>
+      <comment>2009-9-17</comment>
+    </game>
+    <game>
+      <imageNumber>205</imageNumber>
+      <releaseNumber>205</releaseNumber>
+      <title>WET</title>
+      <publisher>ベセスダ・ソフトワークス</publisher>
+      <location>7</location>
+      <sourceRom />
+      <language>256</language>
+      <files>
+        <romCRC extension=".iso">00000205</romCRC>
+      </files>
+      <im1CRC>6F9FBE67</im1CRC>
+      <im2CRC>FE163ADA</im2CRC>
+      <comment>2009-9-17</comment>
+    </game>
+    <game>
+      <imageNumber>206</imageNumber>
+      <releaseNumber>206</releaseNumber>
+      <title>FUEL</title>
+      <publisher>コードマスターズ</publisher>
+      <location>7</location>
+      <sourceRom />
+      <language>256</language>
+      <files>
+        <romCRC extension=".iso">00000206</romCRC>
+      </files>
+      <im1CRC>932EF5C2</im1CRC>
+      <im2CRC>D4A99346</im2CRC>
+      <comment>2009-9-17</comment>
+    </game>
+    <game>
+      <imageNumber>207</imageNumber>
+      <releaseNumber>207</releaseNumber>
+      <title>真・三國無双 MULTI RAID Special</title>
+      <publisher>コーエー</publisher>
+      <location>7</location>
+      <sourceRom />
+      <language>256</language>
+      <files>
+        <romCRC extension=".iso">00000207</romCRC>
+      </files>
+      <im1CRC>98DF3031</im1CRC>
+      <im2CRC>24788A3F</im2CRC>
+      <comment>2009-10-1</comment>
+    </game>
+    <game>
+      <imageNumber>208</imageNumber>
+      <releaseNumber>208</releaseNumber>
+      <title>トリニティ・ユニバース</title>
+      <publisher>アイディアファクトリー</publisher>
+      <location>7</location>
+      <sourceRom />
+      <language>256</language>
+      <files>
+        <romCRC extension=".iso">00000208</romCRC>
+      </files>
+      <im1CRC>141935A7</im1CRC>
+      <im2CRC>75A79EAF</im2CRC>
+      <comment>2009-10-1</comment>
+    </game>
+    <game>
+      <imageNumber>209</imageNumber>
+      <releaseNumber>209</releaseNumber>
+      <title>NINJA GAIDEN Σ2</title>
+      <publisher>テクモ</publisher>
+      <location>7</location>
+      <sourceRom />
+      <language>256</language>
+      <files>
+        <romCRC extension=".iso">00000209</romCRC>
+      </files>
+      <im1CRC>2C9309BA</im1CRC>
+      <im2CRC>554DCBAC</im2CRC>
+      <comment>2009-10-1</comment>
+    </game>
+    <game>
+      <imageNumber>210</imageNumber>
+      <releaseNumber>210</releaseNumber>
+      <title>アンチャーテッド 黄金刀と消えた船団</title>
+      <publisher>ソニー</publisher>
+      <location>7</location>
+      <sourceRom />
+      <language>256</language>
+      <files>
+        <romCRC extension=".iso">00000210</romCRC>
+      </files>
+      <im1CRC>A5E48452</im1CRC>
+      <im2CRC>7F51E693</im2CRC>
+      <comment>2009-10-15</comment>
+    </game>
+    <game>
+      <imageNumber>211</imageNumber>
+      <releaseNumber>211</releaseNumber>
+      <title>UFC 2009 Undisputed</title>
+      <publisher>ユークス</publisher>
+      <location>7</location>
+      <sourceRom />
+      <language>256</language>
+      <files>
+        <romCRC extension=".iso">00000211</romCRC>
+      </files>
+      <im1CRC>1614046B</im1CRC>
+      <im2CRC>8D87A627</im2CRC>
+      <comment>2009-10-15</comment>
+    </game>
+    <game>
+      <imageNumber>212</imageNumber>
+      <releaseNumber>212</releaseNumber>
+      <title>NHL 2K10 (英語版)</title>
+      <publisher>スパイク</publisher>
+      <location>7</location>
+      <sourceRom />
+      <language>256</language>
+      <files>
+        <romCRC extension=".iso">00000212</romCRC>
+      </files>
+      <im1CRC>AC91238C</im1CRC>
+      <im2CRC>AF1102B2</im2CRC>
+      <comment>2009-10-15</comment>
+    </game>
+    <game>
+      <imageNumber>213</imageNumber>
+      <releaseNumber>213</releaseNumber>
+      <title>NBA 2K10 (英語版)</title>
+      <publisher>スパイク</publisher>
+      <location>7</location>
+      <sourceRom />
+      <language>256</language>
+      <files>
+        <romCRC extension=".iso">00000213</romCRC>
+      </files>
+      <im1CRC>94E47118</im1CRC>
+      <im2CRC>AE81D807</im2CRC>
+      <comment>2009-10-15</comment>
+    </game>
+    <game>
+      <imageNumber>214</imageNumber>
+      <releaseNumber>214</releaseNumber>
+      <title>FIFA10 ワールドクラスサッカ</title>
+      <publisher>エレクトロニック・アーツ</publisher>
+      <location>7</location>
+      <sourceRom />
+      <language>256</language>
+      <files>
+        <romCRC extension=".iso">00000214</romCRC>
+      </files>
+      <im1CRC>C5BBB9BE</im1CRC>
+      <im2CRC>AE00B030</im2CRC>
+      <comment>2009-10-22</comment>
+    </game>
+    <game>
+      <imageNumber>215</imageNumber>
+      <releaseNumber>215</releaseNumber>
+      <title>鉄拳6</title>
+      <publisher>バンダイナムコゲームス</publisher>
+      <location>7</location>
+      <sourceRom />
+      <language>256</language>
+      <files>
+        <romCRC extension=".iso">00000215</romCRC>
+      </files>
+      <im1CRC>7C8AE17E</im1CRC>
+      <im2CRC>6D14E89F</im2CRC>
+      <comment>2009-10-29</comment>
+    </game>
+    <game>
+      <imageNumber>216</imageNumber>
+      <releaseNumber>216</releaseNumber>
+      <title>BAYONETTA</title>
+      <publisher>セガ</publisher>
+      <location>7</location>
+      <sourceRom />
+      <language>256</language>
+      <files>
+        <romCRC extension=".iso">00000216</romCRC>
+      </files>
+      <im1CRC>D61B6E01</im1CRC>
+      <im2CRC>EA826FB4</im2CRC>
+      <comment>2009-10-29</comment>
+    </game>
+    <game>
+      <imageNumber>217</imageNumber>
+      <releaseNumber>217</releaseNumber>
+      <title>WORLD SOCCER Winning Eleven 2010</title>
+      <publisher>コナミデジタルエンタテインメント</publisher>
+      <location>7</location>
+      <sourceRom />
+      <language>256</language>
+      <files>
+        <romCRC extension=".iso">00000217</romCRC>
+      </files>
+      <im1CRC>75B5C746</im1CRC>
+      <im2CRC>0C87282E</im2CRC>
+      <comment>2009-11-05</comment>
+    </game>
+    <game>
+      <imageNumber>218</imageNumber>
+      <releaseNumber>218</releaseNumber>
+      <title>NBA LIVE 10</title>
+      <publisher>エレクトロニック・アーツ</publisher>
+      <location>7</location>
+      <sourceRom />
+      <language>256</language>
+      <files>
+        <romCRC extension=".iso">00000218</romCRC>
+      </files>
+      <im1CRC>9F17808F</im1CRC>
+      <im2CRC>AE5FBFB8</im2CRC>
+      <comment>2009-11-05</comment>
+    </game>
+    <game>
+      <imageNumber>219</imageNumber>
+      <releaseNumber>219</releaseNumber>
+      <title>INFAMOUS 悪名高き男</title>
+      <publisher>ソニー</publisher>
+      <location>7</location>
+      <sourceRom />
+      <language>256</language>
+      <files>
+        <romCRC extension=".iso">00000219</romCRC>
+      </files>
+      <im1CRC>5741E6FD</im1CRC>
+      <im2CRC>8BC4B1EE</im2CRC>
+      <comment>2009-11-05</comment>
+    </game>
+    <game>
+      <imageNumber>220</imageNumber>
+      <releaseNumber>220</releaseNumber>
+      <title>Colin McRae：DiRT 2</title>
+      <publisher>コードマスターズ</publisher>
+      <location>7</location>
+      <sourceRom />
+      <language>256</language>
+      <files>
+        <romCRC extension=".iso">00000220</romCRC>
+      </files>
+      <im1CRC>EF56C7EE</im1CRC>
+      <im2CRC>E45D5035</im2CRC>
+      <comment>2009-11-05</comment>
+    </game>
+    <game>
+      <imageNumber>221</imageNumber>
+      <releaseNumber>221</releaseNumber>
+      <title>3Dドットゲームヒーローズ</title>
+      <publisher>フロム・ソフトウェア</publisher>
+      <location>7</location>
+      <sourceRom />
+      <language>256</language>
+      <files>
+        <romCRC extension=".iso">00000221</romCRC>
+      </files>
+      <im1CRC>52D2A913</im1CRC>
+      <im2CRC>B588BE2A</im2CRC>
+      <comment>2009-11-05</comment>
+    </game>
+    <game>
+      <imageNumber>222</imageNumber>
+      <releaseNumber>222</releaseNumber>
+      <title>ニードフォースピード シフト</title>
+      <publisher>エレクトロニック・アーツ</publisher>
+      <location>7</location>
+      <sourceRom />
+      <language>256</language>
+      <files>
+        <romCRC extension=".iso">00000222</romCRC>
+      </files>
+      <im1CRC>B1518669</im1CRC>
+      <im2CRC>616E6B59</im2CRC>
+      <comment>2009-11-12</comment>
+    </game>
+    <game>
+      <imageNumber>223</imageNumber>
+      <releaseNumber>223</releaseNumber>
+      <title>ドラゴンボール レイジングブラスト</title>
+      <publisher>バンダイナムコゲームス</publisher>
+      <location>7</location>
+      <sourceRom />
+      <language>256</language>
+      <files>
+        <romCRC extension=".iso">00000223</romCRC>
+      </files>
+      <im1CRC>57C49DE1</im1CRC>
+      <im2CRC>A268E7FF</im2CRC>
+      <comment>2009-11-12</comment>
+    </game>
+    <game>
+      <imageNumber>224</imageNumber>
+      <releaseNumber>224</releaseNumber>
+      <title>ラチェット＆クランク FUTURE 2</title>
+      <publisher>ソニー</publisher>
+      <location>7</location>
+      <sourceRom />
+      <language>256</language>
+      <files>
+        <romCRC extension=".iso">00000224</romCRC>
+      </files>
+      <im1CRC>40105830</im1CRC>
+      <im2CRC>9A35B2D6</im2CRC>
+      <comment>2009-11-19</comment>
+    </game>
+    <game>
+      <imageNumber>225</imageNumber>
+      <releaseNumber>225</releaseNumber>
+      <title>アサシン クリードII</title>
+      <publisher>ユービーアイ ソフト</publisher>
+      <location>7</location>
+      <sourceRom />
+      <language>256</language>
+      <files>
+        <romCRC extension=".iso">00000225</romCRC>
+      </files>
+      <im1CRC>A4425ECF</im1CRC>
+      <im2CRC>20D2E3EF</im2CRC>
+      <comment>2009-12-03</comment>
+    </game>
+    <game>
+      <imageNumber>226</imageNumber>
+      <releaseNumber>226</releaseNumber>
+      <title>Fallout 3: 追加コンテンツパック</title>
+      <publisher>ベセスダ・ソフトワークス</publisher>
+      <location>7</location>
+      <sourceRom />
+      <language>256</language>
+      <files>
+        <romCRC extension=".iso">00000226</romCRC>
+      </files>
+      <im1CRC>96F3A92B</im1CRC>
+      <im2CRC>B6EB1586</im2CRC>
+      <comment>2009-12-03</comment>
+    </game>
+    <game>
+      <imageNumber>227</imageNumber>
+      <releaseNumber>227</releaseNumber>
+      <title>Fallout 3: Game of the Year Edition</title>
+      <publisher>ベセスダ・ソフトワークス</publisher>
+      <location>7</location>
+      <sourceRom />
+      <language>256</language>
+      <files>
+        <romCRC extension=".iso">00000227</romCRC>
+      </files>
+      <im1CRC>77941F6E</im1CRC>
+      <im2CRC>C75AE256</im2CRC>
+      <comment>2009-12-03</comment>
+    </game>
+    <game>
+      <imageNumber>228</imageNumber>
+      <releaseNumber>228</releaseNumber>
+      <title>コール オブ デューティ モダン・ウォーフェア2</title>
+      <publisher>スクウェア・エニックス</publisher>
+      <location>7</location>
+      <sourceRom />
+      <language>256</language>
+      <files>
+        <romCRC extension=".iso">00000228</romCRC>
+      </files>
+      <im1CRC>D1850478</im1CRC>
+      <im2CRC>C1BEBFDE</im2CRC>
+      <comment>2009-12-10</comment>
+    </game>
+    <game>
+      <imageNumber>229</imageNumber>
+      <releaseNumber>229</releaseNumber>
+      <title>大航海時代Online El Oriente</title>
+      <publisher>コーエー</publisher>
+      <location>7</location>
+      <sourceRom />
+      <language>256</language>
+      <files>
+        <romCRC extension=".iso">00000229</romCRC>
+      </files>
+      <im1CRC>4D78B940</im1CRC>
+      <im2CRC>35B5AB1F</im2CRC>
+      <comment>2009-12-15</comment>
+    </game>
+    <game>
+      <imageNumber>230</imageNumber>
+      <releaseNumber>230</releaseNumber>
+      <title>ガンダム無双2 GUNDAM 30th ANNIVERSARY COLLECTION</title>
+      <publisher>バンダイナムコゲームス</publisher>
+      <location>7</location>
+      <sourceRom />
+      <language>256</language>
+      <files>
+        <romCRC extension=".iso">00000230</romCRC>
+      </files>
+      <im1CRC>6FD50E3A</im1CRC>
+      <im2CRC>D480E49A</im2CRC>
+      <comment>2009-12-17</comment>
+    </game>
+    <game>
+      <imageNumber>231</imageNumber>
+      <releaseNumber>231</releaseNumber>
+      <title>FINAL FANTASY XIII</title>
+      <publisher>スクウェア・エニックス</publisher>
+      <location>7</location>
+      <sourceRom />
+      <language>256</language>
+      <files>
+        <romCRC extension=".iso">00000231</romCRC>
+      </files>
+      <im1CRC>74BB82D0</im1CRC>
+      <im2CRC>8780B5EB</im2CRC>
+      <comment>2009-12-17</comment>
+    </game>
+    <game>
+      <imageNumber>232</imageNumber>
+      <releaseNumber>232</releaseNumber>
+      <title>アバターTHE GAME</title>
+      <publisher>ユービーアイ ソフト</publisher>
+      <location>7</location>
+      <sourceRom />
+      <language>256</language>
+      <files>
+        <romCRC extension=".iso">00000232</romCRC>
+      </files>
+      <im1CRC>88D46F80</im1CRC>
+      <im2CRC>EC8B7647</im2CRC>
+      <comment>2010-01-07</comment>
+    </game>
+    <game>
+      <imageNumber>233</imageNumber>
+      <releaseNumber>233</releaseNumber>
+      <title>バットマン アーカム・アサイラム</title>
+      <publisher>スクウェア・エニックス</publisher>
+      <location>7</location>
+      <sourceRom />
+      <language>256</language>
+      <files>
+        <romCRC extension=".iso">00000233</romCRC>
+      </files>
+      <im1CRC>56F0E716</im1CRC>
+      <im2CRC>5B61CBE4</im2CRC>
+      <comment>2010-01-14</comment>
+    </game>
+    <game>
+      <imageNumber>234</imageNumber>
+      <releaseNumber>234</releaseNumber>
+      <title>OPERATION FLASHPOINT : DRAGON RISING</title>
+      <publisher>コードマスターズ</publisher>
+      <location>7</location>
+      <sourceRom />
+      <language>256</language>
+      <files>
+        <romCRC extension=".iso">00000234</romCRC>
+      </files>
+      <im1CRC>9350E801</im1CRC>
+      <im2CRC>C7E68EF2</im2CRC>
+      <comment>2010-01-14</comment>
+    </game>
+    <game>
+      <imageNumber>235</imageNumber>
+      <releaseNumber>235</releaseNumber>
+      <title>ラストリベリオン</title>
+      <publisher>日本一ソフトウェア</publisher>
+      <location>7</location>
+      <sourceRom />
+      <language>256</language>
+      <files>
+        <romCRC extension=".iso">00000235</romCRC>
+      </files>
+      <im1CRC>A439254B</im1CRC>
+      <im2CRC>20AAB146</im2CRC>
+      <comment>2010-01-28</comment>
+    </game>
+    <game>
+      <imageNumber>236</imageNumber>
+      <releaseNumber>236</releaseNumber>
+      <title>ファイトナイト ラウンド4 英語版</title>
+      <publisher>エレクトロニック・アーツ</publisher>
+      <location>7</location>
+      <sourceRom />
+      <language>256</language>
+      <files>
+        <romCRC extension=".iso">00000236</romCRC>
+      </files>
+      <im1CRC>CD3BC66A</im1CRC>
+      <im2CRC>01D95A4B</im2CRC>
+      <comment>2010-01-28</comment>
+    </game>
+    <game>
+      <imageNumber>237</imageNumber>
+      <releaseNumber>237</releaseNumber>
+      <title>アルトネリコ3 世界の終焉の引鉄は少女の詩が弾く</title>
+      <publisher>バンダイナムコゲームス</publisher>
+      <location>7</location>
+      <sourceRom />
+      <language>256</language>
+      <files>
+        <romCRC extension=".iso">00000237</romCRC>
+      </files>
+      <im1CRC>7464F9B4</im1CRC>
+      <im2CRC>0A65FB6B</im2CRC>
+      <comment>2010-01-28</comment>
+    </game>
+    <game>
+      <imageNumber>238</imageNumber>
+      <releaseNumber>238</releaseNumber>
+      <title>WWE 2010 SMACKDOWN VS RAW</title>
+      <publisher>ティー・エイチ・キュー・ジャパン</publisher>
+      <location>7</location>
+      <sourceRom />
+      <language>256</language>
+      <files>
+        <romCRC extension=".iso">00000238</romCRC>
+      </files>
+      <im1CRC>05CE994C</im1CRC>
+      <im2CRC>88C49681</im2CRC>
+      <comment>2010-01-28</comment>
+    </game>
+    <game>
+      <imageNumber>239</imageNumber>
+      <releaseNumber>239</releaseNumber>
+      <title>MASSIVE ACTION GAME(MAG)</title>
+      <publisher>ソニー</publisher>
+      <location>7</location>
+      <sourceRom />
+      <language>256</language>
+      <files>
+        <romCRC extension=".iso">00000239</romCRC>
+      </files>
+      <im1CRC>D0A7A661</im1CRC>
+      <im2CRC>11714F2D</im2CRC>
+      <comment>2010-01-28</comment>
+    </game>
+    <game>
+      <imageNumber>240</imageNumber>
+      <releaseNumber>240</releaseNumber>
+      <title>End of Eternity</title>
+      <publisher>セガ</publisher>
+      <location>7</location>
+      <sourceRom />
+      <language>256</language>
+      <files>
+        <romCRC extension=".iso">00000240</romCRC>
+      </files>
+      <im1CRC>CF5D0E3E</im1CRC>
+      <im2CRC>63893F29</im2CRC>
+      <comment>2010-01-28</comment>
+    </game>
+    <game>
+      <imageNumber>241</imageNumber>
+      <releaseNumber>241</releaseNumber>
+      <title>スターオーシャン4　-THE LAST HOPE- INTERNATIONAL</title>
+      <publisher>スクウェア・エニックス</publisher>
+      <location>7</location>
+      <sourceRom />
+      <language>256</language>
+      <files>
+        <romCRC extension=".iso">00000241</romCRC>
+      </files>
+      <im1CRC>3CE92985</im1CRC>
+      <im2CRC>D445A420</im2CRC>
+      <comment>2010-02-04</comment>
+    </game>
+    <game>
+      <imageNumber>242</imageNumber>
+      <releaseNumber>242</releaseNumber>
+      <title>セイクリッド2</title>
+      <publisher>スパイク</publisher>
+      <location>7</location>
+      <sourceRom />
+      <language>256</language>
+      <files>
+        <romCRC extension=".iso">00000242</romCRC>
+      </files>
+      <im1CRC>27C1FD5E</im1CRC>
+      <im2CRC>D3BBEF46</im2CRC>
+      <comment>2010-02-10</comment>
+    </game>
+    <game>
+      <imageNumber>243</imageNumber>
+      <releaseNumber>243</releaseNumber>
+      <title>Winter Sports 2010 - The Great Tournament</title>
+      <publisher>アークシステムワークス</publisher>
+      <location>7</location>
+      <sourceRom />
+      <language>256</language>
+      <files>
+        <romCRC extension=".iso">00000243</romCRC>
+      </files>
+      <im1CRC>0132C66A</im1CRC>
+      <im2CRC>6D55804A</im2CRC>
+      <comment>2010-02-10</comment>
+    </game>
+    <game>
+      <imageNumber>244</imageNumber>
+      <releaseNumber>244</releaseNumber>
+      <title>真・三國無双 Online ～神将乱舞～</title>
+      <publisher>アークシステムワークス</publisher>
+      <location>7</location>
+      <sourceRom />
+      <language>256</language>
+      <files>
+        <romCRC extension=".iso">00000244</romCRC>
+      </files>
+      <im1CRC>85D422F0</im1CRC>
+      <im2CRC>138E5A3D</im2CRC>
+      <comment>2010-02-18</comment>
+    </game>
+    <game>
+      <imageNumber>245</imageNumber>
+      <releaseNumber>245</releaseNumber>
+      <title>バイオハザード 5 Alternative Edition</title>
+      <publisher>カプコン</publisher>
+      <location>7</location>
+      <sourceRom />
+      <language>256</language>
+      <files>
+        <romCRC extension=".iso">00000245</romCRC>
+      </files>
+      <im1CRC>281F88AC</im1CRC>
+      <im2CRC>390F04E8</im2CRC>
+      <comment>2010-02-18</comment>
+    </game>
+    <game>
+      <imageNumber>246</imageNumber>
+      <releaseNumber>246</releaseNumber>
+      <title>ダンテズ・インフェルノ ～神曲 地獄篇～</title>
+      <publisher>エレクトロニック・アーツ</publisher>
+      <location>7</location>
+      <sourceRom />
+      <language>256</language>
+      <files>
+        <romCRC extension=".iso">00000246</romCRC>
+      </files>
+      <im1CRC>1ED799A9</im1CRC>
+      <im2CRC>003B50B7</im2CRC>
+      <comment>2010-02-18</comment>
+    </game>
+    <game>
+      <imageNumber>247</imageNumber>
+      <releaseNumber>247</releaseNumber>
+      <title>HEAVY RAIN －心の軋むとき－</title>
+      <publisher>ソニー</publisher>
+      <location>7</location>
+      <sourceRom />
+      <language>256</language>
+      <files>
+        <romCRC extension=".iso">00000247</romCRC>
+      </files>
+      <im1CRC>E2404A7D</im1CRC>
+      <im2CRC>72BBF8DC</im2CRC>
+      <comment>2010-02-18</comment>
+    </game>
+    <game>
+      <imageNumber>248</imageNumber>
+      <releaseNumber>248</releaseNumber>
+      <title>Eat Lead～マットハザードの逆襲～</title>
+      <publisher>ディースリー・パブリッシャー</publisher>
+      <location>7</location>
+      <sourceRom />
+      <language>256</language>
+      <files>
+        <romCRC extension=".iso">00000248</romCRC>
+      </files>
+      <im1CRC>3482A297</im1CRC>
+      <im2CRC>7C44434D</im2CRC>
+      <comment>2010-02-18</comment>
+    </game>
+    <game>
+      <imageNumber>249</imageNumber>
+      <releaseNumber>249</releaseNumber>
+      <title>信長の野望 天道</title>
+      <publisher>コーエー</publisher>
+      <location>7</location>
+      <sourceRom />
+      <language>256</language>
+      <files>
+        <romCRC extension=".iso">00000249</romCRC>
+      </files>
+      <im1CRC>003B50C6</im1CRC>
+      <im2CRC>64870A3A</im2CRC>
+      <comment>2010-03-04</comment>
+    </game>
+    <game>
+      <imageNumber>250</imageNumber>
+      <releaseNumber>250</releaseNumber>
+      <title>BIOSHOCK 2</title>
+      <publisher>ディースリー・パブリッシャー</publisher>
+      <location>7</location>
+      <sourceRom />
+      <language>256</language>
+      <files>
+        <romCRC extension=".iso">00000250</romCRC>
+      </files>
+      <im1CRC>CE842D25</im1CRC>
+      <im2CRC>49B25177</im2CRC>
+      <comment>2010-03-04</comment>
+    </game>
+    <game>
+      <imageNumber>251</imageNumber>
+      <releaseNumber>251</releaseNumber>
+      <title>バトルフィールド:バッドカンパニー2</title>
+      <publisher>エレクトロニック・アーツ</publisher>
+      <location>7</location>
+      <sourceRom />
+      <language>256</language>
+      <files>
+        <romCRC extension=".iso">00000251</romCRC>
+      </files>
+      <im1CRC>749C421F</im1CRC>
+      <im2CRC>E27365E5</im2CRC>
+      <comment>2010-03-11</comment>
+    </game>
+    <game>
+      <imageNumber>252</imageNumber>
+      <releaseNumber>252</releaseNumber>
+      <title>Red Seeds Profile -レッド シーズ プロファイル-</title>
+      <publisher>マーベラスエンターテイメント</publisher>
+      <location>7</location>
+      <sourceRom />
+      <language>256</language>
+      <files>
+        <romCRC extension=".iso">00000252</romCRC>
+      </files>
+      <im1CRC>967E1DF5</im1CRC>
+      <im2CRC>F465C94D</im2CRC>
+      <comment>2010-03-11</comment>
+    </game>
+    <game>
+      <imageNumber>253</imageNumber>
+      <releaseNumber>253</releaseNumber>
+      <title>龍が如く4 伝説を継ぐもの</title>
+      <publisher>セガ</publisher>
+      <location>7</location>
+      <sourceRom />
+      <language>256</language>
+      <files>
+        <romCRC extension=".iso">00000253</romCRC>
+      </files>
+      <im1CRC>8531EBFA</im1CRC>
+      <im2CRC>CC76C664</im2CRC>
+      <comment>2010-03-11</comment>
+    </game>
+    <game>
+      <imageNumber>254</imageNumber>
+      <releaseNumber>254</releaseNumber>
+      <title>DARKSIDERS 審判の時</title>
+      <publisher>コナミデジタルエンタテインメント</publisher>
+      <location>7</location>
+      <sourceRom />
+      <language>256</language>
+      <files>
+        <romCRC extension=".iso">00000254</romCRC>
+      </files>
+      <im1CRC>051A7800</im1CRC>
+      <im2CRC>D4154425</im2CRC>
+      <comment>2010-03-18</comment>
+    </game>
+    <game>
+      <imageNumber>255</imageNumber>
+      <releaseNumber>255</releaseNumber>
+      <title>北斗無双</title>
+      <publisher>コーエー</publisher>
+      <location>7</location>
+      <sourceRom />
+      <language>256</language>
+      <files>
+        <romCRC extension=".iso">00000255</romCRC>
+      </files>
+      <im1CRC>9533FC15</im1CRC>
+      <im2CRC>8219A7C1</im2CRC>
+      <comment>2010-03-25</comment>
+    </game>
+    <game>
+      <imageNumber>256</imageNumber>
+      <releaseNumber>256</releaseNumber>
+      <title>パチパラ15 ～スーパー海IN沖縄2～</title>
+      <publisher>アイレムソフトウェアエンジニアリング</publisher>
+      <location>7</location>
+      <sourceRom />
+      <language>256</language>
+      <files>
+        <romCRC extension=".iso">00000256</romCRC>
+      </files>
+      <im1CRC>1808D88D</im1CRC>
+      <im2CRC>53999B2E</im2CRC>
+      <comment>2010-03-25</comment>
+    </game>
+    <game>
+      <imageNumber>257</imageNumber>
+      <releaseNumber>257</releaseNumber>
+      <title>アーミーオブツー:The 40th Day</title>
+      <publisher>エレクトロニック・アーツ</publisher>
+      <location>7</location>
+      <sourceRom />
+      <language>256</language>
+      <files>
+        <romCRC extension=".iso">00000257</romCRC>
+      </files>
+      <im1CRC>1808D88D</im1CRC>
+      <im2CRC>53999B2E</im2CRC>
+      <comment>2010-03-25</comment>
+    </game>
+    <game>
+      <imageNumber>258</imageNumber>
+      <releaseNumber>258</releaseNumber>
+      <title>Power Smash ライブマッチ!</title>
+      <publisher>セガ</publisher>
+      <location>7</location>
+      <sourceRom />
+      <language>256</language>
+      <files>
+        <romCRC extension=".iso">00000258</romCRC>
+      </files>
+      <im1CRC>92B95204</im1CRC>
+      <im2CRC>E4DC9A3A</im2CRC>
+      <comment>2010-03-25</comment>
+    </game>
+    <game>
+      <imageNumber>259</imageNumber>
+      <releaseNumber>259</releaseNumber>
+      <title>GOD OF WAR III</title>
+      <publisher>ソニー</publisher>
+      <location>7</location>
+      <sourceRom />
+      <language>256</language>
+      <files>
+        <romCRC extension=".iso">00000259</romCRC>
+      </files>
+      <im1CRC>875AD958</im1CRC>
+      <im2CRC>99DB6677</im2CRC>
+      <comment>2010-03-25</comment>
+    </game>
+    <game>
+      <imageNumber>260</imageNumber>
+      <releaseNumber>260</releaseNumber>
+      <title>プロ野球スピリッツ2010</title>
+      <publisher>コナミデジタルエンタテインメント</publisher>
+      <location>7</location>
+      <sourceRom />
+      <language>256</language>
+      <files>
+        <romCRC extension=".iso">00000260</romCRC>
+      </files>
+      <im1CRC>D51AA637</im1CRC>
+      <im2CRC>25563592</im2CRC>
+      <comment>2010-04-01</comment>
+    </game>
+    <game>
+      <imageNumber>261</imageNumber>
+      <releaseNumber>261</releaseNumber>
+      <title>WinningPost World 2010</title>
+      <publisher>コーエー</publisher>
+      <location>7</location>
+      <sourceRom />
+      <language>256</language>
+      <files>
+        <romCRC extension=".iso">00000261</romCRC>
+      </files>
+      <im1CRC>FCDB12B9</im1CRC>
+      <im2CRC>13B78F96</im2CRC>
+      <comment>2010-04-02</comment>
+    </game>
+    <game>
+      <imageNumber>262</imageNumber>
+      <releaseNumber>262</releaseNumber>
+      <title>NO MORE HEROES 英雄たちの楽園</title>
+      <publisher>マーベラスエンターテイメント</publisher>
+      <location>7</location>
+      <sourceRom />
+      <language>256</language>
+      <files>
+        <romCRC extension=".iso">00000262</romCRC>
+      </files>
+      <im1CRC>63F93108</im1CRC>
+      <im2CRC>B1E68987</im2CRC>
+      <comment>2010-04-15</comment>
+    </game>
+    <game>
+      <imageNumber>263</imageNumber>
+      <releaseNumber>263</releaseNumber>
+      <title>NieR Replicant</title>
+      <publisher>スクウェア・エニックス</publisher>
+      <location>7</location>
+      <sourceRom />
+      <language>256</language>
+      <files>
+        <romCRC extension=".iso">00000263</romCRC>
+      </files>
+      <im1CRC>D020338C</im1CRC>
+      <im2CRC>2D32E8EC</im2CRC>
+      <comment>2010-04-22</comment>
+    </game>
+    <game>
+      <imageNumber>264</imageNumber>
+      <releaseNumber>264</releaseNumber>
+      <title>SUPER STREET FIGHTER IV</title>
+      <publisher>カプコン</publisher>
+      <location>7</location>
+      <sourceRom />
+      <language>256</language>
+      <files>
+        <romCRC extension=".iso">00000264</romCRC>
+      </files>
+      <im1CRC>D452419F</im1CRC>
+      <im2CRC>B0859776</im2CRC>
+      <comment>2010-04-28</comment>
+    </game>
+    <game>
+      <imageNumber>265</imageNumber>
+      <releaseNumber>265</releaseNumber>
+      <title>2010 FIFA ワールドカップ 南アフリカ大会</title>
+      <publisher>エレクトロニック・アーツ</publisher>
+      <location>7</location>
+      <sourceRom />
+      <language>256</language>
+      <files>
+        <romCRC extension=".iso">00000265</romCRC>
+      </files>
+      <im1CRC>F90DB86B</im1CRC>
+      <im2CRC>B7000068</im2CRC>
+      <comment>2010-05-13</comment>
+    </game>
+    <game>
+      <imageNumber>266</imageNumber>
+      <releaseNumber>266</releaseNumber>
+      <title>ワールドサッカーウイニングイレブン2010蒼き侍の挑戦</title>
+      <publisher>コナミデジタルエンタテインメント</publisher>
+      <location>7</location>
+      <sourceRom />
+      <language>256</language>
+      <files>
+        <romCRC extension=".iso">00000266</romCRC>
+      </files>
+      <im1CRC>3A73DBCF</im1CRC>
+      <im2CRC>F8DB93F5</im2CRC>
+      <comment>2010-05-20</comment>
+    </game>
+    <game>
+      <imageNumber>267</imageNumber>
+      <releaseNumber>267</releaseNumber>
+      <title>LOST PLANET 2</title>
+      <publisher>カプコン</publisher>
+      <location>7</location>
+      <sourceRom />
+      <language>256</language>
+      <files>
+        <romCRC extension=".iso">00000267</romCRC>
+      </files>
+      <im1CRC>F65DBC47</im1CRC>
+      <im2CRC>45D39D48</im2CRC>
+      <comment>2010-05-20</comment>
+    </game>
+  </games>
+  <gui>
+    <images width="607" height="351">
+      <image x="0" y="0" width="250" height="300" />
+      <image x="255" y="50" width="350" height="200" />
+    </images>
+  </gui>
+</dat>
