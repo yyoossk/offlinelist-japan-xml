@@ -1,1 +1,1 @@
-# offlinelist-japan-xml
+日本語用のものです
